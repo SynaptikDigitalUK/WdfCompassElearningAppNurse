@@ -1,0 +1,96 @@
+
+@use './../helpers/variables' as var;
+@use './../../../node_modules/bootstrap/scss/bootstrap.scss' as bs;
+
+
+.btn:not(.btn.btn-toggle) {
+
+  font-family: 'LatoWebBold';
+  text-transform: uppercase;
+
+}
+
+.btn-primary, .btn-outline-primary {
+  --bs-btn-padding-x: 24px;
+  --bs-btn-padding-y: 14px;
+
+  border-radius: 40px;
+  line-height: 16px;
+
+  @include bs.media-breakpoint-down(md) { 
+    --bs-btn-padding-x: 16px;
+    --bs-btn-padding-y: 12px;
+  
+    border-radius: 28px;
+    font-size: 12px;
+   }
+}
+
+.btn-primary {
+    background-color: var.$wdf-bright-red;
+    border-color: var.$wdf-bright-red;
+    &:hover, &.btn:active {
+      background-color: darken(var.$wdf-bright-red, 10%);
+      border-color: darken(var.$wdf-bright-red, 10%);
+    }
+    &-play:before {
+      content: ' ';
+      background: url('/assets/play.svg') no-repeat;
+      background-position: center;
+      width: 13px;
+      height: 15px;
+      margin-right: 10px;
+      display: inline-block;
+    }
+    &-dl:before {
+      content: ' ';
+      background: url('/assets/download.svg') no-repeat;
+      background-position: center;
+      background-size: 13px auto;
+      width: 13px;
+      height: 15px;
+      margin-right: 10px;
+      display: inline-block;
+      @include bs.media-breakpoint-down(md) { 
+        width: 7px;
+        height: 10px;
+        background-size: 9px auto;
+      }
+    }
+}
+
+.btn-outline-primary {
+  color: var.$wdf-bright-red;
+  border-color: var.$wdf-bright-red;
+  &:hover {
+    background-color: var.$wdf-bright-red;
+    border-color: var.$wdf-bright-red;
+    color: var.$wdf-white;
+  }
+}
+
+
+
+
+
+
+
+
+
+.btn-section-title {
+  padding: 0;
+  color: unset;
+}
+
+.btn-next-lesson {
+  // margin-top: 10px;
+  padding: 20px 20px 40px 20px;
+  border-radius: 0;
+  width: 100%;
+
+.chevron-svg img {
+  width: 12px;
+  height: 12px;
+}
+
+}

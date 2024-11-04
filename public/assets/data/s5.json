@@ -1,0 +1,590 @@
+{
+  "menu": {
+    "title": "Patient engagement in diabetes management",
+    "sectionId": "ropdm",
+    "chapters": [
+      {
+        "title": "Patient engagement in diabetes: what is it and why do we need it?",
+        "sectionId": "ropdm",
+        "chapterId": "ropdm_c1",
+        "showListing": true,
+        "chapters": [
+          {
+            "chapterId": "ropdm_c1",
+            "contentId": "ropdm_c1p1",
+            "title": "Patient engagement aims to educate and motivate individuals to be actively involved with their treatment plan"
+          },
+          {
+            "chapterId": "ropdm_c1",
+            "contentId": "ropdm_c1p2",
+            "title": "Many people with type 2 diabetes currently do not achieve their treatment goals"
+          },
+          {
+            "chapterId": "ropdm_c1",
+            "contentId": "ropdm_c1p3",
+            "title": "Engagement with diabetes has emotional, cognitive and behavioural components"
+          }
+        ]
+      },
+      {
+        "title": "Barriers to patient engagement",
+        "sectionId": "ropdm",
+        "chapterId": "ropdm_c2",
+        "showListing": true,
+        "chapters": [
+          {
+            "chapterId": "ropdm_c2",
+            "contentId": "ropdm_c2p1",
+            "title": "There are many factors that affect patient engagement levels, some of which can be addressed by healthcare professionals"
+          },
+          {
+            "chapterId": "ropdm_c2",
+            "contentId": "ropdm_c2p2",
+            "title": "There are multiple emotional and psychological barriers to engagement that should be addressed"
+          },
+          {
+            "chapterId": "ropdm_c2",
+            "contentId": "ropdm_c2p3",
+            "title": "Diabetes distress is associated with worse outcomes and should be managed promptly"
+          }
+        ]
+      },
+      {
+        "title": "Improving engagement for people with diabetes",
+        "sectionId": "ropdm",
+        "chapterId": "ropdm_c3",
+        "showListing": true,
+        "chapters": [
+          {
+            "chapterId": "ropdm_c3",
+            "contentId": "ropdm_c3p1",
+            "title": "Person-centred care is increasingly important in achieving engagement with diabetes management"
+          },
+          {
+            "chapterId": "ropdm_c3",
+            "contentId": "ropdm_c3p2",
+            "title": "Good communication from healthcare professionals is critical in boosting the patient experience"
+          },
+          {
+            "chapterId": "ropdm_c3",
+            "contentId": "ropdm_c3p3",
+            "title": "People with diabetes should have multiple means of engaging with their healthcare team"
+          },
+          {
+            "chapterId": "ropdm_c3",
+            "contentId": "ropdm_c3p4",
+            "title": "Bridging knowledge gaps is a key aspect of patient engagement"
+          },
+          {
+            "chapterId": "ropdm_c3",
+            "contentId": "ropdm_c3p5",
+            "title": "People with diabetes should have a personalized treatment plan with achievable goals"
+          },
+          {
+            "chapterId": "ropdm_c3",
+            "contentId": "ropdm_c3p6",
+            "title": "Peer support can improve outcomes for people with diabetes"
+          },
+          {
+            "chapterId": "ropdm_c3",
+            "contentId": "ropdm_c3p7",
+            "title": "Friends and family can have a large impact on an individual’s engagement with diabetes management"
+          },
+          {
+            "chapterId": "ropdm_c3",
+            "contentId": "ropdm_c3p8",
+            "title": "Meet Kwame, a 70-year-old man with type 2 diabetes"
+          }
+        ]
+      },
+      {
+        "title": "Test your knowledge",
+        "showListing": true,
+        "sectionId": "ropdm",
+        "chapterId": "ropdm_tyk",
+        "chapters": [
+          {
+            "chapterId": "ropdm_tyk",
+            "contentId": "ropdm__tyk",
+            "title": "Test your knowledge"
+          }
+        ]
+      }
+    ],
+    "learnMore": {
+      "casestudies": [
+        {
+          "title": "Case Study: Nia",
+          "chapterId": "ropdm_tyk",
+          "contentId": "ropdm_casestudy"
+        }
+      ],
+      "factsheets": [
+        {
+          "title": "Engaging patients in diabetes management",
+          "contentId": "ropdm_factsheet"
+        },
+        {
+          "title": "Identifying diabetes distress in individuals with type 2 diabetes",
+          "contentId": "ropdm_factsheet2"
+        }
+      ]
+    }
+  },
+  "content": [
+    {
+      "id": "ropdm_c1p1",
+      "component": "HtmlComponent",
+      "content": {
+        "title": "Patient engagement aims to educate and motivate individuals to be actively involved with their treatment plan",
+        "nextRef": "ropdm_c1p2",
+        "body": "<ul> <li>Patient engagement – defined as the process of facilitating and supporting the active involvement of patients in their own care – is very important in the management of long-term health conditions such as diabetes. </li> <li>Patient activation, defined as having the knowledge, skills and confidence to manage one’s own health, is a key part of patient engagement. Highly engaged patients are more likely to perform health-improving activities – such as dietary changes and physical activity – which correlate with better health outcomes.</li> <li> Ideally, patients are well informed and motivated to be involved in their own medical care. Therefore, patient engagement is increasingly identified as a key factor in the improvement of health behaviours and outcomes in the management of chronic diseases. </li> <li> This is especially important for people with diabetes since management relies heavily on the ability of the affected individual to carry out daily self-care and self-management. </li> </ul> <div class=\"image-wrapper\"><img src=\"assets/ropdm/c1-p1-fig-01.png\" /></div>"
+      }
+    },
+    {
+      "id": "ropdm_c1p2",
+      "component": "HtmlComponent",
+      "content": {
+        "title": "Many people with type 2 diabetes currently do not achieve their treatment goals",
+        "nextRef": "ropdm_c1p3",
+        "body": " <ul> <li> Currently many people with type 2 diabetes do not meet their glycaemic, blood pressure or cholesterol targets. </li> </ul> <div class=\"image-wrapper\"><img src=\"assets/ropdm/c1-p2-fig-01.png\" /></div> <ul> <li>Around half of people with diabetes achieve either a blood pressure target of <130/80 mmHg or LDL cholesterol levels of <100 mg/dl. Less than 20% of adults with diabetes meet all three of their treatment targets (blood glucose, blood pressure, cholesterol). </li> </ul> <div class=\"topic-question-callout\"> <p>Reflection question: How many individuals under your care achieve their treatment targets? </p> </div> <ul> <li>Data suggest that amongst those with chronic conditions, such as diabetes, nearly 50% do not consistently follow recommended treatment regimens and lifestyle changes. </li> <li> Patient activation is associated with a significant positive effect on glycaemic management and self-management behaviours (especially physical activity, healthy diet, foot care and regular blood glucose monitoring). </li> <li> Therefore, improving patient engagement is likely to increase uptake and long-term maintenance of lifestyle interventions and improve long-term outcomes for people living with diabetes. </li> </ul>"
+      }
+    },
+    {
+      "id": "ropdm_c1p3",
+      "component": "HtmlComponent",
+      "content": {
+        "title": "Engagement with diabetes has emotional, cognitive and behavioural components",
+        "nextRef": "../ropdm_c2",
+        "body": "<div class=\"image-wrapper\"><img src=\"assets/ropdm/c1-p3-fig-01.png\" /></div> <ul> <li> Engagement with health conditions such as diabetes is not a black-and-white process. Rather, there is a continuum on which individuals will fall, as outlined in the figure below. The aim of patient engagement is to drive all patients to become ‘eudaimonic’. Eudaimonia is a Greek word which translates to being in good health or spirit. </li> </ul> <div class=\"image-wrapper\"><img src=\"assets/ropdm/c1-p3-fig-02.png\" /></div>"
+      }
+    },
+    {
+      "id": "ropdm_c2p1",
+      "component": "HtmlComponent",
+      "content": {
+        "title": "There are many factors that affect patient engagement levels, some of which can be addressed by healthcare professionals",
+        "nextRef": "ropdm_c2p2",
+        "body": " <ul> <li> A barrier to patient engagement is defined as a factor that prevents or reduces the likelihood of an individual using a service, adhering to a treatment plan or maintaining self-care practices. </li> <li> Sustained beneficial behaviour change, as is required for optimal diabetes management, requires that a person with diabetes, with the support of their healthcare team, continuously makes appropriate choices. </li> <li>An individual’s ability to do this is affected by many barriers, as outlined below. Some barriers can be addressed by healthcare professionals (HCPs), but others cannot.  </li> </ul> <div class=\"image-wrapper\"><img src=\"assets/ropdm/c2-p1-fig-01.png\" /></div> <ul> <li>Patient engagement should focus on modifiable barriers that can be addressed by HCPs. </li> </ul> <div class=\"topic-question-callout\"> <p>Reflection question: Which questions could you ask patients to identify modifiable barriers to their self-care and engagement? </p>"
+      }
+    },
+    {
+      "id": "ropdm_c2p2",
+      "component": "HtmlComponent",
+      "content": {
+        "title": "There are multiple emotional and psychological barriers to engagement that should be addressed",
+        "nextRef": "ropdm_c2p3",
+        "body": "  <ul> <li> Traditional diabetes care focuses on clinical outcomes such as glycaemic management, weight management and prevention of complications. Despite this, studies indicate that psychological well-being and quality of life are of equal importance to clinical outcomes for individuals with diabetes. </li> <li> Positive psychological states, such as optimism and gratitude, are associated with improved outcomes including better glycaemic management and lower mortality rates. These positive psychological states are linked with positive health behaviours such as increased physical activity and a healthier diet. </li> <li> Despite the benefits of good mental health, many people with diabetes experience poor mental well-being. </li> </ul> <div class=\"image-wrapper\"><img src=\"assets/ropdm/c2-p2-fig-01.png\" /></div>"
+      }
+    },
+    {
+      "id": "ropdm_c2p3",
+      "component": "HtmlComponent",
+      "content": {
+        "title": "Diabetes distress is associated with worse outcomes and should be managed promptly",
+        "nextRef": "../ropdm_c3",
+        "body": " <ul> <li> Diabetes and its ongoing management is a significant burden which often results in distressing emotions including depression, diabetes distress and diabetes burnout. </li> </ul> <div class=\"image-wrapper\"><img src=\"assets/ropdm/c2-p3-fig-01.png\" /></div> <ul> <li> Diabetes distress and burnout are recognized consequences of the constant demands of diabetes management. Burnout is generally considered an extreme form of diabetes distress where the individual is typically no longer engaged with diabetes management. </li> <li> Diabetes distress and burnout are associated with lack of engagement in self-care activities. It is important to identify and manage diabetes distress to prevent disengagement and poor glycaemic management. </li> <li>Assessing psychological well-being is important in understanding patient engagement levels. Poor psychological well-being should be addressed with referral to specialist services where necessary. A screening tool for diabetes distress can be found in the “Learn More” section of this chapter.</li>"
+      }
+    },
+    {
+      "id": "ropdm_c3p1",
+      "component": "HtmlComponent",
+      "content": {
+        "title": "Person-centred care is increasingly important in achieving engagement with diabetes management",
+        "nextRef": "ropdm_c3p2",
+        "body": " <ul> <li> Person-centred care involves paying attention to all the various factors that are likely to influence an individual’s ability to be engaged in their health. </li> <li> In diabetes management, person-centred care is important in improving engagement and is linked to small improvements in clinical outcomes. </li> </ul> <div class=\"image-wrapper\"><img src=\"assets/ropdm/c3-p1-fig-01.png\" /></div>"
+      }
+    },
+    {
+      "id": "ropdm_c3p2",
+      "component": "HtmlComponent",
+      "content": {
+        "title": "Good communication from healthcare professionals is critical in boosting the patient experience",
+        "nextRef": "ropdm_c3p3",
+        "body": " <ul> <li> Individuals with lived experience of diabetes should always be treated with dignity and respect. </li> <li> The WHO advises that lived experience should be considered a form of expertise, alongside traditional forms of evidence in public health policy and practice. </li> <li> Poor communication between healthcare professionals and patients is associated with misunderstandings about, and poor adherence to, treatment plans, which can result in poorer outcomes. </li> <li> By contrast, effective communication is associated with improved quality of care and patient outcomes, improved patient experiences and reduced overall cost of healthcare.</li> <li>To hear more about effective communication with patients, watch the video with Dr Roopa Mehta below.</li> </ul> <div class=\"video-wrapper\"> <video src=\"assets/ropdm/R_Mehta_Chapter_05.mp4\" controls poster='/assets/poster-video.png'></video> </div> <ul> <li> Part of good communication includes consistently using inclusive, destigmatizing language (e.g. people with diabetes NOT diabetics, people living with obesity NOT obese person). </li> </ul> <div class=\"image-wrapper\"><img src=\"assets/ropdm/c3-p2-fig-01.png\" /></div>"
+      }
+    },
+    {
+      "id": "ropdm_c3p3",
+      "component": "HtmlComponent",
+      "content": {
+        "title": "People with diabetes should have multiple means of engaging with their healthcare team",
+        "nextRef": "ropdm_c3p4",
+        "body": " <ul> <li> We have established the importance of person-centred care and good communication with people with diabetes. </li> <li> Part of this includes broadening the ways people with diabetes are involved in their care. For example: <ul> <li> offering multiple ways of communicating, allowing individuals to choose from the options available the method that best suits their needs, lifestyle and preferences (e.g. face-to-face, telephone, email) </li> <li> facilitating access to medical records by people with diabetes </li> <li> supporting public awareness campaigns that educate on the importance of diabetes management </li> <li> involving patient advocates to support the engagement of people with diabetes </li> <li> providing information on support tools such as counselling, peer support groups and coaching </li> </ul> </li> </ul> <div class=\"topic-question-callout\"> <p>Reflection question: Which methods of communication are possible in your healthcare environment?</p></div>"
+      }
+    },
+    {
+      "id": "ropdm_c3p4",
+      "component": "HtmlComponent",
+      "content": {
+        "title": "Bridging knowledge gaps is a key aspect of patient engagement",
+        "nextRef": "ropdm_c3p5",
+        "body": "  <ul> <li>Approximately 50% of individuals with type 2 diabetes have doubts regarding their knowledge of the condition and have only ‘superficial’ knowledge of type 2 diabetes and its treatment. </li> <li> Without adequate knowledge, it is unlikely that individuals with diabetes will understand the importance of glycaemic management nor the importance of regular self-management. </li> </ul> <div class=\"image-wrapper\"><img src=\"assets/ropdm/c3-p4-fig-01.png\" /></div> <ul> <li> As discussed in the chapter on Lifestyle management for people with diabetes, intensive self-management education (via educational booklets, videos, peer group discussions and follow-up telephone calls) is associated with significantly greater reductions in blood glucose levels and blood pressure versus standard care. </li> <li> It is likely that this form of intensive self-management education improves patient engagement on multiple levels: emotional, cognitive and behavioural. </li> <li> Where possible, all individuals with diabetes should be offered structured diabetes self-management education. </li> </ul> <div class=\"image-wrapper\"><img src=\"assets/ropdm/c3-p4-fig-02.png\" /></div>"
+      }
+    },
+    {
+      "id": "ropdm_c3p5",
+      "component": "HtmlComponent",
+      "content": {
+        "title": "People with diabetes should have a personalized treatment plan with achievable goals",
+        "nextRef": "ropdm_c3p6",
+        "body": "  <ul> <li> Person-centred care means providing individualized, tailored care that considers an individual’s current situation and what they will ideally achieve. </li> <li> A diabetes management plan should be developed in collaboration between healthcare professionals and individuals with diabetes to maximize the individual’s independence, engagement with healthcare and ability to carry out self-care. </li> <li> Specific, realistic goals are an important part of any treatment plan for people with diabetes. </li> </ul> <div class=\"image-wrapper\"><img src=\"assets/ropdm/c3-p5-fig-01.png\" /></div>\n "
+      }
+    },
+    {
+      "id": "ropdm_c3p6",
+      "component": "HtmlComponent",
+      "content": {
+        "title": "Peer support can improve outcomes for people with diabetes",
+        "nextRef": "ropdm_c3p7",
+        "body": "  <ul> <li> Many people with diabetes report feeling isolated from peers without diabetes. </li> <li> Peer support is founded on the idea that people living with the same condition can draw on their shared experiences to help each other with knowledge, information and emotional support. </li> <li> Peer support interventions significantly improved self-efficacy, confidence with diabetes management and self-management behaviours. </li> <li> Peer support has been associated with a significantly greater decrease in blood glucose levels and improved self-management scores and quality of life compared with usual care. </li> <li> Peer support activities appear to be particularly beneficial in settings where there is a shortage of healthcare professionals and financial resources. </li> <li> Current evidence suggests that peer support does not affect the likelihood or severity of diabetes distress, which should be addressed with psychological interventions. </li> </ul> <div class=\"image-wrapper\"><img src=\"assets/ropdm/c3-p6-fig-01.png\" /></div> <ul> <li> There is no one correct model of peer support for diabetes – it can take many forms (e.g. weekly meetings, online forums, informal chats) and can include different numbers of people. </li> <li> Increasingly, with widening access to technology, people with diabetes can take part in peer support online, which is likely to be more accessible for many people. </li> </ul> <div class=\"topic-question-callout\"> <p> Reflection question: Do you offer your patients with diabetes the opportunity to access peer support? How could you incorporate this into your practice? </p>"
+      }
+    },
+    {
+      "id": "ropdm_c3p7",
+      "component": "HtmlComponent",
+      "content": {
+        "title": "Friends and family can have a large impact on an individual’s engagement with diabetes management",
+        "nextRef": "ropdm_c3p8",
+        "body": "  <ul> <li> The majority of diabetes self-management is carried out within an individual’s family or social environment. Therefore, family and friends can strongly influence diabetes management, both positively and negatively. </li> <li> Friends and family can actively support or negatively affect people with diabetes in their management. </li> </ul> <div class=\"image-wrapper\"><img src=\"assets/ropdm/c3-p7-fig-01.png\" /></div> <ul> <li> Providing diabetes education to only the individual with diabetes could hinder engagement with self-management, especially in scenarios where an individual does not have full control of their lifestyle habits (e.g. food shopping, meal preparation, presence of unhealthy foods). </li> <li> Common misconceptions amongst family members regarding those with diabetes are that the individual with diabetes knows more about diabetes than they actually report. Family members frequently report not understanding the needs of their loved one with diabetes, highlighting the need for improved education. </li> <li> Data support the inclusion of family members in patient education. A review of data across various chronic diseases found that interventions using a family-oriented approach were more beneficial than solely patient-oriented interventions. </li> <li> A study of older individuals with diabetes found that including their spouse in a diabetes education programme resulted in greater improvements in knowledge, metabolic control and stress levels than individuals who participated alone. </li> </ul>"
+      }
+    },
+    {
+      "id": "ropdm_c3p8",
+      "component": "DuoImageComponent",
+      "content": {
+        "title": "Meet Kwame, a 70-year-old man with type 2 diabetes",
+        "nextRef": "../ropdm_tyk",
+        "intro": "   <p> Let’s reflect on what we have learnt so far in this chapter and begin to put learnings into practice. </p>",
+        "body": "    <p> Kwame is a 70-year-old retired man who was diagnosed with diabetes 8 years ago. He lives with his wife and has been married for 45 years. They have 3 adult children and 10 grandchildren who visit frequently. Kwame is currently treated with 2,000 mg metformin and 320 mg gliclazide once daily. Last time Kwame was in clinic, you discussed the importance of lifestyle changes and suggested implementing daily walks and reducing carbohydrate intake. He reports to clinic for a routine diabetes appointment. He reports feeling ‘fed up’ of diabetes management and that his family do not understand or accept his treatment and lifestyle changes. His mobility has decreased after a recent fall, and he reports struggling to gain interest to restart his usual physical activities. In recent clinic appointments, Kwame has experienced blood glucose values that are higher than expected. However, he is very reluctant to initiate insulin treatment, citing fear of needles, erectile dysfunction and the reaction of his family. </p> <div class=\"case-callout\"> <h3>Vital signs </h3> <ul> <li> Weight: 101 kg </li> <li> Height: 179 cm </li> <li> BMI: 31.5 kg/m<sup>2</sup> </li> <li> Fasting plasma glucose: 7.8 mmol/l (140 mg/dl) </li> <li> HbA1c: 7.6% (60 mmol/mol) </li> </ul> </div> <p><b>Family and personal history</b></p> <ul> <li> No prior family history of diabetes or heart disease </li> <li> Recent fall </li> <li> Background retinopathy, under twice yearly review </li> </ul> <p><b>Reflection questions</b></p> <ul> <li> Beyond clinical characteristics, what should you consider when reviewing Kwame in clinic?            </li> <li> Kwame mentions several barriers to engagement with his treatment plan. Which of these barriers could you address as his healthcare professional? </li> <li> Where do you believe Kwame currently falls on the patient engagement continuum? </li> <li> Do you feel that Kwame has adequate social and familial support? How could you address this?</li> <li> Would you make any changes to his treatment plan? </li></ul> <p><strong>Now that you have reflected on these questions, see below for an example of how you could respond.</strong></br>An individual’s attitude towards self-care is important to consider when assessing the effectiveness of a management plan. Kwame reports feeling ‘fed up’ of diabetes management, which could be an indication of diabetes burnout and/or depression. Screen Kwame for diabetes burnout using the screening tool included in the Learn More section of this chapter. Work with Kwame to address the burden of diabetes management. </p><p>Kwame’s barriers to engagement include poor family support, lack of mobility following his fall, low motivation, and fear of treatment intensification. Kwame and his family could benefit from education to affirm the importance of managing diabetes and to address barriers to treatment intensification, such as fear of needles and stigma surrounding insulin use. While Kwame’s lack of mobility cannot be addressed, he can be supported in accessing appropriate physical activity, such as chair-based exercises.</p><p>Kwame appears to be in the adhesion stage of the patient engagement continuum where he is usually adherent to his treatment but struggles with the motivation to carry out the daily management tasks and lifestyle changes. Kwame reports taking his medication as prescribed, but his main challenge is applying recommended lifestyle changes (e.g., reducing carbohydrate intake and going for daily walks). At this stage of the continuum, Kwame could most benefit from empowerment and motivation.</p><p>Currently, it appears that Kwame is struggling and does not have enough familial support to deal with the demands of daily diabetes management. If possible, offer Kwame and his family a family-orientated education programme. Kwame may also benefit from connecting with other people living with diabetes. Refer him to a peer support group if available.</p>",
+        "image": "",
+        "videoUrl": "",
+        "action": "",
+        "introImage": "assets/ropdm/patient-kwame.jpg"
+      }
+    },
+    {
+      "id": "ropdm_casestudy",
+      "component": "CaseComponent",
+      "content": {
+        "title": "Nia",
+        "nextRef": "../../ropdm_c1",
+        "intro": {
+          "history": " <ul> <li> 60-year-old woman, diagnosed with type 2 diabetes 3 years ago. </li> <li> Retired and lives with her husband; married for 34 years. </li> <li> They have 3 adult children and 7 grandchildren, who Nia regularly helps to care for. </li> <li> Attends clinic for her diabetes review. </li> <li> She presents with a poor understanding of diabetes management beyond taking medication as prescribed. She doesn’t feel confident with implementing lifestyle interventions at this time. </li> <li> Nia feels that a lot of her time and energy is taken up by caring for her grandchildren, leaving her with little time for her to care for her diabetes. </li> <li> She worries about the financial implications of insulin treatment and reports a fear of needles. </li> </ul>\n",
+          "medication": "<h3>Current medication and targets</h3><ul> <li> Metformin 2,000 mg/day </li> <li> Gliclazide 160 mg/day </li> <li> Glycaemic target: FPG <7.0 mmol/l  (126 mg/dl) </li>",
+          "chemistry": "<h3>Clinical chemistry</h3><ul> <li> FPG: 8.3 mmol/l (149 mg/dl) </li> <li> HbA1c: 8.4% (68 mmol/mol) </li> <li> LDL-cholesterol: 2.7 mmol/l (104 mg/dl) </li> <li> HDL-cholesterol: 1.6 mmol/l (62 mg/dl) </li> <li> Triglycerides: 1.8 mmol/l (159 mg/dl) </li> <li> BP: 140/79 mmHg </li> <li> Waist circumference: 93 cm </li> <li> Height: 164 cm </li> <li> Weight: 85 kg </li> <li> BMI: 31.6 kg/m<sup>2</sup> </li> </ul>"
+        },
+        "questions": [
+          {
+            "id": "ropdm_casestudy_1",
+            "question": "Nia has several barriers to engagement that could be affecting her diabetes management. Which of her barriers could be addressed by her healthcare professional?",
+            "correct": "2",
+            "answers": [
+              {
+                "id": "1",
+                "answer": "Caring for her grandchildren and financial constraints",
+                "response": "This is incorrect. As Nia’s healthcare professional, addressing caring responsibilities and financial constraints are beyond your reasonable expectations.  <br/><strong>Go back and try again.</strong>"
+              },
+              {
+                "id": "2",
+                "answer": "Lack of knowledge of diabetes management and reluctance to initiate insulin therapy due to fear of needles",
+                "response": "This is correct. As Nia’s healthcare professional,  you have the power to address her lack of knowledge and apprehension over insulin therapy. <br/><strong>Continue to the next question.</strong>"
+              },
+              {
+                "id": "3",
+                "answer": "Reluctance to initiate insulin therapy and financial constraints",
+                "response": "This is incorrect. While you could address Nia’s reluctance to initiate insulin, you do not have power over her financial circumstances. <br/><strong>Go back and try again.</strong>"
+              },
+              {
+                "id": "4",
+                "answer": "Fear of needles and caring for her grandchildren",
+                "response": "This is incorrect. While you could offer Nia education to address her fear of needles, you do not have control over her caring responsibilities. <br/><strong>Go back and try again.</strong>"
+              }
+            ],
+            "title": "Barriers to patient engagement"
+          },
+          {
+            "id": "ropdm_casestudy_2",
+            "question": "Nia reports that she understands the significance of her diabetes but struggles to take the actions necessary for daily management. Which phase of the patient engagement continuum is Nia at currently and what is her primary need?",
+            "correct": "2",
+            "answers": [
+              {
+                "id": "1",
+                "answer": "Blackout. Primary need: emotional support to accept diagnosis",
+                "response": "This is incorrect. Nia has accepted her diagnosis which means she is not in the blackout phase. <br/><strong>Go back and try again.</strong>"
+              },
+              {
+                "id": "2",
+                "answer": "Arousal. Primary need: education on management and treatment",
+                "response": "This is correct. Nia has accepted her diagnosis but is not able to fully understand and process self-management strategies. <br/><strong>Continue to the next question.</strong>"
+              },
+              {
+                "id": "3",
+                "answer": "Adhesion. Primary need: empowerment and motivation",
+                "response": "This is incorrect. Nia needs education surrounding diabetes management before motivation will be effective at improving her engagement. <br/><strong>Go back and try again.</strong>"
+              },
+              {
+                "id": "4",
+                "answer": "Eudaimonia. Primary need: tailored care to achieve personal targets",
+                "response": "This is incorrect. Nia needs education surrounding diabetes management before more tailored care is needed. <br/><strong>Go back and try again.</strong>"
+              }
+            ],
+            "title": "Patient engagement continuum"
+          },
+          {
+            "id": "ropdm_casestudy_3",
+            "question": "Nia is not meeting her glycaemic target despite dual therapy. This means she could be eligible for insulin therapy; however, she is very reluctant to start treatment with insulin and reports being afraid of needles. How could you address this?",
+            "correct": "2",
+            "answers": [
+              {
+                "id": "1",
+                "answer": "Tell Nia that she won’t need insulin if she makes lifestyle changes and that she should use this as an incentive to stick to her diet and exercise plan.",
+                "response": "This is incorrect. Type 2 diabetes is a progressive disease, and many people eventually need insulin to manage their blood glucose levels. <br/><strong>Go back and try again.</strong>"
+              },
+              {
+                "id": "2",
+                "answer": "Offer a demonstration of subcutaneous insulin needles which are very short and fine and not associated with significant pain. Discuss the benefits of insulin of glycaemic management.",
+                "response": "This is correct. Education to address Nia’s apprehensions and discussion of the benefits of insulin treatment may allow Nia to feel comfortable with this option. Modern insulin needles do not look or feel like the needles most patients will be familiar with. Understanding the benefits of insulin treatment may reinforce the importance of overcoming these fears; however, individual preferences should always be considered in a shared decision-making approach. <br/><strong>Continue to the next question.</strong>"
+              },
+              {
+                "id": "3",
+                "answer": "Recommend that her doctor prescribes insulin immediately, Nia will get over her fear of needles with time",
+                "response": "This is incorrect. Reluctance to initiate insulin should be addressed with education rather than assuming Nia will get over her fears. <br/><strong>Go back and try again.</strong>"
+              }
+            ],
+            "title": "Addressing barriers to engagement – initiating insulin therapy"
+          },
+          {
+            "id": "ropdm_casestudy_4",
+            "question": "Nia reports feeling isolated due to diabetes and feels that no-one she knows understands her problems. How would you address this?",
+            "correct": "2",
+            "answers": [
+              {
+                "id": "1",
+                "answer": "Refer Nia for psychological treatment",
+                "response": "This is incorrect. Nia should be screened for diabetes distress and/or depression to establish whether referral to psychological treatment is needed at this time. <br/><strong>Go back and try again.</strong>"
+              },
+              {
+                "id": "2",
+                "answer": "Screen Nia for diabetes distress and recommend local peer support",
+                "response": "This is correct. Where possible, people with diabetes should be routinely screened for diabetes distress, especially when presenting with potential symptoms. Peer support could be a great option for Nia, helping her to make connections with other people with similar circumstances. <br/><strong>Continue to the next question.</strong>"
+              },
+              {
+                "id": "3",
+                "answer": "Tell Nia that this is normal for many people living with diabetes",
+                "response": "This is incorrect. Many people with diabetes may feel alone but they should be supported to maintain psychological wellness. <br/><strong>Go back and try again.</strong>"
+              },
+              {
+                "id": "4",
+                "answer": "Ask Nia to talk to her friends and family about her feelings",
+                "response": "This is not the correct answer. Although family support is important, there is more that you can do to support Nia as her healthcare professional. <br/><strong>Go back and try again.</strong>"
+              }
+            ],
+            "title": "Psychological wellness"
+          },
+          {
+            "id": "ropdm_casestudy_5",
+            "question": "Nia reports that her family are not supportive of the lifestyle interventions she has been recommended as part of her diabetes management. She mentions that they bring around treats frequently, do not understand diabetes and often tell her she does not need to take her medication. What steps would you take to address this?",
+            "correct": "4",
+            "answers": [
+              {
+                "id": "1",
+                "answer": "Discuss with Nia the importance of explaining diabetes to her family",
+                "response": "This is not the correct answer. Nia may not feel confident enough with her diabetes knowledge at this time to explain diabetes management to her family. Nia should be supported in engaging her family in diabetes management. <br/><strong>Go back and try again.</strong>"
+              },
+              {
+                "id": "2",
+                "answer": "Discuss with Nia how she must maintain her recommended lifestyle modifications regardless of her family’s behaviour",
+                "response": "This is not the correct answer. Although Nia should work on maintaining lifestyle interventions independently of her family, this is often very challenging. Taking a more supportive role is likely to result in better long-term outcomes for Nia. <br/><strong>Go back and try again.</strong>"
+              },
+              {
+                "id": "3",
+                "answer": "Provide resources for Nia to share with her family about type 2 diabetes and its treatment, including the importance of lifestyle interventions",
+                "response": "This is not the correct answer. This could be a good option to support Nia with involving her family in diabetes management. However, more support may be necessary. <br/><strong>Go back and try again.</strong>"
+              },
+              {
+                "id": "4",
+                "answer": "Offer Nia and her family the opportunity to take part in a family diabetes education programme",
+                "response": "This is correct. Evidence suggests that family-oriented diabetes education helps people with diabetes maintain lifestyle changes and achieve glycaemic goals. <br/><strong>Please continue.</strong>"
+              }
+            ],
+            "title": "Addressing barriers to engagement – family environments"
+          }
+        ],
+        "summary": {
+          "intro": "<ul> <li> Nia returns for her 3-month follow-up. </li> <li> She attended a family-oriented diabetes education programme with the aim of improving her confidence with implementing lifestyle interventions and exploring the benefits of insulin therapy. </li> <li> Since the family-oriented education, Nia’s husband is more supportive of her lifestyle interventions. Together they are cooking healthier meals with a greater focus on vegetables. They now go for walks daily. </li> <li>The education programme helped Nia feel open to insulin therapy, which she has now started.</li> <li> She has been regularly attending her local peer support group and chats with other people with diabetes on an online forum. She reports feeling less isolated and more positive about diabetes management. </li> </ul>",
+          "medication": "<h3>Current medication and targets</h3> <ul> <li> Metformin 2,000 mg/day </li> <li> Gliclazide 160 mg/day </li> <li> NPH insulin 12 units/day </li> <li> Glycaemic target: FPG <7.0 mmol/l  (126 mg/dl) </li> </ul>\n",
+          "chemistry": "<h3>Clinical chemistry</h3> <ul> <li> FPG: 7.8 mmol/l (140 mg/dl) </li> <li> HbA1c: 7.7% (61 mmol/mol) </li> <li> LDL-cholesterol: 2.6 mmol/l (101 mg/dl) </li> <li> HDL-cholesterol: 1.8 mmol/l (70 mg/dl) </li> <li> Triglycerides: 1.7 mmol/l (151 mg/dl) </li> <li> BP: 136/78 mmHg </li> <li> Waist circumference: 91 cm </li> <li> Height: 164 cm </li> <li> Weight: 84 kg </li> <li> BMI: 31.2 kg/m<sup>2</sup> </li> </ul>"
+        },
+        "cardTitle": "Say hello Nia",
+        "image": "assets/ropdm/maxi-case-nia.jpg",
+        "subTitle": "A 60-year-old woman"
+      }
+    },
+    {
+      "id": "ropdm__tyk",
+      "component": "MCQComponent",
+      "content": {
+        "title": "Test your knowledge",
+        "intro": "",
+        "nextRef": "",
+        "questions": [
+          {
+            "id": "ropdm_tyk_1",
+            "question": "What are the three main dimensions of patient health engagement in type 2 diabetes?",
+            "correct": "5",
+            "answers": [
+              {
+                "id": "1",
+                "answer": "Psychological, Cognitive, Behavioural"
+              },
+              {
+                "id": "2",
+                "answer": "Familial, Psychological, Physical"
+              },
+              {
+                "id": "3",
+                "answer": "Social, Economic, Behavioural"
+              },
+              {
+                "id": "4",
+                "answer": "Economic, Cognitive, Familial"
+              },
+              {
+                "id": "5",
+                "answer": "Emotional, Cognitive, Behavioural"
+              }
+            ]
+          },
+          {
+            "id": "ropdm_tyk_2",
+            "question": "What is the primary educational need of an individual currently in the blackout stage of patient engagement?",
+            "correct": "4",
+            "answers": [
+              {
+                "id": "1",
+                "answer": "Tailored care to achieve personal targets"
+              },
+              {
+                "id": "2",
+                "answer": "Improved health literacy"
+              },
+              {
+                "id": "3",
+                "answer": "Empowerment and motivation"
+              },
+              {
+                "id": "4",
+                "answer": "Emotional support to accept diagnosis"
+              },
+              {
+                "id": "5",
+                "answer": "Education on treatment and management"
+              }
+            ]
+          },
+          {
+            "id": "ropdm_tyk_3",
+            "question": "Globally, approximately what proportion of adults with diabetes achieve all three of their treatment targets (blood glucose, blood pressure, cholesterol)?",
+            "correct": "1",
+            "answers": [
+              {
+                "id": "1",
+                "answer": "<20%"
+              },
+              {
+                "id": "2",
+                "answer": "20–29%"
+              },
+              {
+                "id": "3",
+                "answer": "30–39%"
+              },
+              {
+                "id": "4",
+                "answer": "40–49%"
+              },
+              {
+                "id": "5",
+                "answer": ">50%"
+              }
+            ]
+          },
+          {
+            "id": "ropdm_tyk_4",
+            "question": "Which of the following widely accepted barriers to patient engagement cannot be addressed by healthcare professionals?",
+            "correct": "2",
+            "answers": [
+              {
+                "id": "1",
+                "answer": "Lack of knowledge"
+              },
+              {
+                "id": "2",
+                "answer": "Education status/comprehension ability"
+              },
+              {
+                "id": "3",
+                "answer": "Mental health"
+              },
+              {
+                "id": "4",
+                "answer": "Concerns about medication side effects"
+              },
+              {
+                "id": "5",
+                "answer": "Reluctance to initiate insulin therapy"
+              }
+            ]
+          },
+          {
+            "id": "ropdm_tyk_5",
+            "question": "In the RELATE model of effective patient–healthcare professional communication, what does ‘T’ stand for?",
+            "correct": "4",
+            "answers": [
+              {
+                "id": "1",
+                "answer": "<b>Transition</b> to another service"
+              },
+              {
+                "id": "2",
+                "answer": "<b>Track</b> changes from previous appointment"
+              },
+              {
+                "id": "3",
+                "answer": "<b>Teach</b> about importance of good glycaemic management"
+              },
+              {
+                "id": "4",
+                "answer": "<b>Tailor</b> next steps"
+              },
+              {
+                "id": "5",
+                "answer": "<b>Tell</b> the patient’s friends and family"
+              }
+            ]
+          }
+        ],
+        "summary": "<p> In this module, we covered the importance of getting people with diabetes to be engaged with their healthcare and diabetes management, common barriers to engagement and how to overcome these. </p> <ol> <li> Patient health engagement in type 2 diabetes can be categorized as emotional, cognitive or behavioural. </li> <li> The blackout stage of patient engagement is a phase where an individual cannot accept their diagnosis and has no understanding of how to manage diabetes. At this stage, their primary need is emotional support to accept the diagnosis. </li> <li> Globally, <20% of adults with diabetes achieve all three of their treatment targets (blood glucose, blood pressure, cholesterol). </li> <li> Education status and comprehension ability cannot be addressed by an individual healthcare professional. <li> In the RELATE model of effective patient–healthcare professional communication, the ‘T’ stands for ‘Tailor next steps’. </li> </ol>"
+      }
+    },
+    {
+      "id": "ropdm_factsheet",
+      "component": "FactsheetComponent",
+      "content": {
+        "title": "Engaging patients in diabetes management",
+        "image": "/assets/ropdm/factsheet-2.jpg",
+        "url": "/assets/factsheets/engaging-patients-in-diabetes-management.pdf"
+      }
+    },
+    {
+      "id": "ropdm_factsheet2",
+      "component": "FactsheetComponent",
+      "content": {
+        "title": "Identifying diabetes distress in individuals with type 2 diabetes",
+        "image": "/assets/ropdm/factsheet-1.jpg",
+        "url": "/assets/factsheets/identifying-diabetes-distress-in-individuals-with-type-2-diabetes.pdf"
+      }
+    }
+  ]
+}

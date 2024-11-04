@@ -1,0 +1,9 @@
+@use './../helpers/variables' as var;
+
+
+
+
+.containerfooter-nav {
+    box-shadow: var.$box-shadow-reverse-sm;
+    margin-top: 10px;
+}

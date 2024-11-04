@@ -1,0 +1,133 @@
+@use './../helpers/variables' as var;
+@use "./../helpers/typography" as type;
+
+// @use './../../../node_modules/bootstrap/scss/bootstrap.scss' as bs;
+
+
+.spinnerWrapper{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 40px;
+  position: relative;
+  .loadingSpinner{
+    color:var.$wdf-bright-red;
+  }
+  span{
+    color:var.$wdf-blue;
+  }
+
+  .progressbar-container{
+    position: absolute;
+    top: 30px;
+    left: calc(50% - 40px);
+    width: 120px;
+    
+  }
+}
+
+
+// Small devices (landscape phones, 576px and up)
+@media (min-width: 576px) {
+  .container {
+    // max-width: 572px;
+  }  
+}
+
+// Medium devices (tablets, 768px and up)
+@media (min-width: 768px) {
+  .container {
+    // max-width: 770px;
+  }   
+}
+
+// Large devices (desktops, 992px and up)
+@media (min-width: 992px) {
+  .container {
+    max-width: 770px;
+  }   
+}
+
+// X-Large devices (large desktops, 1200px and up)
+@media (min-width: 1200px) {
+  .container {
+    // max-width: 774px;
+    max-width: 770px;
+  }  
+}
+
+// XX-Large devices (larger desktops, 1400px and up)
+@media (min-width: 1400px) {
+  .container {
+    // max-width: 572px;
+    max-width: 770px;
+  }  
+}
+
+
+
+
+#root {
+  // margin: 0 auto;
+  // padding: 0;
+  text-align: left;
+  // width: 100%;
+}
+
+
+body {
+  font-family: type.$body-font !important;
+  color: var.$wdf-dark-blue;
+  // background-color: var.$wdf-light-grey;
+
+  // padding: 40px;
+//TODO: Smaller on mobile = 32px - 20px
+
+  display: flex;
+  flex-direction: column;
+
+  // place-items: center;
+  // min-width: 320px;
+  min-height: 100vh;
+
+  // font-family: type.$body-font;
+  // line-height: 1.5;
+  font-weight: 400;
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-text-size-adjust: 100%;
+}
+
+
+// tweaks to #root depending on render view selected
+// blank is assumed to be homepage
+#root {
+  flex: 1;
+}
+
+#root[data-component="HomePageComponent"]{
+  background-color: var.$wdf-light-grey;
+}
+#root[data-component="BasicComponent"]{
+  background-color: var.$wdf-white;
+}
+#root[data-component="ListingComponent"]{
+  background-color: var.$wdf-light-grey;
+}
+#root[data-component="DynamicComponent"]{
+  background-color: var.$wdf-light-grey;
+}
+#root[data-component="HtmlComponent"]{
+  // background-color: var.$wdf-light-grey;
+  background-color: var.$wdf-white;
+}
+#root[data-component="MCQComponent"]{
+  background-color: var.$wdf-light-grey;
+}
+#root[data-component="CaseComponent"]{
+  background-color: var.$wdf-white;
+}
+

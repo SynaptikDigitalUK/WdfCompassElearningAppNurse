@@ -1,0 +1,16 @@
+@use './../../../node_modules/bootstrap/scss/bootstrap.scss' as bs;
+
+@use './../helpers/variables' as var;
+
+.progress {
+  --bs-progress-height: 2px;
+  background-color: var.$wdf-light-grey;
+
+}
+
+.progress-label {
+color:var.$wdf-bright-red;
+}
+.progress-bar {
+  background-color: var.$wdf-bright-red;
+}

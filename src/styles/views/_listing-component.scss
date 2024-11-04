@@ -1,0 +1,25 @@
+
+
+.container-listing-content {
+    .tagline-text {
+        margin-bottom: 20px;
+    }
+}
+
+
+.container-course-content,
+.container-mcq-content,
+.container-case-content,
+.container-references-content,
+.container-listing-content {
+    .tagline-text {
+        a:before {
+            font: var(--fa-font-sharp-regular);
+            content: '\f344';
+            display: inline-block;
+            text-rendering: auto;
+            -webkit-font-smoothing: antialiased;
+            margin-right: 10px;
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+  "appTitle": "Diabetes for Nurses",
+  "menuLimitDisplayLevels": 2,
+  "sections": ["s1", "s2", "s3", "s4", "s5"],
+  "content":[
+    {
+      "id": "homepage",
+      "component": "HomePageComponent",
+      "content": {
+        "title": "Diabetes",
+        "subTitle": "For Nurses",
+        "imageUrl": "assets/app-nurses.jpg",
+        "videoAction": "Watch intro video",
+        "videoUrl": "assets/screen-5.mp4",
+        "nextRef": "s1c1p1"
+      }
+    }
+  ]
+}

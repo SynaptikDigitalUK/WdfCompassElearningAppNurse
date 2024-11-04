@@ -1,0 +1,25 @@
+
+
+
+
+
+
+
+.video-wrapper {
+    width: 100%;
+    height: auto;
+    margin: 40px auto;
+
+
+    //placeholder background image - to emulate the asset loading
+    background: url('/assets/loading-asset.svg') no-repeat center center;
+    background-size:150px 50px;
+    min-height: 10rem;
+
+
+    video {
+      width: 100%;
+      height: 100%;
+    }
+  }
+  

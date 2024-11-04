@@ -1,0 +1,668 @@
+{
+  "menu": {
+    "title": "Pharmacological management of diabetes",
+    "sectionId": "pmd",
+    "chapters": [
+      {
+        "title": "Treating diabetes to achieve glycaemic goals",
+        "sectionId": "pmd",
+        "chapterId": "pmd_c1",
+        "showListing": true,
+        "chapters": [
+          {
+            "chapterId": "pmd_c1",
+            "contentId": "pmd_c1p1",
+            "title": "Most people with type 2 diabetes require pharmacological treatment to optimize glycaemic management"
+          },
+          {
+            "chapterId": "pmd_c1",
+            "contentId": "pmd_c1p2",
+            "title": "Prompt initiation and intensification of therapy are essential to improve outcomes for people with type 2 diabetes"
+          },
+          {
+            "chapterId": "pmd_c1",
+            "contentId": "pmd_c1p3",
+            "title": "People with diabetes should have personalized glycaemic targets"
+          },
+          {
+            "chapterId": "pmd_c1",
+            "contentId": "pmd_c1p4",
+            "title": "Some people with diabetes need to be referred to higher levels of care"
+          },
+          {
+            "chapterId": "pmd_c1",
+            "contentId": "pmd_c1p5",
+            "title": "Emergencies can arise when caring for people with diabetes"
+          },
+          {
+            "chapterId": "pmd_c1",
+            "contentId": "pmd_c1p6",
+            "title": "Diabetes management should focus on achieving glycaemic control while managing other cardiovascular risk factors"
+          }
+        ]
+      },
+      {
+        "title": "Oral therapies in type 2 diabetes",
+        "sectionId": "pmd",
+        "chapterId": "pmd_c2",
+        "showListing": true,
+        "chapters": [
+          {
+            "chapterId": "pmd_c2",
+            "contentId": "pmd_c2p1",
+            "title": "Oral antihyperglycaemic agents should be considered if glycaemic targets are not achieved with lifestyle interventions alone"
+          },
+          {
+            "chapterId": "pmd_c2",
+            "contentId": "pmd_c2p2",
+            "title": "Metformin is the first-line pharmacotherapy for treating type 2 diabetes"
+          },
+          {
+            "chapterId": "pmd_c2",
+            "contentId": "pmd_c2p3",
+            "title": "Many people with type 2 diabetes need dual or triple antihyperglycaemic therapy"
+          }
+        ]
+      },
+      {
+        "title": "Injectable therapies for diabetes",
+        "showListing": true,
+        "sectionId": "pmd",
+        "chapterId": "pmd_c3",
+        "chapters": [
+          {
+            "chapterId": "pmd_c3",
+            "contentId": "pmd_c3p1",
+            "title": "Treatment with insulin should be initiated in people with type 2 diabetes if blood glucose is not well managed with dual oral therapy"
+          },
+          {
+            "chapterId": "pmd_c3",
+            "contentId": "pmd_c3p2",
+            "title": "Insulin is administered via subcutaneous injection"
+          },
+          {
+            "chapterId": "pmd_c3",
+            "contentId": "pmd_c3p3",
+            "title": "Patients require education on the need to store insulin carefully to maintain potency"
+          }
+        ]
+      },
+      {
+        "title": "Monitoring people with diabetes",
+        "showListing": true,
+        "sectionId": "pmd",
+        "chapterId": "pmd_c4",
+        "chapters": [
+          {
+            "chapterId": "pmd_c4",
+            "contentId": "pmd_c4p1",
+            "title": "Self-monitoring of blood glucose should be available to people with diabetes, where possible"
+          },
+          {
+            "chapterId": "pmd_c4",
+            "contentId": "pmd_c4p2",
+            "title": "Hyperglycaemia should be detected and managed promptly to avoid adverse health complications"
+          },
+          {
+            "chapterId": "pmd_c4",
+            "contentId": "pmd_c4p3",
+            "title": "People with diabetes may experience hypoglycaemia and should be aware of symptoms and treatment"
+          },
+          {
+            "chapterId": "pmd_c4",
+            "contentId": "pmd_c4p4",
+            "title": "Meet Amari, a 64-year-old man with type 2 diabetes"
+          }
+        ]
+      },
+      {
+        "title": "Special considerations for managing diabetes",
+        "showListing": true,
+        "sectionId": "pmd",
+        "chapterId": "pmd_c5",
+        "chapters": [
+          {
+            "chapterId": "pmd_c5",
+            "contentId": "pmd_c5p1",
+            "title": "People with diabetes need additional support managing concurrent illness"
+          },
+          {
+            "chapterId": "pmd_c5",
+            "contentId": "pmd_c5p2",
+            "title": "Religious and cultural considerations can impact diabetes management"
+          },
+          {
+            "chapterId": "pmd_c5",
+            "contentId": "pmd_c5p3",
+            "title": "Family planning and preconception care is an important part of diabetes management"
+          }
+        ]
+      },
+      {
+        "title": "Test your knowledge",
+        "showListing": true,
+        "sectionId": "pmd",
+        "chapterId": "pmd_tyk",
+        "chapters": [
+          {
+            "chapterId": "pmd_tyk",
+            "contentId": "pmd__tyk",
+            "title": "Test your knowledge"
+          }
+        ]
+      }
+    ],
+    "learnMore": {
+      "casestudies": [
+        {
+          "title": "Case Study: Mary",
+          "chapterId": "pmd_tyk",
+          "contentId": "pmd_casestudy"
+        }
+      ],
+      "factsheets": [
+        {
+          "title": "Pharmacological management of type 2 diabetes: A quick reference guide",
+          "contentId": "pmd_factsheet"
+        }
+      ]
+    }
+  },
+  "content": [
+    {
+      "id": "pmd_c1p1",
+      "component": "HtmlComponent",
+      "content": {
+        "title": "Most people with type 2 diabetes require pharmacological treatment to optimize glycaemic management",
+        "nextRef": "pmd_c1p2",
+        "body": "<ul> <li> Type 2 diabetes is a progressive, chronic disease, which requires lifelong treatment and support. It often requires therapy intensification over time to maintain control of blood glucose. </li> <li> While lifestyle interventions are the foundation of diabetes management, they are often not sufficient to control blood glucose over the long term, and pharmacological intervention is often required. </li> <li> In most patients with type 2 diabetes, blood glucose can be adequately managed with medicines included in the WHO Model List of Essential Medicines. </li> </ul> <div class=\"image-wrapper\"><img src=\"assets/pmd/c1-p1-fig-01.png\" /></div> <ul> <li>All people with type 1 diabetes need lifelong treatment with insulin. </li> </ul>"
+      }
+    },
+    {
+      "id": "pmd_c1p2",
+      "component": "HtmlComponent",
+      "content": {
+        "title": "Prompt initiation and intensification of therapy are essential to improve outcomes for people with type 2 diabetes",
+        "nextRef": "pmd_c1p3",
+        "body": "<ul> <li> For people with type 2 diabetes, early intervention and timely treatment intensification are important to reduce an individual’s risk of developing complications. </li> <li> In some circumstances, initial treatment can be lifestyle interventions. However, medications are often needed as the disease progresses. The recommended first-line medication is metformin, followed by the addition of sulfonylureas and then insulin, as needed. </li> <li> Individuals with diabetes should be reviewed regularly and medications added if not achieving their glycaemic goal. In this video, we will cover when and how to initiate, change or add new therapies in the treatment of type 2 diabetes. </li> <li>Watch Dr Roopa Mehta discuss oral therapies for type 2 diabetes management.</li> </ul> <div class=\"video-wrapper\"> <video src=\"assets/pmd/R_Mehta_Chapter_03.mp4\" controls poster='/assets/poster-video.png'></video> </div> <div class=\"topic-question-callout\"> <p>Reflection question:  How do you reassure people with T2D who are concerned about adding medications to lifestyle treatment?</p> </div>"
+      }
+    },
+    {
+      "id": "pmd_c1p3",
+      "component": "HtmlComponent",
+      "content": {
+        "title": "People with diabetes should have personalized glycaemic targets",
+        "nextRef": "pmd_c1p4",
+        "body": "<ul> <li> Regular blood glucose testing is important to assess the efficacy of an individual’s diabetes management plan. </li> <li>HbA1c is the test of choice for monitoring glycaemic control in people with diabetes, where possible. If HbA1c is not available, fasting or post-meal blood glucose is acceptable. </li> <li>Fasting plasma glucose targets of <7 mmol/l or post-prandial (2 hours after meals) glucose of <9 mmol/l are appropriate for most adults with type 2 diabetes, but targets should be adjusted based on personal factors such as age, risk of hypoglycaemia or presence of diabetes complications.</li> <li>See the table below for recommended blood glucose targets for different individuals.</li> </ul> <div class=\"image-wrapper\"><img src=\"assets/pmd/c1-p3-fig-01.png\" /></div>"
+      }
+    },
+    {
+      "id": "pmd_c1p4",
+      "component": "HtmlComponent",
+      "content": {
+        "title": "Some people with diabetes need to be referred to higher levels of care",
+        "nextRef": "pmd_c1p5",
+        "body": "<ul> <li>Assessing a patient’s ability to provide self-care is an important aspect of caring for people with type 2 diabetes.</li> <li> Some people (e.g. the elderly, people living with disabilities, isolated individuals and people with learning difficulties) may not be able to apply lifestyle changes or take medication as prescribed without support. These patients should be referred to specialist care. </li> <li> Other criteria for non-emergency referral to higher levels of care are shown below. </li> </ul> <div class=\"image-wrapper\"><img src=\"assets/pmd/c1-p4-fig-01.png\" /></div>"
+      }
+    },
+    {
+      "id": "pmd_c1p5",
+      "component": "HtmlComponent",
+      "content": {
+        "title": "Emergencies can arise when caring for people with diabetes ",
+        "nextRef": "pmd_c1p6",
+        "body": "<ul> <li> Diabetes can sometimes present urgent, life-threatening situations that warrant emergency (same day) referral to higher levels of care. </li> <li>It is important that people with diabetes and their families are aware of these medical emergencies, including how to recognize and avoid them.  </li> <li> Medical emergencies to be aware of include:<ul> <li>Suspicion of diabetic ketoacidosis or hyperosmolar hyperglycaemic state (see figure below)</li> <li>Urine ketones >2mmol/l</li> <li>Clinical suspicion of T1D at diagnosis</li> <li>Severe pain or numbness or absent/diminished pulse in the legs or feet</li> <li>Infected foot ulcer</li> <li>Hypoglycaemia unresolved with treatment </li> <li>Symptoms of coronary heart disease/stroke</li> <li>Deterioration of vision</li> <li>Blood pressure >180/>110 mm/Hg</li> <li>Absence of urine production (anuria)</li> <li>eGFR <30 ml/min/1.73 m<sup>2</sup></li> <li>No improvement in glycaemia ≥18 mmol/l despite metformin/gliclazide</li> </ul></li> </ul> <div class=\"case-callout-basic\"> <p> <strong>Diabetic ketoacidosis (DKA)</strong> – a life-threatening complication that occurs when insulin levels are insufficient to allow cells to use glucose for energy. Instead, the liver breaks down fat, a process that produces ketones. Excess ketone levels turn the blood acidic, which is life-threatening. </p> <ul> <li> DKA is most common in people with type 1 diabetes. </li> <li> Common causes include illness, missed insulin doses and insulin pump blockages. </li> <li> Symptoms include intense thirst, frequent urination and changed mental state. High blood or urine ketone levels (0.6–1.5 mmol/l) may occur during illness. Very high levels (>1.6 mmol/l) can be indicative of DKA. </li> </ul> <p><strong>Hyperosmolar hyperglycaemic state (HHS)</strong> – a life-threatening complication of diabetes that occurs with extremely high blood glucose levels (often >40 mmol/l [720 mg/dl]) over a period of weeks resulting in severe dehydration. It is most common in people with type 2 diabetes. Symptoms are similar to DKA with intense thirst, frequent urination and changed mental status.</p> </div> <div class=\"image-wrapper\"><img src=\"assets/pmd/c1-p5-fig-01.png\" /></div>"
+      }
+    },
+    {
+      "id": "pmd_c1p6",
+      "component": "HtmlComponent",
+      "content": {
+        "title": "Diabetes management should focus on achieving glycaemic control while managing other cardiovascular risk factors",
+        "nextRef": "../pmd_c2",
+        "body": "<ul> <li>As a complex disease, care for people with type 2 diabetes should ideally aim to achieve glycaemic control while managing other cardiovascular risk factors such as hypertension and dyslipidaemia.</li> <li> For cardiovascular disease prevention, statins are recommended for all people with type 2 diabetes older than 40 years, but only if this does not negatively impact access to glucose-lowering and blood pressure lowering medication. </li> <li>Recommendations for managing hypertension are shown below. Guidance on measuring blood pressure is included in the ‘Preventing and managing complications of diabetes’ chapter. </li> </ul> <div class=\"image-wrapper\"><img src=\"assets/pmd/c1-p6-fig-01.png\" /></div> <ul> <li> An agreed, person-centred and regularly reviewed diabetes care plan, including monitoring of glycaemic control and diabetes complications, are important aspects of the management approach. </li> </ul>"
+      }
+    },
+    {
+      "id": "pmd_c2p1",
+      "component": "HtmlComponent",
+      "content": {
+        "title": "Oral antihyperglycaemic agents should be considered if glycaemic targets are not achieved with lifestyle interventions alone",
+        "nextRef": "pmd_c2p2",
+        "body": "<ul> <li> Lifestyle interventions are essential for diabetes management. However, oral therapies should be considered if glycaemic targets are not achieved with lifestyle interventions alone in the first month following diagnosis. Additional agents might be required if one drug therapy is not sufficient to control blood glucose. </li> </ul> <div class=\"image-wrapper\"><img src=\"assets/pmd/c2-p1-fig-01.png\" /></div> <ul> <li> Of the options available, metformin, empagliflozin (an SGLT2 inhibitor) and gliclazide (a sulfonylurea) are included in the World Health Organization’s (WHO) Model List of Essential Medicines. </li> </ul>"
+      }
+    },
+    {
+      "id": "pmd_c2p2",
+      "component": "HtmlComponent",
+      "content": {
+        "title": "Metformin is the first-line pharmacotherapy for treating type 2 diabetes",
+        "nextRef": "pmd_c2p3",
+        "body": "  <ul> <li>Metformin is recommended as first-line pharmacotherapy for type 2 diabetes. </li> </li> <li> Metformin does not cause hypoglycaemia as it does not stimulate insulin secretion. Although metformin is generally well tolerated, it is associated with gastrointestinal side effects. To mitigate these side effects, metformin should be titrated slowly. </li> </ul> <div class=\"image-wrapper\"><img src=\"assets/pmd/c2-p2-fig-01.png\" /></div>"
+      }
+    },
+    {
+      "id": "pmd_c2p3",
+      "component": "HtmlComponent",
+      "content": {
+        "title": "Many people with type 2 diabetes need dual or triple antihyperglycaemic therapy",
+        "nextRef": "../pmd_c3",
+        "body": "<ul> <li> Metformin alone is not always sufficient to manage blood glucose, and dual therapy is often needed. </li> <li>The WHO recommends adding a sulfonylurea if glycaemic targets are not achieved with metformin alone. A sulfonylurea might be used instead of metformin if contraindications are present. </li> <li> Sulfonylureas are beginning to be replaced by newer glucose-lowering agents with a lower risk of hypoglycaemia, but due to their affordability they remain an important therapeutic option globally. </li> </ul> <div class=\"image-wrapper\"><img src=\"assets/pmd/c2-p3-fig-01.png\" /></div> <ul> <li> Sodium-glucose cotransporter-2 (SGLT2) inhibitors are another class of oral antihyperglycaemic agents. The WHO recommend SGLT2 inhibitors as an add-on treatment for non-pregnant adults with, or at high risk for, cardiovascular disease and/or diabetic nephropathy. </li> <li> Empagliflozin is the SGLT2 inhibitor included in WHO’s Model List of Essential Medicines. </li> </ul> <div class=\"image-wrapper\"><img src=\"assets/pmd/c2-p3-fig-02.png\" /></div> <ul> <li> GLP-1 receptor agonists are increasingly recommended as first- and second-line therapies in high-income countries due to their high glycaemic efficacy, association with significant weight loss and cardiovascular benefits. Only one GLP-1 RA is available as an oral therapy. At present, GLP-1 RAs are not included in WHO treatment guidelines as they are infrequently available in low-income countries. </li> </ul> <div class=\"topic-question-callout\"> <p>Reflection question: Do you see many people who are receiving metformin monotherapy? Are they achieving their glycaemic targets? </p> </div>"
+      }
+    },
+    {
+      "id": "pmd_c3p1",
+      "component": "HtmlComponent",
+      "content": {
+        "title": "Treatment with insulin should be initiated in people with type 2 diabetes if blood glucose is not well managed with dual oral therapy",
+        "nextRef": "pmd_c3p2",
+        "body": " <ul> <li> Intermediate-acting insulin NPH is recommended by WHO as third-line pharmacotherapy if blood glucose targets are not achieved with dual oral therapy. </li> <li> If insulin treatment is unsuitable (e.g. people who need support with injections but live alone), a DPP-4 inhibitor, SGLT2 inhibitor or thiazolidinedione can be added. </li><li>Individuals starting insulin therapy need support managing their dosage and to learn proper injection technique. </li><li>Other types of insulin are available and may be more suitable for individuals experiencing severe hypoglycaemia with intermediate-acting insulin. These insulins can be more complicated with regard to selecting the most appropriate dose and titrating, so should be initiated in higher levels of care.</li> </ul>"
+      }
+    },
+    {
+      "id": "pmd_c3p2",
+      "component": "HtmlComponent",
+      "content": {
+        "title": "Insulin is administered via subcutaneous injection",
+        "nextRef": "pmd_c3p3",
+        "body": "<ul> <li> People with type 2 diabetes who require insulin should be educated on appropriate insulin administration. </li> <li> Insulin should be injected into fatty tissue at a 90<sup>o</sup> angle. The main injection sites are usually stomach, thighs, buttocks and arms. </li> <li> Intramuscular injection should be avoided as this may result in more rapid absorption and serious hypoglycaemia. </li> </ul> <div class=\"image-wrapper\"><img src=\"assets/pmd/c3-p2-fig-01.png\" /></div> <ul> <li> To avoid bumps and scar tissue on the skin (lipohypertrophy), which can cause discomfort and poor insulin absorption, injection sites should be rotated. A systematic approach to injection site rotation should be adopted, with each injection at least 2.5 cm away from the previous. </li> </ul> <div class=\"image-wrapper\"><img src=\"assets/pmd/c3-p2-fig-02.png\" /></div> <ul> <li> When administering intermediate-acting (NPH) insulin, injection locations should be tailored to time of day. <ul> <li> In the morning, NPH should be given in the abdomen to increase speed of absorption in order to cover post-breakfast glycaemic rises. </li> <li> In the evening, NPH should be given in the thigh or buttock as this leads to slower absorption and decreases the risk of nocturnal (overnight) hypoglycaemia. </li> </ul> </li> <li> The shortest available needles are preferred for all patients. This is 4 mm for pen injectors and 6 mm for insulin syringes. </li> <li> Reuse of needles and syringes is not recommended but may be necessary in some circumstances. Patients should be advised to discard needles when injections become more painful or after a maximum of 5 uses. </li> <li> All people with diabetes treated with insulin should have a safe means of needle disposal. </li> <li> People with type 2 diabetes may be resistant to starting insulin therapy. They may be reluctant to inject themselves or may be fearful of hypoglycaemia. These factors should be explored and addressed to achieve good treatment adherence. </li> <li>Watch Dr SP Chan explain how to initiate insulin therapy.</li></ul><div class=\"video-wrapper\"> <video src=\"assets/pmd/SP_Chan_Chapter_03.mp4\" controls poster='/assets/poster-video.png'></video> </div>"
+      }
+    },
+    {
+      "id": "pmd_c3p3",
+      "component": "HtmlComponent",
+      "content": {
+        "title": "Patients require education on the need to store insulin carefully to maintain potency",
+        "nextRef": "../pmd_c4",
+        "body": "<ul> <li> Insulin should be dispensed with very clear instructions regarding its transportation from the health facility to the home and its safe storage and use at home. </li><li>If insulin is stored at temperatures that are too hot or too cold, this can damage the medication and make it less effective at lowering blood glucose levels. </li> </ul> <div class=\"image-wrapper\"><img src=\"assets/pmd/c3-p3-fig-01.png\" /></div>"
+      }
+    },
+    {
+      "id": "pmd_c4p1",
+      "component": "HtmlComponent",
+      "content": {
+        "title": "Self-monitoring of blood glucose should be available to people with diabetes, where possible",
+        "nextRef": "pmd_c4p2",
+        "body": " <ul> <li>The WHO recommends that all people with diabetes have access to blood glucose monitoring at home. This is particularly important for people with diabetes treated with insulin who, in some circumstances, can be educated on independent dose adjustment for optimal management. </li> <li> Individuals with the ability to carry out regular blood glucose monitoring at home should be aware of their target blood glucose levels. </li> <li> Self-monitoring of blood glucose is also important to detect hyperglycaemia or hypoglycaemia early. </li> </ul> <div class=\"topic-question-callout\"> <p> Reflection question: How many of your patients have access to blood glucose monitoring at home? How many of those treated with insulin are able to self-monitor? </p> </div>"
+      }
+    },
+    {
+      "id": "pmd_c4p2",
+      "component": "HtmlComponent",
+      "content": {
+        "title": "Hyperglycaemia should be detected and managed promptly to avoid adverse health complications",
+        "nextRef": "pmd_c4p3",
+        "body": "<ul> <li> Hyperglycaemia is associated with the development of diabetes-related comorbidities. Hyperglycaemic complications cause significant morbidity and mortality and constitute a large burden for people with diabetes, their relatives and healthcare systems. </li> <li> It is important to monitor blood glucose levels and respond quickly to hyperglycaemia. </li> <li> Ideally, hyperglycaemia should be detected and managed before symptoms arise. Because this is not always possible, the symptoms to be aware of are outlined below. </li> </ul> <div class=\"image-wrapper\"><img src=\"assets/pmd/c4-p2-fig-01.png\" /></div> <ul> <li> People with diabetes who experience frequent hyperglycaemia or symptoms of hyperglycaemia should report to their healthcare professional for treatment adjustment. </li> <li>Acute hyperglycaemic complications include diabetic ketoacidosis (most common in type 1 diabetes) and hyperosmolar hyperglycaemic state (most common in type 2 diabetes), which are medical emergencies. </li> </ul>"
+      }
+    },
+    {
+      "id": "pmd_c4p3",
+      "component": "HtmlComponent",
+      "content": {
+        "title": "People with diabetes may experience hypoglycaemia and should be aware of symptoms and treatment",
+        "nextRef": "pmd_c4p4",
+        "body": "<ul> <li> Hypoglycaemia, or abnormally low blood glucose, is a major reason for morbidity in people with diabetes. It is a cause of worry for people with diabetes and their families. </li> <li> People with diabetes should be counselled on the causes of hypoglycaemia, and how to recognize, prevent and treat it. </li> <li> Hypoglycaemia is caused by excess insulin, which can occur in people treated with exogenous (injected) insulin or insulin secretagogues (sulfonylureas) that increase insulin secretion from beta cells. </li> <li>It can also be induced by factors such as fasting, alcohol consumption, changes in diet, exercise or temperature, among others, which cause changes to insulin sensitivity. </li> </ul> <div class=\"image-wrapper\"><img src=\"assets/pmd/c4-p3-fig-01.png\" /></div> <ul> <li> People treated with insulin and/or insulin secretagogues should have access to blood glucose monitoring equipment and be educated on how to safely treat hypoglycaemia. </li> <li>Hypoglycaemia needs to be treated quickly to prevent progression to severe hypoglycaemia. Patient self-management of hypoglycaemia is outlined in the figure below.</li> </ul> <div class=\"image-wrapper\"><img src=\"assets/pmd/c4-p3-fig-02.png\" /></div>"
+      }
+    },
+    {
+      "id": "pmd_c4p4",
+      "component": "DuoImageComponent",
+      "content": {
+        "title": "Meet Amari, a 64-year-old man with type 2 diabetes",
+        "intro": "<p><em>Let’s reflect on what we have learnt so far in this chapter and begin to put learnings into practice.</em></p>",
+        "image": "",
+        "videoUrl": "",
+        "action": "",
+        "nextRef": "../pmd_c5",
+        "introImage": "assets/pmd/patient-amari.jpg",
+        "body": "<p> Amari is a 64-year-old man with type 2 diabetes diagnosed 3 months ago with a fasting plasma glucose of 7.9 mmol/l (142 mg/dl) and obesity, but no other comorbidities. At diagnosis, you counselled him on the importance of early intervention and lifestyle changes in managing type 2 diabetes. You discussed Amari’s current diet, advising him to reduce sugar and saturated fat. You also encouraged him to increase his physical activity to 30 minutes of moderate intensity exercise each day. Three months later, Amari returns to clinic for a review. </p> <div class=\"case-callout\"> <h3>Vital signs </h3> <ul> <li> Weight: 119 kg </li> <li> Height: 183 cm </li> <li> BMI: 35.5 kg/m<sup>2</sup> </li> <li> Fasting plasma glucose: 7.9 mmol/l </li> <li> HbA1c: 7.2% (55 mmol/mol) </li> </ul> </div> <p><b>Family history </b><br /> Father suffered a myocardial infarction aged 74. </p> <p><b>Reflection questions</b></p> <ul> <li> What blood glucose target is appropriate for Amari? </li> <li>The doctor has prescribed metformin. How could you support Amari as he starts this treatment to reduce the likelihood of side effects? </li> <li> When would you review Amari to assess the effectiveness of his treatment plan? </li> <li>Is now an appropriate time to counsel Amari on hypoglycaemia? How would you go about this?</li> </ul> <p> <b>Now that you have reflected on these questions, see below for an example of how you could respond. </b><br/> Amari is relatively young and healthy with no diabetes complications. Currently he is only treated with metformin, so a glycaemic target of <6.5 mmol/l (126 mg/dl) would be appropriate. </p> <p>Metformin should be titrated slowly to prevent gastrointestinal side effects. The WHO recommend starting with 500 mg metformin once-daily, taken with a meal and increasing the dose by 500 mg at 3-monthly intervals. Amari should be reviewed in 3-months to assess his response to metformin treatment, or earlier if symptoms occur. </p> <p>Amari does not need to be counselled on hypoglycaemia at this time because metformin does not cause hypoglycaemia. This should be addressed if/when Amari begins treatment with insulin or an insulin secretagogue. </p>"
+      }
+    },
+    {
+      "id": "pmd_c5p1",
+      "component": "HtmlComponent",
+      "content": {
+        "title": "People with diabetes need additional support managing concurrent illness",
+        "nextRef": "pmd_c5p2",
+        "body": " <ul> <li> Occasional sickness is a natural part of life but confers additional complications for people with diabetes. </li> <li> As part of the body’s defence mechanism for fighting illness and infection, more glucose is released into the bloodstream. Illness and infections can, therefore, raise blood glucose levels to dangerously high levels. </li> <li> People with diabetes need education on managing sick days to prevent complications.</li> </ul> <div class=\"image-wrapper\"><img src=\"assets/pmd/c5-p1-fig-01.png\" /></div>"
+      }
+    },
+    {
+      "id": "pmd_c5p2",
+      "component": "HtmlComponent",
+      "content": {
+        "title": "Religious and cultural considerations can impact diabetes management",
+        "nextRef": "pmd_c5p3",
+        "body": " <ul> <li> Diabetes treatment plans should be tailored to the individual. This includes offering support and personalization based on religious and cultural considerations. </li> <li> Many people choose to fast for religious reasons such as Ramadan. </li> </ul> <div class=\"topic-question-callout\"> <p> Reflection question: How many of your patients choose to fast for Ramadan? Are you offering support for your patients during this time? </p> </div> <ul> <li>Ramadan marks a sudden shift in mealtimes, sleep and wakefulness patterns, leading to physiological changes in the body. </li> <li> Although individuals with diabetes are exempt from fasting during Ramadan, data suggests that 42.8% of people with type 1 diabetes and 78.7% of people with type 2 diabetes globally choose to fast for at least 15 days during Ramadan. </li> <li> Because fasting is common during Ramadan, people with diabetes need to know how to fast safely, reducing the risk of hypoglycaemia, hyperglycaemia and dehydration. </li> <li> People with diabetes intending to fast should be:</li> <ul> <li>assessed for hypoglycaemia awareness</li> <li>given means of self-monitoring blood glucose values</li> <li>advised on diet and fluid intake </li> <li>educated on how to break the fast safely and when to break the fast early</li> <li>aware of how to tailor their treatment to avoid hypoglycaemia or hyperglycaemia during fasting.</li> </ul> </ul> <div class=\"image-wrapper\"><img src=\"assets/pmd/c5-p2-fig-01.png\" /></div> <div class=\"image-wrapper\"><img src=\"assets/pmd/c5-p2-fig-02.png\" /></div>"
+      }
+    },
+    {
+      "id": "pmd_c5p3",
+      "component": "HtmlComponent",
+      "content": {
+        "title": "Family planning and preconception care is an important part of diabetes management",
+        "nextRef": "../pmd_tyk",
+        "body": "<ul> <li> Diabetes in pregnancy is associated with an increased risk of adverse outcomes for mother and baby. </li> </ul> <div class=\"image-wrapper\"><img src=\"assets/pmd/c5-p3-fig-01.png\" /></div> <ul> <li> Women with diabetes require extra support before conception and during pregnancy to achieve optimal glycaemic management and reduce the likelihood of adverse outcomes. Effective pre-conception care significantly reduces the risk of adverse pregnancy outcomes. </li> </ul> <div class=\"image-wrapper\"><img src=\"assets/pmd/c5-p3-fig-02.png\" /></div> <div class=\"topic-question-callout\"> <p> Reflection question: Do you review contraception and pregnancy plans with women of childbearing age with diabetes during routine appointments? </p> </div> <ul> <li> Pre-pregnancy care should begin at least 3–6 months before conception to allow for meaningful change to glycaemic control. Effective contraceptive methods should continue to be used during this time. </li> <li>People with diabetes who are hoping to conceive should aim to achieve blood glucose levels as close to normal as possible, without significant hypoglycaemia. A target HbA1c of <6.5% (48 mmol/mol) is appropriate, or a fasting plasma glucose of ≤5.3 mmol/l (95 mg/dl). </li> <li> Pre-pregnancy care should include lifestyle advice and a review of medications. </li> </ul> <div class=\"image-wrapper\"><img src=\"assets/pmd/c5-p3-fig-03.png\" /></div>"
+      }
+    },
+    {
+      "id": "pmd_casestudy",
+      "component": "CaseComponent",
+      "content": {
+        "title": "Mary",
+        "intro": {
+          "history": "<h3>History</h3><ul> <li> 58-year-old woman with type 2 diabetes, diagnosed 12 months prior </li> <li> Works part-time as a shopkeeper with her husband. They have two sons, aged 36 and 31 </li> <li> Attends clinic for her diabetes review </li> <li> Family history: <ul> <li> Mother had gestational diabetes when pregnant with Mary </li> </ul> </li> <li> Personal medical history: <ul> <li> Always struggled with weight </li> <li> No additional comorbidities </li> </ul> </li> </ul>",
+          "medication": "<h3>Current medication and targets</h3><ul> <li> Metformin 2,000 mg/day </li> <li> Glycaemic target: FPG <6.5 mmol/l </li> </ul>",
+          "chemistry": "<h3>Clinical chemistry</h3><ul> <li> FPG: 7.6 mmol/l (137 mg/dl) </li> <li> HbA1c: 7.9% (63 mmol/mol) </li> <li> LDL-cholesterol: 2.4 mmol/l (93 mg/dl) </li> <li> HDL-cholesterol: 1.06 mmol/l (41 mg/dl) </li> <li> Triglycerides: 1.4 mmol/l (124 mg/dl) </li> <li> BP: 128/74 mmHg </li> <li> Waist circumference: 106 cm </li> <li> Height: 162 cm </li> <li> Weight: 86 kg </li> <li> BMI: 32.8 kg/m<sup>2</sup> </li> </ul>"
+        },
+        "nextRef": "../../pmd_c1",
+        "questions": [
+          {
+            "id": "pmd_casestudy_1",
+            "question": "Mary’s doctor has prescribed gliclazide because Mary is not achieving her glycaemic target on metformin monotherapy. Mary expresses concern about taking another medication and experiencing side effects. How would you address this with her?",
+            "correct": "3",
+            "answers": [
+              {
+                "id": "1",
+                "answer": "Tell Mary that if she does not take an additional medication her diabetes will never be under control and she will experience diabetes complications",
+                "response": "This is incorrect. While getting Mary to achieve her blood glucose target is a priority in her treatment, using scare tactics and failing to listen to a patient’s concerns are not associated with improved outcomes. <br/><strong>Go back and try again.</strong>"
+              },
+              {
+                "id": "2",
+                "answer": "Tell Mary that she doesn’t need to take gliclazide if she sticks to the suggested lifestyle changes",
+                "response": "This is incorrect. While lifestyle changes are important in managing type 2 diabetes, most people also require pharmacotherapy, including dual and triple therapy, to achieve their glycaemic goals. <br/><strong>Go back and try again.</strong>"
+              },
+              {
+                "id": "3",
+                "answer": "Listen to Mary’s concerns then discuss that most people require additional therapy to maintain blood glucose control. Explain potential for some weight gain, but this is generally fairly low with gliclazide; explain lower risk of hypoglycaemia compared with other sulfonylureas.",
+                "response": "This is correct. Data supports the use of gliclazide as a second-line therapy for type 2 diabetes. Gliclazide is associated with a relatively low risk of hypoglycaemia and some weight gain, but this can be addressed with appropriate support. <br /><strong>Continue to the next stage.</strong>"
+              },
+              {
+                "id": "4",
+                "answer": "Suggest that Mary could ask the doctor to start insulin treatment instead as this is associated with fewer side effects",
+                "response": "This is incorrect. The WHO guidelines include insulin as a third-line therapy if treatment with metformin and a sulfonylurea has not led to an individual achieving their glycaemic target. Mary should be encouraged to try gliclazide before considering insulin treatment.<br/><strong>Go back and try again.</strong>"
+              }
+            ],
+            "title": "Addressing patient barriers to treatment"
+          },
+          {
+            "id": "pmd_casestudy_2",
+            "question": "Based on Mary’s clinical and personal characteristics and updated treatment plan, which glycaemic target is most suitable?",
+            "correct": "3",
+            "answers": [
+              {
+                "id": "1",
+                "answer": "HbA1c: <6.0%<br />FPG: <6.0 mmol/l (108 mg/dl)",
+                "response": "This is incorrect. While this may be possible for some individuals, a less stringent glycaemic target is more likely to be achievable. Achievable goals are associated with greater engagement and better long-term outcomes. <br/><strong>Go back and try again.</strong>"
+              },
+              {
+                "id": "2",
+                "answer": "HbA1c: <6.5%<br />FPG: <6.5 mmol/l (117 mg/dl)",
+                "response": "This is incorrect. While Mary is relatively young and does not have any complications, she is now treated with dual therapy. WHO guidelines suggest individuals with dual therapy have higher glycaemic targets. <br/><strong>Go back and try again.</strong>"
+              },
+              {
+                "id": "3",
+                "answer": "HbA1c: <7.0%<br />FPG: <7.0 mmol/l (126 mg/dl)",
+                "response": "This is correct. WHO guidelines recommend glycaemic targets of <7.0% for HbA1c or <7.0 mmol/l for fasting plasma glucose for individuals treated with dual therapy. <br /><strong>Continue to the next stage.</strong>"
+              },
+              {
+                "id": "4",
+                "answer": "HbA1c: <7.5%<br />FPG: <7.5 mmol/l (135 mg/dl)",
+                "response": "This is incorrect. A more stringent glycaemic target is appropriate to reduce the risk of complications. <br/><strong>Go back and try again.</strong>"
+              }
+            ],
+            "title": "Choosing glycaemic goals"
+          },
+          {
+            "id": "pmd_casestudy_3",
+            "question": "Treatment with gliclazide is associated with a higher risk of hypoglycaemia than metformin monotherapy. You advise Mary about hypoglycaemia risk reduction and symptoms. Which blood glucose value is the upper threshold for defining hypoglycaemia?",
+            "correct": "2",
+            "answers": [
+              {
+                "id": "1",
+                "answer": "3.0 mmol/l (54 mg/dl)",
+                "response": "This is incorrect. The upper threshold for defining hypoglycaemia is higher than  3.0 mmol/l. <br/><strong>Go back and try again.</strong>"
+              },
+              {
+                "id": "2",
+                "answer": "3.9 mmol/l (70 mg/dl)",
+                "response": "This is correct. A blood glucose value of 3.9 mmol/l is the upper threshold for defining hypoglycaemia. <br /><strong>Continue to the next stage.</strong>"
+              },
+              {
+                "id": "3",
+                "answer": "4.5 mmol/l (81 mg/dl)",
+                "response": "This is incorrect. A blood glucose value of 4.5 mmol/l is within the healthy range. <br/><strong>Go back and try again.</strong>"
+              },
+              {
+                "id": "4",
+                "answer": "5.0 mmol/l (90 mg/dl)",
+                "response": "This is incorrect. A blood glucose value of 5.0 mmol/l is within the healthy range. <br/><strong>Go back and try again.</strong>"
+              }
+            ],
+            "title": "Hypoglycaemia awareness"
+          },
+          {
+            "id": "pmd_casestudy_4",
+            "question": "Mary mentioned that she plans to fast for Ramadan in 2 months’ time. What would you discuss with her?",
+            "correct": "4",
+            "answers": [
+              {
+                "id": "1",
+                "answer": "Inform Mary that she cannot fast due to her diabetes.",
+                "response": "This is incorrect. Many people with diabetes choose to fast for Ramadan or other reasons and should be supported in doing so safely. <br/><strong>Go back and try again.</strong>"
+              },
+              {
+                "id": "2",
+                "answer": "Recommend Mary stops taking her daily metformin and gliclazide doses while fasting.",
+                "response": "This is incorrect. Stopping all diabetes medications is likely to result in hyperglycaemia. <br/><strong>Go back and try again.</strong>"
+              },
+              {
+                "id": "3",
+                "answer": "Discuss with Mary the importance of self-blood glucose monitoring and assess access. Advise her that her usual doses of metformin and gliclazide can be continued while fasting.",
+                "response": "This is incorrect. In order to fast safely, Mary should have good awareness of hypoglycaemia and access to self-blood glucose monitoring. While metformin is safe to continue during fasting, sulfonylureas are associated with hypoglycaemia and the dose might need to be modified. <br/><strong>Go back and try again.</strong>"
+              },
+              {
+                "id": "4",
+                "answer": "Discuss with Mary the importance of self-blood glucose monitoring and assess access. Mary can be advised to continue with her usual dose of metformin, but the dose of gliclazide might require adjustment and should be reviewed prior to fasting.",
+                "response": "This is correct. In order to fast safely, Mary should have good awareness of hypoglycaemia and access to self-blood glucose monitoring. Metformin is safe to continue during fasting as it is associated with a low risk of hypoglycaemia. Doses of second-generation sulfonylureas might need to be reduced, based on current glycaemic control and dosing schedule. <br /><strong>Continue to the next stage.</strong>"
+              }
+            ],
+            "title": "Addressing religious and social considerations"
+          },
+          {
+            "id": "pmd_casestudy_5",
+            "question": "Despite preventative measures, Mary feels shaky and confused during her fast and suspects her blood sugar is low. What would you advise Mary to do upon experiencing these symptoms?",
+            "correct": "1",
+            "answers": [
+              {
+                "id": "1",
+                "answer": "Test blood glucose values and break the fast with 15 g of fast-acting carbohydrates if blood glucose values are ≤3.9 mmol/l",
+                "response": "This is correct. Hypoglycaemia during fasting means the fast must be broken early. The correct treatment for hypoglycaemia is 15 g of fast-acting carbohydrates (such as fruit juice, non-diet fizzy drinks, sweets). <br /><strong>Please continue.</strong>"
+              },
+              {
+                "id": "2",
+                "answer": "Test blood glucose values and break the fast with 35 g of fast-acting carbohydrates if blood glucose values are ≤3.9 mmol/l",
+                "response": "This is incorrect. While hypoglycaemia during fasting does mean the fast must be broken early, 35 g of fast-acting carbohydrates is too much and could lead to hyperglycaemia. <br/><strong>Go back and try again.</strong>"
+              },
+              {
+                "id": "3",
+                "answer": "Continue the fast but eat more than usual at the next meal",
+                "response": "This is incorrect. Hypoglycaemia is a potentially life-threatening emergency and must be treated immediately. <br/><strong>Go back and try again.</strong>"
+              },
+              {
+                "id": "4",
+                "answer": "Continue the fast but reduce next dose of metformin and gliclazide",
+                "response": "This is incorrect. Hypoglycaemia is a potentially life-threatening emergency and must be treated immediately. If hypoglycaemia is frequent, individuals should contact their healthcare professional for dose adjustment. <br/><strong>Go back and try again.</strong>"
+              }
+            ],
+            "title": "Treating hypoglycaemia"
+          }
+        ],
+        "summary": {
+          "intro": "<ul> <li> Mary returns for her 3-month follow-up appointment </li> <li> Her blood glucose has reduced, with her FPG now below target.</li> <li> Mary has noticed some recent weight gain <ul> <li> Explain that weight gain is a potential side effect of treatment with sulfonylureas, and discuss options for weight management </li> </ul> </li> <li> Mary is otherwise happy with her medication and pleased that her blood glucose levels are better controlled </li> </ul>",
+          "medication": "<h3>Current medication and targets</h3><ul> <li> Metformin 2,000 mg/day </li> <li> Gliclazide 80 mg once daily </li> <li> Glycaemic target: <7.0 mmol/l </li> </ul>",
+          "chemistry": "<h3>Clinical chemistry</h3><ul> <li> FPG: 6.9 mmol/l (124 mg/dl) </li> <li> HbA1c: 7.2% (55 mmol/mol) </li> <li> LDL-cholesterol: 2.3 mmol/l (89 mg/dl) </li> <li> HDL-cholesterol: 1.06 mmol/l (41 mg/dl) </li> <li> Triglycerides: 1.4 mmol/l (124 mg/dl) </li> <li> BP: 128/74 mmHg </li> <li> Waist circumference: 106 cm </li> <li> Height: 162 cm </li> <li> Weight: 88 kg </li> <li> BMI: 33.5 kg/m<sup>2</sup> </li> </ul>"
+        },
+        "cardTitle": "Say hello Mary",
+        "image": "assets/pmd/maxi-case-mary.jpg",
+        "subTitle": "A 58-year-old woman"
+      }
+    },
+    {
+      "id": "pmd__tyk",
+      "component": "MCQComponent",
+      "content": {
+        "title": "Test your knowledge",
+        "intro": "",
+        "nextRef": "",
+        "questions": [
+          {
+            "id": "pmd_tyk_1",
+            "question": "According to the WHO, when should metformin be initiated in an individual with type 2 diabetes?",
+            "correct": "2",
+            "answers": [
+              {
+                "id": "1",
+                "answer": "Immediately at diagnosis"
+              },
+              {
+                "id": "2",
+                "answer": "Fasting plasma glucose of >7 mmol/l (126 mg/dl) but <18 mmol/l (324 mg/dl) after 1 month of lifestyle interventions"
+              },
+              {
+                "id": "3",
+                "answer": "Fasting plasma glucose of >6 mmol/l (108 mg/dl) but <13 mmol/l (234 mg/dl) after 1 month of lifestyle interventions"
+              },
+              {
+                "id": "4",
+                "answer": "Fasting plasma glucose of >7 mmol/l (126 mg/dl) but <18 mmol/l (324 mg/dl) after 3 months of lifestyle interventions"
+              },
+              {
+                "id": "5",
+                "answer": "Fasting plasma glucose of >6 mmol/l (108 mg/dl) but <13 mmol/l (234 mg/dl) after 3 months of lifestyle interventions"
+              }
+            ]
+          },
+          {
+            "id": "pmd_tyk_2",
+            "question": "According to the WHO, which of the following is the most appropriate glycaemic target for an otherwise healthy older adult (aged 76) with no major comorbidities treated with metformin and gliclazide?",
+            "correct": "3",
+            "answers": [
+              {
+                "id": "1",
+                "answer": "Fasting plasma glucose of <6.5 mmol/l (117 mg/dl)"
+              },
+              {
+                "id": "2",
+                "answer": "Fasting plasma glucose of <7.0 mmol/l (126 mg/dl)"
+              },
+              {
+                "id": "3",
+                "answer": "Fasting plasma glucose between 6.5–7.5 mmol/l (117–135 mg/dl)"
+              },
+              {
+                "id": "4",
+                "answer": "Fasting plasma glucose between 7.6–9.0 mmol/l (137–162 mg/dl)"
+              },
+              {
+                "id": "5",
+                "answer": "Fasting plasma glucose of >9.0 mmol/l (162 mg/dl)"
+              }
+            ]
+          },
+          {
+            "id": "pmd_tyk_3",
+            "question": "Which of the following is a symptom of hyperglycaemia?",
+            "correct": "5",
+            "answers": [
+              {
+                "id": "1",
+                "answer": "Hunger"
+              },
+              {
+                "id": "2",
+                "answer": "Sweating"
+              },
+              {
+                "id": "3",
+                "answer": "Shaking"
+              },
+              {
+                "id": "4",
+                "answer": "Slurred speech"
+              },
+              {
+                "id": "5",
+                "answer": "Increased thirst and urination"
+              }
+            ]
+          },
+          {
+            "id": "pmd_tyk_4",
+            "question": "In which of the following circumstances would you advise against fasting?",
+            "correct": "3",
+            "answers": [
+              {
+                "id": "1",
+                "answer": "Type 1 diabetes"
+              },
+              {
+                "id": "2",
+                "answer": "Type 2 diabetes treated with insulin"
+              },
+              {
+                "id": "3",
+                "answer": "Individuals with poor hypoglycaemia awareness"
+              },
+              {
+                "id": "4",
+                "answer": "People aged >70 years"
+              },
+              {
+                "id": "5",
+                "answer": "Type 2 diabetes treated with metformin"
+              }
+            ]
+          },
+          {
+            "id": "pmd_tyk_5",
+            "question": "Intercurrent illness can seriously impact glycaemic management. Which of the following medications should still be continued when an individual is sick and cannot maintain food and fluid intake by mouth?",
+            "correct": "3",
+            "answers": [
+              {
+                "id": "1",
+                "answer": "Metformin"
+              },
+              {
+                "id": "2",
+                "answer": "Empagliflozin "
+              },
+              {
+                "id": "3",
+                "answer": "Insulin"
+              },
+              {
+                "id": "4",
+                "answer": "Gliclazide"
+              },
+              {
+                "id": "5",
+                "answer": "Dapagliflozin"
+              }
+            ]
+          }
+        ],
+        "summary": "<p> In this module we covered the pharmacological management of diabetes, when to refer patients to higher levels of care and how to manage acute complications such as hypoglycaemia and hyperglycaemia. </p> <ol> <li> WHO guidelines suggest metformin should be initiated in individuals with type 2 diabetes and a fasting plasma glucose of >7 mmol/l (126 mg/dl) but <18 mmol/l (324 mg/dl) after 1 month of lifestyle interventions. </li> <li> Based on WHO guidelines, a glycaemic target of HbA1c of 7.0–7.5% or fasting plasma glucose between 6.5–7.5 mmol/l (117–135 mg/dl) would be most appropriate for an otherwise healthy older adult (aged 76) with no major comorbidities treated with metformin and gliclazide. </li> <li> Increased thirst and urination are symptoms of hyperglycaemia. Hunger, sweating, shaking and slurred speech are associated with hypoglycaemia. </li> <li> Individuals with poor hypoglycaemia awareness should be advised against fasting due to the increased risk of hypoglycaemia associated with prolonged fasting that could go undetected. Most other people with diabetes can fast safely, with certain adjustments. </li> <li>Insulin should never be stopped completely during illness, even if food intake has been reduced. </li></ol>"
+      }
+    },
+    {
+      "id": "pmd_factsheet",
+      "component": "FactsheetComponent",
+      "content": {
+        "title": "Pharmacological management of type 2 diabetes: A quick reference guide",
+        "image": "/assets/pmd/factsheet.jpg",
+        "url": "/assets/factsheets/pharmacological-management-of-type-2-diabetes-a-quick-reference-guide.pdf"
+      }
+    }
+  ]
+}

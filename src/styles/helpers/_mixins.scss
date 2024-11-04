@@ -1,0 +1,7 @@
+
+@use '../helpers/variables' as var;
+
+
+@mixin text-shadow {
+    text-shadow: 1px 1px 10px rgba(var.$wdf-dark-blue, 0.75);
+}

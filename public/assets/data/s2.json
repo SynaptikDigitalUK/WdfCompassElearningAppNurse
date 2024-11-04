@@ -1,0 +1,598 @@
+{
+  "menu": {
+    "title": "Lifestyle management for people with diabetes",
+    "sectionId": "lmpd",
+    "chapters": [
+      {
+        "title": "The importance of lifestyle management",
+        "sectionId": "lmpd",
+        "chapterId": "lmpd_c1",
+        "showListing": true,
+        "chapters": [
+          {
+            "chapterId": "lmpd_c1",
+            "contentId": "lmpd_c1p1",
+            "title": "Effective management of diabetes requires long-term lifestyle changes and self-management alongside pharmacological therapy"
+          },
+          {
+            "chapterId": "lmpd_c1",
+            "contentId": "lmpd_c1p2",
+            "title": "Application of lifestyle interventions improves outcomes for people with diabetes"
+          },
+          {
+            "chapterId": "lmpd_c1",
+            "contentId": "lmpd_c1p3",
+            "title": "People with diabetes often face challenges when implementing lifestyle interventions"
+          }
+        ]
+      },
+      {
+        "title": "Nutritional considerations in diabetes",
+        "sectionId": "lmpd",
+        "chapterId": "lmpd_c2",
+        "showListing": true,
+        "chapters": [
+          {
+            "chapterId": "lmpd_c2",
+            "contentId": "lmpd_c2p1",
+            "title": "Healthy nutrition is an essential component of effective diabetes management"
+          },
+          {
+            "chapterId": "lmpd_c2",
+            "contentId": "lmpd_c2p2",
+            "title": "A low-carbohydrate diet is often advised for people with diabetes, but any diet based on healthy nutrition principles can be beneficial"
+          },
+          {
+            "chapterId": "lmpd_c2",
+            "contentId": "lmpd_c2p3",
+            "title": "Nutrition goals should be individualized and developed in collaboration with patients"
+          },
+          {
+            "chapterId": "lmpd_c2",
+            "contentId": "lmpd_c2p4",
+            "title": "Alcohol intake should be moderated as part of lifestyle interventions"
+          }
+        ]
+      },
+      {
+        "title": "The importance of exercise",
+        "sectionId": "lmpd",
+        "chapterId": "lmpd_c3",
+        "showListing": true,
+        "chapters": [
+          {
+            "chapterId": "lmpd_c3",
+            "contentId": "lmpd_c3p1",
+            "title": "Exercise is associated with many physical and mental health benefits"
+          },
+          {
+            "chapterId": "lmpd_c3",
+            "contentId": "lmpd_c3p2",
+            "title": "Exercise is an important strategy in the management of type 2 diabetes and should be tailored to individual abilities and preferences"
+          },
+          {
+            "chapterId": "lmpd_c3",
+            "contentId": "lmpd_c3p3",
+            "title": "Some people with diabetes need support to avoid hypoglycaemia when exercising"
+          }
+        ]
+      },
+      {
+        "title": "Lifestyle management beyond nutrition and exercise",
+        "sectionId": "lmpd",
+        "chapterId": "lmpd_c4",
+        "showListing": true,
+        "chapters": [
+          {
+            "chapterId": "lmpd_c4",
+            "contentId": "lmpd_c4p1",
+            "title": "Overweight and obesity are common in people with type 2 diabetes and should be addressed as part of lifestyle management"
+          },
+          {
+            "chapterId": "lmpd_c4",
+            "contentId": "lmpd_c4p2",
+            "title": "Sleep plays an important role in health and management of blood glucose levels"
+          },
+          {
+            "chapterId": "lmpd_c4",
+            "contentId": "lmpd_c4p3",
+            "title": "Smoking is one of the most important modifiable risk factors for prevention of diabetes and associated complications"
+          },
+          {
+            "chapterId": "lmpd_c4",
+            "contentId": "lmpd_c4p4",
+            "title": "Meet Zuri, a 46-year-old woman with type 2 diabetes"
+          }
+        ]
+      },
+      {
+        "title": "The psychological impact of living with diabetes",
+        "sectionId": "lmpd",
+        "chapterId": "lmpd_c5",
+        "showListing": true,
+        "chapters": [
+          {
+            "chapterId": "lmpd_c5",
+            "contentId": "lmpd_c5p1",
+            "title": "Stress management is an important aspect of diabetes care, which might improve patient outcomes"
+          },
+          {
+            "chapterId": "lmpd_c5",
+            "contentId": "lmpd_c5p2",
+            "title": "Diabetes distress and depression are common mental health conditions in people with diabetes"
+          }
+        ]
+      },
+      {
+        "title": "Test your knowledge",
+        "showListing": true,
+        "sectionId": "lmpd",
+        "chapterId": "lmpd_tyk",
+        "chapters": [
+          {
+            "chapterId": "lmpd_tyk",
+            "contentId": "lmpd__tyk",
+            "title": "Test your knowledge"
+          }
+        ]
+      }
+    ],
+    "learnMore": {
+      "casestudies": [
+        {
+          "title": "Case Study: Imani",
+          "chapterId": "lmpd_tyk",
+          "contentId": "lmpd_casestudy"
+        }
+      ],
+      "factsheets": [
+        {
+          "title": "Dietary interventions for people with diabetes",
+          "contentId": "lmpd_factsheet"
+        }
+      ]
+    }
+  },
+  "content": [
+    {
+      "id": "lmpd_c1p1",
+      "component": "HtmlComponent",
+      "content": {
+        "title": "Effective management of diabetes requires long-term lifestyle changes and self-management alongside pharmacological therapy",
+        "nextRef": "lmpd_c1p2",
+        "body": "<ul> <li> Lifestyle management is a fundamental aspect of diabetes care comprising lifestyle modification, self-management education and self-management support. </li> <li> Several lifestyle factors can be modified to support diabetes management, and changes need to be implemented over the long term. This, alongside high levels of self-management, often feels like a burden for people with diabetes. </li> </ul> <div class=\"image-wrapper\"><img src=\"assets/lmpd/c1-p1-fig-01.png\" /></div> <div class=\"image-wrapper\"><img src=\"assets/lmpd/c1-p1-fig-02.png\" /></div> <ul> <li>People with diabetes need education and ongoing support from healthcare professionals to make lifestyle changes and facilitate self-management. Importantly, people need to be empowered to implement self-care in a way that suits their current lifestyle, preferences and needs. </li> </ul>"
+      }
+    },
+    {
+      "id": "lmpd_c1p2",
+      "component": "HtmlComponent",
+      "content": {
+        "title": "Application of lifestyle interventions improves outcomes for people with diabetes",
+        "nextRef": "lmpd_c1p3",
+        "body": "<ul> <li> Adherence to self-management and lifestyle management is associated with improved outcomes for people with diabetes. Dietary changes and increased physical activity are associated with greater reductions in the following versus pharmacotherapy alone: <ul> <li>Body mass index</li> <li>Blood glucose</li> <li>Blood pressure</li> </ul> </li> <li>Likewise, nurse-led intensive self-management education (via educational booklets, videos, peer group discussions and follow-up telephone calls) is associated with greater reductions in blood glucose levels and blood pressure versus standard care.</li> </ul> <div class=\"image-wrapper\"><img src=\"assets/lmpd/c1-p2-fig-01.png\" /></div> <ul> <li>Lifestyle interventions can also prevent progression from prediabetes to type 2 diabetes.</li><li>Talking to people with diabetes about the benefits of lifestyle modification on health, and supporting them to make appropriate changes, is a key aspect of person-centred care. </li> </ul>"
+      }
+    },
+    {
+      "id": "lmpd_c1p3",
+      "component": "HtmlComponent",
+      "content": {
+        "title": "People with diabetes often face challenges when implementing lifestyle interventions",
+        "nextRef": "../lmpd_c2",
+        "body": "<ul> <li> Many people with diabetes find it challenging to implement lifestyle and self-management for the reasons outlined below. </li> </ul> <div class=\"topic-question-callout\"> <p> Reflection question: What are the most common challenges that might be experienced in your community for people trying to manage a chronic health condition like diabetes? </p> </div> <div class=\"image-wrapper\"><img src=\"assets/lmpd/c1-p3-fig-01.png\" /></div> <ul> <li> Education surrounding self-management should consider and address these challenges where possible, including: <ul> <li>Involving the family in diabetes education programmes</li> <li>Gaining an understanding of individual beliefs, values, lifestyle and preferences</li> <li>Referring for psychological support, where appropriate</li> </ul> </li> <li> Differences in individuals’ abilities and willingness to engage in self-management should be considered when delivering diabetes education. </li> <li> If an individual is unable to engage in self-management activities, especially taking medication as prescribed, consider referral to higher levels of care. </li> </ul>"
+      }
+    },
+    {
+      "id": "lmpd_c2p1",
+      "component": "HtmlComponent",
+      "content": {
+        "title": "Healthy nutrition is an essential component of effective diabetes management",
+        "nextRef": "lmpd_c2p2",
+        "body": "<ul> <li> It is important to support people with diabetes to implement a healthy eating plan. There are many variations of a healthy diet, and there is not one ideal diet for people with diabetes. </li> <li> Importantly, nutrition plans should be sustainable for the individual. To support this, dietary interventions should consider and reflect the individuals’ values, beliefs and preferences, and should aim to achieve the objectives outlined below. </li> </ul> <div class=\"image-wrapper\"><img src=\"assets/lmpd/c2-p1-fig-01.png\" /></div> <ul> <li> The Healthy Plate model is based on portion control of the types of food consumed in a meal. It can be effective in helping with weight loss or weight maintenance. </li> <li> There are two types of plate models recommended – T-shape and Y-shape, which are chosen according to the patient’s dietary goals. The T-shaped plate model helps to achieve weight loss, while the Y-shaped plate model helps with weight maintenance. </li> </ul> <div class=\"image-wrapper\"><img src=\"assets/lmpd/c2-p1-fig-02.png\" /></div>"
+      }
+    },
+    {
+      "id": "lmpd_c2p2",
+      "component": "HtmlComponent",
+      "content": {
+        "title": "A low-carbohydrate diet is often advised for people with diabetes, but any diet based on healthy nutrition principles can be beneficial",
+        "nextRef": "lmpd_c2p3",
+        "body": "  <ul> <li> Regardless of diet type, the recommended daily energy intake for a person with diabetes of healthy weight is between 1,500 and 2,500 calories per day, averaging around 2,000 calories per day. </li> <li> Some recommendations for individuals with overweight and obesity suggest the ideal energy intake is between 800 and 1,500 calories per day. </li> <li> People who are underweight (including growing children and adolescents) should consume at least 2,500 calories per day. </li><li>Watch Dr Eva Njenga discuss the importance of dietary interventions and practical tips on implementing these with your patients.</li> </ul> <div class=\"video-wrapper\"> <video src=\"assets/lmpd/E_Njenga.mp4\" controls poster='/assets/poster-video.png'></video> </div> <div class=\"topic-question-callout\"> <p> Reflection question: In your culture, what foods are most likely to be low in carbohydrates and sugar? </p> </div>"
+      }
+    },
+    {
+      "id": "lmpd_c2p3",
+      "component": "HtmlComponent",
+      "content": {
+        "title": "Nutrition goals should be individualized and developed in collaboration with patients",
+        "nextRef": "lmpd_c2p4",
+        "body": "<ul> <li> As with all lifestyle interventions, nutrition therapy should be tailored to the individual. Tailored nutrition should consider: <ul> <li>cultural differences in lifestyle</li> <li>accessibility to foods</li> <li>financial constraints</li> <li>genetic factors</li> <li>an individual’s control over their diet (e.g. are meals provided by family members or care workers?)</li> </ul> </li> <li> Work with people with diabetes to create small, achievable and personalized goals for nutritional intervention. </li> </ul> <div class=\"image-wrapper\"><img src=\"assets/lmpd/c2-p3-fig-01.png\" /></div>"
+      }
+    },
+    {
+      "id": "lmpd_c2p4",
+      "component": "HtmlComponent",
+      "content": {
+        "title": "Alcohol intake should be moderated as part of lifestyle interventions",
+        "nextRef": "../lmpd_c3",
+        "body": "<ul> <li> Excessive alcohol intake can have negative health consequences in all individuals but can be especially problematic for individuals with diabetes. </li> <li> People with diabetes should be advised to follow the same guidance for safe alcohol consumption as those without diabetes, and to choose lower carbohydrate options to avoid hyperglycaemia (such as wine instead of beer/cider and spirits with sugar-free mixers). <li> As alcohol reduces endogenous hepatic glucose production (glucose that is produced in the liver), it can increase risk for hypoglycaemia, especially in people treated with sulfonylureas and/or insulin. Individuals should be educated on risk reduction, including eating a small snack with some carbohydrates (e.g. 1 slice of toast) before bed when drinking alcohol. </li> </ul> <div class=\"topic-question-callout\"> <p> Reflection question: Do you discuss safe alcohol consumption in routine appointments with people with diabetes? </p> </div>"
+      }
+    },
+    {
+      "id": "lmpd_c3p1",
+      "component": "HtmlComponent",
+      "content": {
+        "title": "Exercise is associated with many physical and mental health benefits",
+        "nextRef": "lmpd_c3p2",
+        "body": "<ul> <li> Exercise is associated with numerous metabolic, functional and mental health benefits. Exercise promotes weight maintenance, hepatic and peripheral insulin sensitivity, glucose uptake and utilization, and cardiovascular health. </li> <li> Regular, moderate-to-high intensity exercise is associated with marked improvements in blood glucose levels, other cardiovascular risk factors and cardiorespiratory fitness, and should be encouraged where possible.  Regular exercise is associated with 1.25 mmol/l (22.5 mg/dl) reduction in fasting plasma glucose. </li> <li> However, as low cardiovascular fitness is a strong and independent predictor of mortality in people with type 2 diabetes, any achievable increase in physical activity is likely to be beneficial. </li> </ul> <div class=\"image-wrapper\"><img src=\"assets/lmpd/c3-p1-fig-01.png\" /></div> <ul> <li>People with diabetes should be educated on the importance of regular exercise and be supported in developing an exercise plan that suits their needs and preferences.</li> </ul>"
+      }
+    },
+    {
+      "id": "lmpd_c3p2",
+      "component": "HtmlComponent",
+      "content": {
+        "title": "Exercise is an important strategy in the management of type 2 diabetes and should be tailored to individual abilities and preferences",
+        "nextRef": "lmpd_c3p3",
+        "body": "<ul> <li> The benefits of physical activity should be communicated in self-management education for people with diabetes, but it is also important that individuals feel able and motivated to implement physical activity plans. </li> <li> Individualized goals should be set in collaboration with patients, taking into consideration their individual circumstances, preferences and abilities. </li> <li> WHO recommendations for exercise for all adults, including those with diabetes, are shown in the figure. These may not be achievable for all individuals with type 2 diabetes, but any increase in physical activity and reduction in sedentary time is likely to be beneficial. </li> </ul> <div class=\"image-wrapper\"><img src=\"assets/lmpd/c3-p2-fig-01.png\" /></div> <ul> <li> Globally, the majority of adults do not meet the WHO recommendations for physical activity. </li> <li> To improve this, exercise guidance for people with type 2 diabetes should be realistic and based on current weight, presence of comorbidities and mobility issues, as well as cultural factors, beliefs and lifestyle. </li> <li> People with diabetes and comorbidities such as obesity, neuropathy or visual impairment may not be able to engage in typical physical activities, but they can still benefit from physical activity. Consider specific exercises that could be accessible to this population, e.g. resistance training or swimming. </li> </ul> <div class=\"topic-question-callout\"> <p>Reflection question: How could you support people with diabetes to increase their time spent in physical activity?</p> </div> <div class=\"topic-question-callout\"> <p> Reflection question: How could you be more inclusive in your recommendations for physical activity? </p> </div>"
+      }
+    },
+    {
+      "id": "lmpd_c3p3",
+      "component": "HtmlComponent",
+      "content": {
+        "title": "Some people with diabetes need support to avoid hypoglycaemia when exercising",
+        "nextRef": "../lmpd_c4",
+        "body": "<ul>\n<li>Exercise can increase the risk of hypoglycaemia in individuals with diabetes, especially those treated with insulin or insulin secretagogues. \n</li>\n  <li> Under normal physiological conditions, endogenous insulin secretion falls during exercise. However, people with diabetes treated with insulin or insulin secretagogues might experience a hyperinsulinaemia state during exercise, where there is an excess of insulin relative to metabolic needs. Safe doses at rest can become unsafe under exercise conditions. </li> <li> Fear of hypoglycaemia is the greatest barrier to exercise in individuals with diabetes who are treated with insulin. Individuals with diabetes should be educated on the increased risk of hypoglycaemia when exercising, as well as prevention strategies, to improve their confidence to exercise. </li> </ul> <div class=\"image-wrapper\"><img src=\"assets/lmpd/c3-p3-fig-01.png\" /></div> <ul> <li> Generally, aerobic exercise (e.g., swimming, jogging, cycling, walking) results in a decrease in blood glucose levels in the short term.</li> <li>Anaerobic exercise often results in increased in blood glucose levels in the short term and can be used to prevent hypoglycaemia. It should be not used as treatment for existing hypoglycaemia. </li> </ul>"
+      }
+    },
+    {
+      "id": "lmpd_c4p1",
+      "component": "HtmlComponent",
+      "content": {
+        "title": "Overweight and obesity are common in people with type 2 diabetes and should be addressed as part of lifestyle management",
+        "nextRef": "lmpd_c4p2",
+        "body": "<ul> <li> The WHO defines overweight as a BMI ≥25 kg/m<sup>2</sup> and obesity as a BMI ≥30 kg/m<sup>2</sup>. Asian populations have a lower threshold for overweight at BMI ≥23 kg/m<sup>2</sup> and obesity at ≥27 kg/m<sup>2</sup>. </li> <li> Overweight and obesity affect 85–90% of individuals with type 2 diabetes. </li> </ul> <div class=\"topic-question-callout\"> <p>Reflection question: Do you counsel people with type 2 diabetes about the importance of achieving a healthy weight as part of routine diabetes care?</p> </div> <ul> <li> Modest weight loss of approximately 5−10% of initial body weight is associated with multiple health benefits and improved quality of life in people with obesity. Owing to these benefits, weight should be addressed, where applicable, as part of diabetes management. </li> </ul> <div class=\"image-wrapper\"><img src=\"assets/lmpd/c4-p1-fig-01.png\" /></div> <ul> <li> Nutrition therapy, physical activity and other lifestyle interventions, including sleep and stress management, are recommended to achieve and maintain ≥5% weight loss for people with type 2 diabetes and overweight or obesity. </li> <li> Several medications used in the treatment of type 1 and/or type 2 diabetes are associated with weight gain: <ul> <li>sulfonylureas</li> <li>insulin</li> <li>thiazolidinediones</li> </ul> </li> <li> These medications are important for the management of blood glucose and should be utilized according to guidelines. However, healthcare professionals should be proactive in discussing weight management with patients and monitoring individuals closely for weight changes. </li> </ul>"
+      }
+    },
+    {
+      "id": "lmpd_c4p2",
+      "component": "HtmlComponent",
+      "content": {
+        "title": "Sleep plays an important role in health and management of blood glucose levels",
+        "nextRef": "lmpd_c4p3",
+        "body": "<ul><li>Good quality sleep is an important factor in maintaining quality of life for all individuals, with poor sleep associated with worse quality of life.</li>\n\n<li> Sleep, obesity and type 2 diabetes are all interlinked. </li>\n\n<li> Type 2 diabetes and obesity can cause sleep disturbances by increasing the likelihood of obstructive sleep apnoea and incidences of nocturnal hypoglycaemia or nocturia (needing to get up to urinate during the night). Sleep can also be disturbed by complications such as painful neuropathy. </li> <li> Short sleep duration (≤6 hours per night) is associated with worse glycaemic control and increased risk of diabetic retinopathy and albuminuria. It is also a risk factor for obesity and weight gain. Poor sleep may hinder the effectiveness of weight loss interventions. </li> <li> Helping people with diabetes to develop healthy sleep habits may reduce weight gain and improve blood glucose levels. </li> </ul> <div class=\"image-wrapper\"><img src=\"assets/lmpd/c4-p2-fig-01.png\" /></div>"
+      }
+    },
+    {
+      "id": "lmpd_c4p3",
+      "component": "HtmlComponent",
+      "content": {
+        "title": "Smoking is one of the most important modifiable risk factors for prevention of diabetes and associated complications",
+        "nextRef": "lmpd_c4p4",
+        "body": "<ul> <li>Cigarette smoking is one of the most important modifiable risk factors for diabetes management. Stopping smoking has clear benefits in terms of reducing or slowing the risk of cardiovascular morbidity and mortality in people with diabetes.</li> <li>The negative health effects of smoking are well documented. There are also negative health effects that are specific to, or amplified in, people with diabetes.</li> </ul> <div class=\"image-wrapper\"><img src=\"assets/lmpd/c4-p3-fig-01.png\" /></div> <ul> <li> Individuals with diabetes who currently smoke should be encouraged and supported with smoking cessation. </li> <li> However, smoking cessation is often associated with poorer glycaemic management, possibly due to weight gain that frequently occurs with smoking abstinence. </li> <li> Monitor individuals closely for changes in weight and blood glucose levels, and address any concerns promptly. </li> </ul>"
+      }
+    },
+    {
+      "id": "lmpd_c4p4",
+      "component": "DuoImageComponent",
+      "content": {
+        "title": "Meet Zuri, a 46-year-old woman with type 2 diabetes",
+        "intro": "<p>Let’s reflect on what we have learnt so far in this chapter and begin to put learnings into practice.</p>",
+        "image": "",
+        "videoUrl": "",
+        "action": "",
+        "nextRef": "../lmpd_c5",
+        "introImage": "assets/lmpd/patient-zuri.jpg",
+        "body": "<p>Zuri is a 46-year-old woman with two adult children who was diagnosed with type 2 diabetes 18 months ago. She is currently treated with metformin 2,000 mg and gliclazide 80 mg daily. She reports to the clinic for a routine diabetes appointment. Zuri has gained weight since her last appointment (2 kg) and is worried about gaining more weight. She reports struggling to cook healthy meals, instead relying on snacks, and rarely exercises. She also reports poor sleep quality. </p> <div class=\"case-callout\"> <h3>Vital signs </h3> <ul> <li> Weight: 96 kg </li> <li> Height: 167 cm </li> <li> BMI: 34.4 kg/m<sup>2</sup> </li> <li> Fasting plasma glucose: 7.1 mmol/l (128 mg/dl) </li> <li> HbA1c: 7.3% (56 mmol/mol) </li> </ul> </div> <p><b>Family and personal history:</b><br /> Mother has type 2 diabetes, diagnosed aged 50 years </p> <p><b>Reflection questions</b></p> <ul> <li>Does Zuri meet the criteria for overweight or obesity? Would you aim to address her weight at this time?</li> <li>How would you address Zuri’s dietary choices? What recommendations would you make?</li> <li>How would you explain the benefits of regular exercise to Zuri? What steps could you take to develop an appropriate exercise plan with Zuri?</li> <li> What other lifestyle interventions could you explore with Zuri? </li> </ul> <p> <b>Now that you have reflected on these questions, see below for the expert’s view on this case.</b><br/> Zuri’s BMI is 34.4 kg/m<sup>2</sup>, which puts her in the category of obesity. Excess weight is associated with worse outcomes for people with diabetes so this should be addressed promptly. When creating a personalized treatment plan, consider Zuri’s individual barriers and challenges that make a healthy lifestyle challenging. Ask questions to get to know Zuri’s situation and provide tailored advice to address this. </p> <p>Zuri mentions struggling to cook meals and instead relies on snacks. Healthy eating is an important part of diabetes management. Dietary interventions should be tailored to the individual; in this case, that might mean helping Zuri to choose healthier snacks and perhaps work towards having one full meal per day and working up from here. Other dietary interventions could be planning meals in advance and aiming to eat fewer than 130 g of carbohydrates per day.</p><p>Regular exercise has many health benefits and is associated with weight maintenance such as improved insulin sensitivity, which may improve glycaemic management, improved stress levels, lowered blood pressure and reduced risk of certain complications.</p><p>Other lifestyle interventions could include a discussion of healthy sleep habits, alcohol consumption and smoking cessation (if appropriate).</p>"
+      }
+    },
+    {
+      "id": "lmpd_c5p1",
+      "component": "HtmlComponent",
+      "content": {
+        "title": "Stress management is an important aspect of diabetes care, which might improve patient outcomes",
+        "nextRef": "lmpd_c5p2",
+        "body": "<ul> <li> Stress is an important factor that may contribute to the onset of type 2 diabetes and is known to contribute to poorer glycaemic management. In many cases, stress may contribute to less favourable treatment outcomes by reducing treatment adherence. </li> <li> Higher stress levels have been associated with higher fasting blood sugar and poorer treatment adherence. </li> <li> Helping people with diabetes to manage stress is an important part of lifestyle management and may lead to improved outcomes. </li> </ul> <div class=\"image-wrapper\"><img src=\"assets/lmpd/c5-p1-fig-01.png\" /></div> <ul> <li> Nurse-led stress reduction education reduced diabetes distress, improved diabetes self-management behaviours and lowered average blood glucose levels. </li> <li> Peer support can also be a valuable tool for helping people with diabetes, offering community, collaborative problem solving and a sense of shared understanding. </li> <li> Self-management education with integrated peer support has been shown to reduce blood glucose levels. </li> </ul> <div class=\"topic-question-callout\"> <p> Reflection question: How could you better support your patients to cope with the stress associated with diabetes? </p> </div>"
+      }
+    },
+    {
+      "id": "lmpd_c5p2",
+      "component": "HtmlComponent",
+      "content": {
+        "title": "Diabetes distress and depression are common mental health conditions in people with diabetes",
+        "nextRef": "../lmpd_tyk",
+        "body": " <ul> <li>People with type 2 diabetes often experience two common mental health conditions: depression and diabetes distress. Some people can present with both depression and diabetes distress. </li> <li> Both depression and diabetes distress increase a patient's risk for mortality, poor disease management, diabetes-related complications and poor quality of life. </li> </ul> <div class=\"image-wrapper\"><img src=\"assets/lmpd/c5-p2-fig-01.png\" /></div> <ul> <li> People with diabetes are challenged on a daily basis to follow a complex set of behavioural actions, such as following a meal plan, engaging in physical activity and taking medications. </li> <li> It is estimated that only one-third of people with diabetes are able to effectively manage their disease, while more than half of these people report significant distress related to their illness and its management. </li> \n    <li> Psychosocial factors related to poor treatment adherence include: </li> <ul> <li>stress </li> <li>beliefs surrounding the inevitability of complications</li> <li>compliance fatigue</li> </ul> <li> Where possible, individuals with diabetes should be routinely screened for diabetes distress and depression and, where appropriate, referred to specialist services. </li> </ul> <div class=\"image-wrapper\"><img src=\"assets/lmpd/c5-p2-fig-02.png\" /></div>"
+      }
+    },
+    {
+      "id": "lmpd_casestudy",
+      "component": "CaseComponent",
+      "content": {
+        "title": "Imani",
+        "intro": {
+          "history": "<ul> <li> 64-year-old man with type 2 diabetes, diagnosed 3 years prior </li> <li> Works in an office job, hoping to retire in the next 12 months </li> <li> Married with four adult children, who are no longer living at home </li> <li>Attends clinic for his diabetes review. At his past 2 reviews, Imani’s blood glucose has been well managed. </li> <li> Imani reports a recent reduction in activity levels and an increase in snacking as he works fewer hours ahead of his retirement. His weight has increased from 102 kg to 108 kg (+6 kg) since his previous appointment. </li> <li> Family history: <ul> <li> Father died of MI aged 70 </li> </ul> </li> <li> Personal medical history: <ul> <li> Struggled with weight since children left home 8 years ago </li> <li> Current smoker, 1 pack per day </li> <li> Reports poor sleep </li> </ul> </li> </ul>",
+          "medication": "<h3>Current medication and targets</h3> <ul> <li> Metformin 2000 mg/day </li> <li> Gliclazide 160 mg/day </li> <li> Glycaemic target: FPG <7.0 mmol/l </li> </ul>",
+          "chemistry": "<h3>Clinical chemistry</h3> <ul> <li> FPG: 7.2 mmol/l (130 mg/dl) </li> <li> HbA1c: 7.4% (57 mmol/mol) </li> <li> LDL-cholesterol: 2.9 mmol/l (112 mg/dl) </li> <li> HDL-cholesterol: 1.3 mmol/l (50 mg/dl) </li> <li> Triglycerides: 1.7 mmol/l (151 mg/dl) </li> <li> BP: 136/79 mmHg </li> <li> Waist circumference: 107 cm </li> <li> Height: 181 cm </li> <li> Weight: 108 kg </li> <li> BMI: 33.0 kg/m<sup>2</sup> </li> </ul>"
+        },
+        "nextRef": "../../lmpd_c1",
+        "questions": [
+          {
+            "id": "lmpd_casestudy_2",
+            "question": "Imani mentions that his diet worsened when his children left home. He is concerned about his weight and meets the WHO definition for obesity. He and his wife now snack more often, usually eat high carbohydrate meals and regularly consume sugar-sweetened drinks. What dietary recommendations would you make?",
+            "correct": "2",
+            "answers": [
+              {
+                "id": "1",
+                "answer": "No changes, Imani is close to meeting his glycaemic target",
+                "response": "This is incorrect. Although Imani is close to achieving his glycaemic target, he mentions his diet worsening and meets the criteria for obesity so should be offered support with weight management. <br/><strong>Go back and try again.</strong>"
+              },
+              {
+                "id": "2",
+                "answer": "Work with Imani to make personalised changes to diet that will help to control his glycaemia and support weight loss (e.g. reducing carbohydrate intake, swapping unhealthy snacks for fruit or vegetables, lowering intake of saturated fat)",
+                "response": "This is correct. Imani should be reminded or informed of the benefits of even modest weight loss and supported to achieve this. Data suggest personalised, achievable goals are associated with better long-term outcomes. <br /><strong>Continue to the next question.</strong>"
+              },
+              {
+                "id": "3",
+                "answer": "Discuss the benefits of modest weight loss and recommend Imani starts a very-low-calorie-diet with a set meal plan",
+                "response": "This is incorrect. Although Imani should be reminded or informed of the benefits of even modest weight loss and supported to achieve this, data suggest personalised, achievable goals are associated with better long-term outcomes. <br/><strong>Go back and try again.</strong>"
+              },
+              {
+                "id": "4",
+                "answer": "Suggest to Imani that the only change he needs to make is to stop drinking sugar-sweetened drinks as these cause significant fluctuations in blood glucose values",
+                "response": "This is incorrect. Imani should be encouraged to stop drinking sugar-sweetened drinks but he is likely to also need further support with his diet. <br/><strong>Go back and try again.</strong>"
+              }
+            ],
+            "title": "Dietary modification"
+          },
+          {
+            "id": "lmpd_casestudy_3",
+            "question": "Imani works in a sedentary office job and rarely exercises. He has already agreed to work on the personalised, achievable dietary goals. Would you make any further lifestyle interventions at this time?",
+            "correct": "4",
+            "answers": [
+              {
+                "id": "1",
+                "answer": "No, you don’t want to overwhelm Imani with too many changes at once",
+                "response": "This is incorrect. Physical activity is important in diabetes management. Imani should have goals to encourage regular exercise. <br/><strong>Go back and try again.</strong>"
+              },
+              {
+                "id": "2",
+                "answer": "Advise Imani that regular exercise will reduce his blood glucose levels and help with weight maintenance. He should be exercising at least five times per week",
+                "response": "This is incorrect. Although exercise is associated with improved glycaemic management and weight maintenance, such a prescriptive approach without considering Imani’s preferences or current activity levels is unlikely to be successful. He is more likely to be successful with  personalised, achievable activity goals. <br/><strong>Go back and try again.</strong>"
+              },
+              {
+                "id": "3",
+                "answer": "Prescribe a set exercise plan of three 30-minute jogs and two weight training sessions per week",
+                "response": "This is incorrect. Rigid plans that do not consider personal abilities and preferences are unlikely to be achieved or maintained in the long term. <br/><strong>Go back and try again.</strong>"
+              },
+              {
+                "id": "4",
+                "answer": "Discuss the benefits of regular exercise on physical and mental health, including glycaemia. Suggest Imani starts to gradually increase his physical activity to meet WHO weekly targets of 150–300 minutes of moderate-intensity aerobic physical activity plus two days of muscle-strengthening workouts.",
+                "response": "This is correct. Imani should be encouraged to work towards achieving WHO activity recommendations due to the many health benefits associated with regular exercise. A gradual approach is likely to feel more achievable and not overwhelming. <br /><strong>Continue to the next question.</strong>"
+              }
+            ],
+            "title": "Physical activity"
+          },
+          {
+            "id": "lmpd_casestudy_4",
+            "question": "Stress and poor sleep can negatively impact quality of life, weight and diabetes management. Imani reports struggling to sleep for several months now. He also feels stressed about his health and describes diabetes management as ‘relentless’. How would you address this at his clinic appointment?  ",
+            "correct": "2",
+            "answers": [
+              {
+                "id": "1",
+                "answer": "Suggest Imani talks to his wife about feeling stressed",
+                "response": "Although family support is important, there is more that you can do to support Imani as his nurse. <br/><strong>Go back and try again.</strong>"
+              },
+              {
+                "id": "2",
+                "answer": "Educate Imani on healthy sleep habits, screen him for diabetes distress and put him in touch with the local diabetes peer support group",
+                "response": "This is correct. Imani needs additional support to improve his sleep and stress levels. Offering diabetes distress screening can identify people who need extra support. Peer support has been shown to be effective in improving distress levels and glycaemia. <br /><strong>Continue to the next question.</strong>"
+              },
+              {
+                "id": "3",
+                "answer": "Suggest Imani starts meditation to help his stress levels",
+                "response": "Although medication can have beneficial effects on stress levels, there is more that you can do to support Imani as his nurse. <br/><strong>Go back and try again.</strong>"
+              },
+              {
+                "id": "4",
+                "answer": "Recommend Imani starts treatment with medication to help him sleep better",
+                "response": "Sleep medication can be used safely in people with diabetes but supporting Imani with lifestyle interventions should be considered before prescribing medication. <br/><strong>Go back and try again.</strong>"
+              }
+            ],
+            "title": "Importance of stress and sleep management"
+          },
+          {
+            "id": "lmpd_casestudy_5",
+            "question": "Imani reports being a regular smoker for most of his adult life. How would you address this at his clinic appointment?",
+            "correct": "4",
+            "answers": [
+              {
+                "id": "1",
+                "answer": "Do nothing. Imani is a lifelong smoker, and the damage is already done. There will be limited benefits to smoking cessation at this time.",
+                "response": "This is incorrect. Smoking cessation is associated with reduced risk for developing complications of diabetes and all-cause mortality. <br/><strong>Go back and try again.</strong>"
+              },
+              {
+                "id": "2",
+                "answer": "Imani did not mention wanting to stop smoking today, so you make a note to check again at his next clinic appointment.",
+                "response": "This is incorrect. As Imani’s doctor you should initiate the conversation of the risks associated with smoking and the benefits of cessation. <br/><strong>Go back and try again.</strong>"
+              },
+              {
+                "id": "3",
+                "answer": "Tell Imani that smoking is increasing his risk of developing complications of diabetes, including cardiovascular disease. Tell him he must quit immediately.",
+                "response": "Although quitting smoking immediately is likely to have benefits on Imani’s health, taking a harsh and inflexible stance could make Imani lose trust and feel he cannot disclose less positive habits. <br/><strong>Go back and try again.</strong>"
+              },
+              {
+                "id": "4",
+                "answer": "Discuss with Imani that smoking is increasing his risk of developing complications of diabetes, including cardiovascular disease. Support Imani with smoking cessation tools.",
+                "response": "This is correct. Most people need support with smoking cessation. By being understanding of Imani, he is more likely to reach out for support in the future. <br /><strong>Please continue.</strong>"
+              }
+            ],
+            "title": "Smoking cessation"
+          }
+        ],
+        "summary": {
+          "intro": "<ul> <li>Imani returns for his follow up </li> <li> Imani reports now eating 3 meals per day and reducing snacking. He has swapped sugar-sweetened drinks for diet versions or water. He says he now regularly eats 5 portions of fruit and vegetables each day. </li> <li> He has started walking with his wife every day for 45 mins. They go swimming twice a week and he hopes to join a gym soon and begin strength training. </li> <li> Imani mentioned struggling to stop smoking but has cut down on smoking to 5 cigarettes per day. He hopes to stop completely in the next few months. </li> <li> His blood glucose has reduced, and he is now achieving his glycaemic target. </li> <li> He has lost 3 kg and is feeling more positive about his health in the future. </li> </ul>",
+          "medication": "<h3>Current medication and targets</h3> <ul> <li> Metformin 2000 mg/day </li> <li> Gliclazide 160 mg/day </li> <li> Glycaemic target: FPG <7.0 mmol/l </li> </ul>",
+          "chemistry": "<h3>Clinical chemistry</h3> <ul> <li> FPG: 6.9 mmol/l (124 mg/dl) </li> <li> HbA1c: 6.9% (52 mmol/mol) </li> <li> LDL-cholesterol: 2.7 mmol/l (104 mg/dl) </li> <li> HDL-cholesterol: 1.6 mmol/l (62 mg/dl) </li> <li> Triglycerides: 1.5 mmol/l (133 mg/dl) </li> <li> BP: 133/78 mmHg </li> <li> Waist circumference: 103 cm </li> <li> Height: 181 cm </li> <li> Weight: 105 kg </li> <li> BMI: 32.1 kg/m<sup>2</sup> </li> </ul>"
+        },
+        "cardTitle": "Say hello Imani",
+        "image": "assets/lmpd/maxi-case-imani.jpg",
+        "subTitle": "64-year-old man"
+      }
+    },
+    {
+      "id": "lmpd__tyk",
+      "component": "MCQComponent",
+      "content": {
+        "title": "Test your knowledge",
+        "intro": "",
+        "nextRef": "",
+        "questions": [
+          {
+            "id": "lmpd_tyk_1",
+            "question": "In the ‘healthy plate’ T-shape model which supports weight loss, approximately what proportion of the plate should be vegetables?",
+            "correct": "4",
+            "answers": [
+              {
+                "id": "1",
+                "answer": "15%"
+              },
+              {
+                "id": "2",
+                "answer": "25%"
+              },
+              {
+                "id": "3",
+                "answer": "33%"
+              },
+              {
+                "id": "4",
+                "answer": "50%"
+              },
+              {
+                "id": "5",
+                "answer": "75%"
+              }
+            ]
+          },
+          {
+            "id": "lmpd_tyk_2",
+            "question": "Which of the following food groups has the most significant impact on blood glucose levels?",
+            "correct": "2",
+            "answers": [
+              {
+                "id": "1",
+                "answer": "Fats"
+              },
+              {
+                "id": "2",
+                "answer": "Carbohydrates"
+              },
+              {
+                "id": "3",
+                "answer": "Protein"
+              },
+              {
+                "id": "4",
+                "answer": "Dairy"
+              },
+              {
+                "id": "5",
+                "answer": "Vegetables"
+              }
+            ]
+          },
+          {
+            "id": "lmpd_tyk_3",
+            "question": "What is the recommended daily calorie intake for a woman with diabetes of healthy weight?",
+            "correct": "3",
+            "answers": [
+              {
+                "id": "1",
+                "answer": "1200 kcal"
+              },
+              {
+                "id": "2",
+                "answer": "1500 kcal"
+              },
+              {
+                "id": "3",
+                "answer": "2000 kcal"
+              },
+              {
+                "id": "4",
+                "answer": "2500 kcal"
+              },
+              {
+                "id": "5",
+                "answer": "3000 kcal"
+              }
+            ]
+          },
+          {
+            "id": "lmpd_tyk_4",
+            "question": "Individuals with type 2 diabetes should have small, achievable and personalised goals. Which of the following would be considered a suitable goal for an individual who currently has obesity, is physically inactive and does not have a healthy diet?",
+            "correct": "3",
+            "answers": [
+              {
+                "id": "1",
+                "answer": "Moderate exercise (e.g. jogging) for 45─60 minutes per day"
+              },
+              {
+                "id": "2",
+                "answer": "Aiming for <25g carbohydrates per day"
+              },
+              {
+                "id": "3",
+                "answer": "Gentle exercise (e.g. walking) starting with 15 minutes per day, gradually increasing when comfortable"
+              },
+              {
+                "id": "4",
+                "answer": "Skipping breakfast to achieve greater weight loss"
+              },
+              {
+                "id": "5",
+                "answer": "Aiming for 75% of each meal to be vegetables"
+              }
+            ]
+          },
+          {
+            "id": "lmpd_tyk_5",
+            "question": "Which of the following diabetes medications is NOT associated with weight gain?",
+            "correct": "5",
+            "answers": [
+              {
+                "id": "1",
+                "answer": "Gliclazide"
+              },
+              {
+                "id": "2",
+                "answer": "Glibenclamide"
+              },
+              {
+                "id": "3",
+                "answer": "Insulin "
+              },
+              {
+                "id": "4",
+                "answer": "Thiazolidinediones"
+              },
+              {
+                "id": "5",
+                "answer": "Metformin"
+              }
+            ]
+          }
+        ],
+        "summary": "<p>In this module, we covered why and how to support people with type 2 diabetes in making sustainable lifestyle interventions and achieving their goals.</p> <ol> <li> The T-shape is a model that can be used to build a healthy plate for an individual working towards a weight loss goal. Vegetables should take up approximately 50% of each plate or meal with this model. </li> <li> The food group known to have the most significant impact on blood glucose levels is carbohydrates. Some vegetables are high in carbohydrates and may affect blood glucose, but fats, protein and dairy are unlikely to significantly affect blood glucose levels. </li> <li>The recommended daily energy intake for the average woman with diabetes of healthy weight is 2000 calories per day. </li> <li> Lifestyle goals should be tailored to the individual including considering current lifestyle habits. A goal of 45–60 minutes of moderate exercise daily is likely too ambitious and unsustainable for an individual who is currently not physically active. </li> <li> Many diabetes medications are associated with weight gain. However, metformin is typically weight neutral, with some individuals experiencing slight weight loss. Gliclazide, glibenclamide, insulin and thiazolidinediones are associated with varying levels of weight gain. </li> </ol>"
+      }
+    },
+    {
+      "id": "lmpd_factsheet",
+      "component": "FactsheetComponent",
+      "content": {
+        "title": "Dietary interventions for people with diabetes",
+        "image": "/assets/lmpd/factsheet.jpg",
+        "url": "/assets/factsheets/dietary-interventions-for-people-with-diabetes.pdf"
+      }
+    }
+  ]
+}

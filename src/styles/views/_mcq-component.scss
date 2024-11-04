@@ -1,0 +1,45 @@
+@use './../helpers/variables' as var;
+@use './../../../node_modules/bootstrap/scss/bootstrap.scss' as bs;
+
+
+.container-mcq-content {
+    .card {
+        // margin: 0;
+        // padding: 0;
+    }
+}
+
+.card-mcq {
+    .quiz-intro-text {
+        margin-bottom: 20px;
+    }
+}
+
+#mcq_summary_response{
+    li{
+       color:var.$wdf-dark-blue;
+
+        transition: color .5s ease-in-out;
+        -webkit-transition: color .5s ease-in-out;
+        -moz-transition: color .5s ease-in-out;
+
+        &.incorrect{
+
+
+            span{
+                color: bs.$red;
+                font-family: 'LatoWebBold';
+                display: block;
+            }
+
+        }
+        &.correct{
+
+            span{
+                color: bs.$green;
+                font-family: 'LatoWebBold';
+                display: block;
+            }
+        }
+    }
+}

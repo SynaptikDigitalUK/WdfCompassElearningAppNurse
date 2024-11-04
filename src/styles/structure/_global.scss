@@ -1,0 +1,33 @@
+@use './../../../node_modules/bootstrap/scss/bootstrap.scss' as bs;
+
+
+.content-wrapper {
+
+       @include bs.media-breakpoint-down(lg) { 
+        padding-left: 32px;
+        padding-right: 32px;
+      }
+      
+      @include bs.media-breakpoint-down(sm) { 
+        padding-left:20px;
+        padding-right: 20px;
+      }  
+}
+
+
+
+
+
+.container-listing-content,
+.container-references-content,
+.container-help-content,
+.container-terms-content,
+.container-course-content,
+.container-case-content,
+.container-mcq-content {
+    margin-top: 102px;
+    @include bs.media-breakpoint-down(sm) { 
+      margin-top: 92px;
+    } 
+}
+

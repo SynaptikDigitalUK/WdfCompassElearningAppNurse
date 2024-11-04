@@ -1,0 +1,464 @@
+{
+  "menu": {
+    "title": "Prevention, screening and diagnosis",
+    "sectionId": "psd",
+    "chapters": [
+      {
+        "title": "Diabetes overview",
+        "sectionId": "psd",
+        "chapterId": "psd_c1",
+        "showListing": true,
+        "chapters": [
+          {
+            "chapterId": "psd_c1",
+            "contentId": "psd_c1p1",
+            "title": "Diabetes is a group of metabolic disorders characterized by hyperglycaemia, which can lead to complications if left untreated"
+          },
+          {
+            "chapterId": "psd_c1",
+            "contentId": "psd_c1p2",
+            "title": "Diabetes is associated with the dysfunction and/or destruction of pancreatic beta-cells"
+          },
+          {
+            "chapterId": "psd_c1",
+            "contentId": "psd_c1p3",
+            "title": "Prediabetes is defined as impaired fasting glucose and impaired glucose tolerance"
+          },
+          {
+            "chapterId": "psd_c1",
+            "contentId": "psd_c1p4",
+            "title": "Type 1 diabetes, type 2 diabetes and gestational diabetes are very different from each other and have different treatment approaches"
+          }
+        ]
+      },
+      {
+        "title": "Risk factors, prevention and screening",
+        "sectionId": "psd",
+        "chapterId": "psd_c2",
+        "showListing": true,
+        "chapters": [
+          {
+            "chapterId": "psd_c2",
+            "contentId": "psd_c2p1",
+            "title": "Onset of type 2 diabetes can often be prevented or delayed through lifestyle changes"
+          },
+          {
+            "chapterId": "psd_c2",
+            "contentId": "psd_c2p2",
+            "title": "Screening can help to diagnose type 2 diabetes earlier, potentially leading to improved long-term outcomes"
+          },
+          {
+            "chapterId": "psd_c2",
+            "contentId": "psd_c2p3",
+            "title": "Meet Neema, a 55-year-old woman with obesity and hypertension"
+          }
+        ]
+      },
+      {
+        "title": "Diagnosing diabetes",
+        "showListing": true,
+        "sectionId": "psd",
+        "chapterId": "psd_c3",
+        "chapters": [
+          {
+            "chapterId": "psd_c3",
+            "contentId": "psd_c3p1",
+            "title": "Symptoms of type 1 diabetes often present suddenly, while symptoms of type 2 diabetes are slower to evolve"
+          },
+          {
+            "chapterId": "psd_c3",
+            "contentId": "psd_c3p2",
+            "title": "Diabetes can be diagnosed using multiple different tests"
+          },
+          {
+            "chapterId": "psd_c3",
+            "contentId": "psd_c3p3",
+            "title": "A diagnosis of diabetes can have psychological implications"
+          }
+        ]
+      },
+      {
+        "title": "Test your knowledge",
+        "showListing": true,
+        "sectionId": "psd",
+        "chapterId": "psd_tyk",
+        "chapters": [
+          {
+            "chapterId": "psd_tyk",
+            "contentId": "psd__tyk",
+            "title": "Test your knowledge"
+          }
+        ]
+      }
+    ],
+    "learnMore": {
+      "casestudies": [
+        {
+          "title": "Case Study: Nelson",
+          "chapterId": "psd_tyk",
+          "contentId": "psd_casestudy"
+        }
+      ],
+      "factsheets": [
+        {
+          "title": "WHO diabetes fact sheet",
+          "contentId": "psd_factsheet"
+        }
+      ]
+    }
+  },
+  "content": [
+    {
+      "id": "psd_c1p1",
+      "component": "HtmlComponent",
+      "content": {
+        "title": "Diabetes is a group of metabolic disorders characterized by hyperglycaemia, which can lead to complications if left untreated",
+        "body": "<ul> <li>Diabetes mellitus, commonly known as diabetes, is a group of metabolic disorders characterized by the presence of hyperglycaemia (raised blood sugar) in the absence of treatment. The underlying causes of diabetes include defects in insulin secretion, insulin action or both. The most common types are outlined below.</li> </ul> <div class='image-wrapper'><img src='assets/psd/c1-p1-fig-01.png' /></div> <ul> <li>Long-term complications of diabetes include retinopathy (eye complications), nephropathy (kidney complications) and neuropathy (complications of the peripheral nervous system). These complications are more likely to occur if blood glucose is not controlled. </li> <li>People with diabetes are also at increased risk for cardiac, peripheral arterial and cerebrovascular diseases, cataracts, erectile dysfunction and non-alcoholic fatty liver disease. </li> <li>Having a diagnosis of diabetes is associated with an increased risk of some infectious diseases such as tuberculosis and COVID-19, and people with diabetes are more likely to experience poor outcomes.</li> <li>Prompt diagnosis and appropriate management of diabetes is necessary to prevent the development of complications and preserve quality of life.</li> <li>Watch Professor Kamlesh Khunti explain the importance of early intervention in diabetes management.</> </ul> <div class='video-wrapper'><video src='assets/psd/K_Kunti_Chapter_01.mp4' controls poster='/assets/poster-video.png'></video></div>",
+        "nextRef": "psd_c1p2"
+      }
+    },
+    {
+      "id": "psd_c1p2",
+      "component": "HtmlComponent",
+      "content": {
+        "title": "Diabetes is associated with the dysfunction and/or destruction of pancreatic beta-cells",
+        "nextRef": "psd_c1p3",
+        "body": "<ul> <li>The underlying characteristic common to all forms of diabetes is the dysfunction and/or destruction of pancreatic beta-cells, which are responsible for producing insulin. The human pancreas cannot renew beta-cells after the age of 30 years, so these cells are not replaced, and the typical process of blood glucose regulation is disrupted.</li> </ul> <ul> <li>Insulin reduces blood sugar by allowing glucose to move into cells where it is used for energy.</li> </ul> <div class='image-wrapper'><img src='assets/psd/c1-p2-fig-02.png' /></div> <ul> <li>In the absence of sufficient insulin or reduced insulin sensitivity, such as occurs in diabetes, the body is not able to utilize glucose for energy in its cells. Instead, glucose remains in the bloodstream, leading to hyperglycaemia (elevated blood glucose).</li> </ul>"
+      }
+    },
+    {
+      "id": "psd_c1p3",
+      "component": "HtmlComponent",
+      "content": {
+        "title": "Prediabetes is defined as impaired fasting glucose and impaired glucose tolerance",
+        "nextRef": "psd_c1p4",
+        "body": "<ul> <li>Impaired fasting glucose (IFG) and impaired glucose tolerance (IGT) are insulin resistance conditions with associated beta-cell dysfunction. In people with insulin resistance, more insulin than usual is required to maintain blood glucose levels in the physiological range. Factors associated with insulin resistance are shown below.</li> </ul> <div class='image-wrapper'><img src='assets/psd/c1-p3-fig-01.png' /></div> <ul> <li>Prior to the development of type 2 diabetes, pancreatic beta-cells can usually compensate for insulin resistance by producing more insulin.</li> <li>Increased insulin production puts strain on the beta-cells and their function gradually deteriorates, causing blood glucose levels to slowly increase. At this point, individuals do not reach the cutoff for the diagnosis of diabetes, but this ‘prediabetes’ state confers high risk for the development of diabetes.</li> </ul> <ul> <li>Some people with prediabetes can revert to normal glucose tolerance via sustainable physical activity and weight loss. However, approximately 70% of people with prediabetes progress to type 2 diabetes.</li> </ul>"
+      }
+    },
+    {
+      "id": "psd_c1p4",
+      "component": "HtmlComponent",
+      "content": {
+        "title": "Type 1 diabetes, type 2 diabetes and gestational diabetes are very different from each other and have different treatment approaches",
+        "nextRef": "../psd_c2",
+        "body": "<ul> <li>In type 1 diabetes, the pancreas stops producing insulin as a result of beta-cell destruction by autoantibodies. The onset of type 1 diabetes is most common in childhood and early adulthood, but can occur at any age, and requires daily administration of insulin for the rest of the patient’s life.</li> <li>In type 2 diabetes, the pancreas continues to produce insulin but production decreases over time. Symptoms of type 2 diabetes can be mild and slow to develop. As a result, the disease may be diagnosed several years after onset, when complications have already arisen.</li> <li>Gestational diabetes is characterized by blood glucose values above normal but below those diagnostic for diabetes. Women with gestational diabetes have an increased risk of complications during pregnancy and at delivery. These women and possibly their children are more likely to develop type 2 diabetes in the future. </li> </ul> <div class='image-wrapper'><img src='assets/psd/c1-p4-fig-01.png' /></div>"
+      }
+    },
+    {
+      "id": "psd_c2p1",
+      "component": "HtmlComponent",
+      "content": {
+        "title": "Onset of type 2 diabetes can often be prevented or delayed through lifestyle changes",
+        "nextRef": "psd_c2p2",
+        "image": "",
+        "body": " <ul> <li>Unlike type 1 diabetes, type 2 diabetes is often preventable. </li> <li>There are multiple risk factors for type 2 diabetes, many of which are modifiable. The causes of type 1 diabetes are not entirely clear but it is not thought to be linked to lifestyle factors.</li> </ul> <div class='image-wrapper'><img src='assets/psd/c2-p1-fig-01.png' /></div> <div class=\"topic-question-callout\"> <p>Reflection question: How many patients do you routinely see who have one or more risk factors for type 2 diabetes?</p> </div> <ul> <li>Addressing modifiable risk factors via lifestyle changes can help to prevent or delay onset of type 2 diabetes.</li> </ul> <div class='image-wrapper'><img src='assets/psd/c2-p1-fig-02.png' /></div> <ul> <li>Risk factors for gestational diabetes include an age above 25 years, obesity, hypertension and a family history of diabetes.</li> </ul>"
+      }
+    },
+    {
+      "id": "psd_c2p2",
+      "component": "HtmlComponent",
+      "content": {
+        "title": "Screening can help to diagnose type 2 diabetes earlier, potentially leading to improved long-term outcomes",
+        "nextRef": "psd_c2p3",
+        "body": "<ul> <li>Screening is a rough sorting process that separates people who probably do have a condition from those who probably do not.</li> <li>Type 2 diabetes has a long asymptomatic period; it is estimated that onset of disease occurs 4 to 7 years before diagnosis. Consequently, many people with type 2 diabetes already have microvascular complications at the time of diagnosis.</li> <li>Screening for hyperglycaemia can help to identify people who are at risk for preventable diabetes complications so that earlier treatment can be offered. Early diagnosis and treatment of type 2 diabetes are associated with improved life expectancy and quality of life.</li> <li>People between the ages of 40 and 70 or younger people with at least one known risk factor should be screened for type 2 diabetes annually, where possible.</li> </ul> <div class=\"topic-question-callout\"> <p>Reflection question: How could you introduce a screening programme for your patients?</p> </div> <ul> <li>Screening for type 2 diabetes should be carried out more frequently in adults who have overweight or obesity and at least one other risk factor (see figure).</li> </ul> <div class='image-wrapper'><img src='assets/psd/c2-p2-fig-01.png' /></div> <ul> <li>Screening can identify individuals with prediabetes who can be treated earlier in the disease course to delay or prevent progression to type 2 diabetes.</li> <li>Gestational diabetes is diagnosed through prenatal screening. Women who are diagnosed with gestational diabetes should have life-long testing at least every 3 years.</li> </ul>"
+      }
+    },
+    {
+      "id": "psd_c2p3",
+      "component": "DuoImageComponent",
+      "content": {
+        "title": "Meet Neema, a 55-year-old woman with obesity and hypertension",
+        "intro": "<p><em>Let’s reflect on what we have learnt so far in this chapter and begin to put learnings into practice.</em></p>",
+        "image": "",
+        "videoUrl": "",
+        "action": "",
+        "nextRef": "../psd_c3",
+        "introImage": "assets/psd/patient-neema.jpg",
+        "body": "<p>Neema is a 55-year-old woman with obesity and hypertension. She is attending the clinic for a blood pressure review. Her last visit to the clinic for check-up was 2 years ago, and no blood tests were performed at this time. Neema has three children, who are now adults. She had gestational diabetes while she was pregnant with her youngest child 27 years ago.</p> <div class=\"case-callout\"><h3>Vital signs</h3><ul><li>Weight: 89.8 kg (198 lb)</li><li>Height: 157.5 cm (5’2”)</li><li>BMI: 36.2 kg/m<sup>2</sup></li><li>BP: 149/99 mmHg</li> </ul> </div> <p><strong>Family history</strong><br /> Father has type 2 diabetes (diagnosed aged 61) and cardiovascular disease </p> <p> <strong>Reflection questions</strong><br /> Consider what you would do in the scenario, with a focus on the following questions. If you are unsure about the answers, consider recapping the content of this chapter. <p> <ul> <li>Considering Neema’s clinical profile and history, why is she at increased risk for developing type 2 diabetes?</li> <li>Which risk factors could be addressed with effective lifestyle interventions? Which cannot?</li> <li>Would you recommend screening Neema for type 2 diabetes at this visit, or would you offer lifestyle advice and review in 3 months?</li> <li>If you decide not to screen now, but Neema does have undiagnosed diabetes, what are the possible health consequences?</li> </ul> <p> <b>Now that you have reflected on these questions, see below for an example of how you could respond.</b><br /> Neema has uncontrolled, high blood pressure and obesity, two important risk factors for development of type 2 diabetes. Her age (over 40 years) and medical and family history also put her at risk – she had gestational diabetes when pregnant with her youngest child, and she has a first degree relative (father), with type 2 diabetes.</p> <p>Both Neema’s hypertension and obesity can be addressed with lifestyle interventions (and medication), which make these ‘modifiable’ risk factors. Neema’s age, history of gestational diabetes, and family history, are non-modifiable risk factors.</p> <p> Lifestyle advice is important for Neema, but she should be screened for type 2 diabetes as a priority due to the presence of risk factors. If she is not screened now and she does have type 2 diabetes, Neema is at high risk of developing health complications associated with hyperglycaemia including eye disease, kidney disease, nerve damage, and cardiovascular disease.</p>"
+      }
+    },
+    {
+      "id": "psd_c3p1",
+      "component": "HtmlComponent",
+      "content": {
+        "title": "Symptoms of type 1 diabetes often present suddenly, while symptoms of type 2 diabetes are slower to evolve",
+        "nextRef": "psd_c3p2",
+        "body": "<div class='image-wrapper'><img src='assets/psd/c3-p1-fig-01.png' /></div> <ul> <li>Most people with prediabetes and type 2 diabetes do not experience symptoms. Because type 2 diabetes is often asymptomatic, it is important to follow screening advice for individuals who present with risk factors.</li> <li>Type 1 diabetes should be suspected in younger patients (<40 years) and those without risk factors for type 2 diabetes. At the time of diagnosis or suspicion of type 1 diabetes, the patient should always be referred to a hospital for immediate initiation of insulin treatment.</li> <li>Some people with undiagnosed or unmanaged diabetes experience impaired growth and have a higher susceptibility to certain infections.</li> <li>When diabetes is not promptly diagnosed or adequately managed, acute, life-threatening consequences include diabetic ketoacidosis (predominantly in type 1 diabetes) and hyperosmolar hyperglycaemic state (predominantly in type 2 diabetes). </li> </ul>"
+      }
+    },
+    {
+      "id": "psd_c3p2",
+      "component": "HtmlComponent",
+      "content": {
+        "title": "Diabetes can be diagnosed using multiple different tests",
+        "nextRef": "psd_c3p3",
+        "body": "<ul> <li>Multiple tests are available for diagnosing type 2 diabetes. </li> <li>Diagnosis of diabetes is based on values of plasma glucose or glycated haemoglobin (HbA1c) and can be diagnosed using several tests, outlined in the table below.</li> </ul> <div class='image-wrapper'><img src='assets/psd/c3-p2-fig-01.png' /></div>"
+      }
+    },
+    {
+      "id": "psd_c3p3",
+      "component": "HtmlComponent",
+      "content": {
+        "title": "A diagnosis of diabetes can have psychological implications",
+        "nextRef": "../psd_tyk",
+        "body": " <ul> <li>A diabetes diagnosis can be upsetting for many individuals. The lifestyle changes and treatment associated with diagnosis can feel overwhelming and unmanageable.</li> </ul> <div class=\"topic-question-callout\"> <p>Reflection question: How would you respond if you or a family member was diagnosed with diabetes?</p> </div> <ul> <li>Helping people with diabetes and their families adjust to the behavioural demands of living with this condition may reduce the risk of long-term complications as well as promote a positive quality of life.</li> <li>It is also helpful to understand how people feel about their diagnosis, and their beliefs about diabetes as a disease. Personal perceptions of diabetes can be assessed by asking simple questions such as: <em>“What does it mean to you to have diabetes?”</em> or <em>“What do understand about diabetes?”</em></li> </ul> <div class='image-wrapper'><img src='assets/psd/c3-p3-fig-01.png' /></div> <ul> <li>Working with individuals and their families to better understand their disease, its potential consequences and treatments, might help to foster a positive mindset towards long-term self-care.</li> </ul> <div class='image-wrapper'><img src='assets/psd/c3-p3-fig-02.png' /></div>"
+      }
+    },
+    {
+      "id": "psd_casestudy",
+      "component": "CaseComponent",
+      "content": {
+        "title": "Nelson",
+        "intro": {
+          "history": "<h3>History</h3><ul><li>63-year-old man who works as a delivery driver</li><li>Attends clinic for his annual review </li><li>Mentions recent weight gain, particularly around his abdomen</li><li>Medical history</li><ul><li>hypertension </li><li>hyperlipidaemia</li></ul><li>Grandfather had type 2 diabetes</li></ul>",
+          "medication": "<h3>Current medication</h3><ul><li>Enalapril: 10 mg/day</li><li>Atorvastatin: 10 mg/day</li></ul>",
+          "chemistry": "<h3>Clinical chemistry</h3><ul><li>LDL-cholesterol: 88 mg/dl</li><li>HDL-cholesterol: 48 mg/dl</li><li>Triglycerides: 135 mg/dl</li><li>BP: 152/85 mmHg</li><li>Waist circumference: 106 cm</li><li>Height: 181 cm</li><li>Weight: 112 kg</li><li>BMI: 34.2 kg/m<sup>2</sup></li></ul>"
+        },
+        "nextRef": "../../psd_c1",
+        "questions": [
+          {
+            "id": "psd_casestudy_1",
+            "question": "Which aspects of Nelson’s clinical profile are risk factors for type 2 diabetes?",
+            "correct": "4",
+            "answers": [
+              {
+                "id": "1",
+                "answer": "His clinical profile does not indicate increased risk",
+                "response": "This is incorrect. Nelson does have risk factors for type 2 diabetes. <br/><strong>Go back and try again.</strong>"
+              },
+              {
+                "id": "2",
+                "answer": "Grandfather who had T2D",
+                "response": "This is incorrect. Diabetes in first degree relatives is a risk factor but grandparents are second degree relatives. <br/><strong>Go back and try again.</strong>"
+              },
+              {
+                "id": "3",
+                "answer": "Age 63, hypertension",
+                "response": "Older age and hypertension are risk factors for type 2 diabetes. However, Nelson has other risk factors. <br /><strong>Go back and try again.</strong>"
+              },
+              {
+                "id": "4",
+                "answer": "Age 63, high BMI and central obesity, hypertension",
+                "response": "Correct. Nelson has several risk factors for type 2 diabetes. <br /><strong>Continue to the next stage.</strong>"
+              }
+            ],
+            "title": "Risk factors"
+          },
+          {
+            "id": "psd_casestudy_2",
+            "question": "You discuss with Nelson that aspects of his medical history put him at higher risk for developing type 2 diabetes. <br />What would you suggest next?",
+            "correct": "4",
+            "answers": [
+              {
+                "id": "1",
+                "answer": "No further actions – Nelson doesn’t have symptoms at this time",
+                "response": "This is incorrect. Even asymptomatic prediabetes and diabetes can increase risk for complications. Go back and try again."
+              },
+              {
+                "id": "2",
+                "answer": "Discuss how Nelson can reduce his risk through lifestyle changes and arrange a follow-up.",
+                "response": "This is incorrect. Lifestyle changes are important in preventing and managing diabetes, but  establishing a diagnosis is important to guide appropriate management. Go back and try again."
+              },
+              {
+                "id": "3",
+                "answer": "Inform Nelson that he meets the criteria for diabetes screening. You offer him a random plasma glucose test.",
+                "response": "This is incorrect. Random plasma glucose is not suitable in people without symptoms of diabetes. Go back and try again."
+              },
+              {
+                "id": "4",
+                "answer": "Inform Nelson that he meets the criteria for diabetes screening. You ask him to return the next day for a fasting plasma glucose and oral glucose tolerance test.",
+                "response": "This is correct. Fasting plasma glucose and oral glucose tolerance tests will allow for accurate diagnosis of diabetes. Performing just one of these tests is also acceptable. Ideally, the same test/s should be repeated in asymptomatic people on a different day to confirm the diagnosis.<br /><strong>Continue to the next stage.</strong>"
+              }
+            ],
+            "title": "Management"
+          },
+          {
+            "id": "psd_casestudy_3",
+            "question": "Nelson’s results were: FPG: 7.4 mmol/l, venous OGTT: 11.6 mmol/l. Repeat tests confirm these results. <br />Which of the following is the most appropriate diagnosis for Nelson?",
+            "correct": "3",
+            "answers": [
+              {
+                "id": "1",
+                "answer": "No diabetes – normal glucose tolerance",
+                "response": "This is incorrect. Go back and try again. "
+              },
+              {
+                "id": "2",
+                "answer": "Pre-diabetes",
+                "response": "This is incorrect. Go back and try again."
+              },
+              {
+                "id": "3",
+                "answer": "Diabetes",
+                "response": "Both results are higher than the diagnostic threshold for diabetes. Based on Nelson’s risk factor profile, you diagnose him with type 2 diabetes. <br /><strong>Continue to the next stage.</strong>"
+              }
+            ],
+            "title": "Results and diagnosis "
+          },
+          {
+            "id": "psd_casestudy_4",
+            "question": "Based on Nelson’s clinical characteristics, which type of diabetes is he most likely to have?",
+            "correct": "2",
+            "answers": [
+              {
+                "id": "1",
+                "answer": "Type 1 diabetes",
+                "response": "This is incorrect. Go back and try again. "
+              },
+              {
+                "id": "2",
+                "answer": "Type 2 diabetes",
+                "response": "This is correct. Nelson is >40 years old and has several risk factors for type 2 diabetes.<br /><strong>Please continue.</strong>"
+              }
+            ],
+            "title": "Results and diagnosis "
+          }
+        ],
+        "summary": {
+          "intro": "<ul><li>Nelson is diagnosed with type 2 diabetes. You assess Nelson's understanding of the disease, and his support network.</li><li>You arrange a follow-up appointment with Nelson in 6 weeks to assess how he is coping.</li><li>You advise Nelson to attend with a family member or friend for additional support. </li></ul>",
+          "medication": "<h3>Current medication</h3><ul><li>Enalapril: 10 mg/day</li><li>Atorvastatin: 10 mg/day</li></ul>",
+          "chemistry": "<h3>Clinical chemistry</h3><ul><li>LDL-cholesterol: 82 mg/dl</li><li>HDL-cholesterol: 48 mg/dl</li><li>Triglycerides: 155 mg/dl</li><li>BP: 146/85 mmHg</li><li>Waist circumference: 106 cm</li><li>Height: 181 cm</li><li>Weight: 112 kg</li><li>BMI: 34.2 kg/m<sup>2</sup></li><li>FPG: 7.4 mmol/l (133 mg/dl)</li><li>Venous OGTT: 11.6 mmol/l (209 mg/dl)</li></ul>"
+        },
+        "cardTitle": "Say hello Nelson",
+        "image": "assets/psd/maxi-case-nelson.jpg",
+        "subTitle": "A 63-year-old man"
+      }
+    },
+    {
+      "id": "psd__tyk",
+      "component": "MCQComponent",
+      "content": {
+        "title": "Test your knowledge",
+        "intro": "",
+        "nextRef": "",
+        "questions": [
+          {
+            "id": "psd_tyk_1",
+            "question": "Diabetes occurs due to the dysfunction or destruction of which pancreatic cells?",
+            "correct": "2",
+            "answers": [
+              {
+                "id": "1",
+                "answer": "Alpha cells"
+              },
+              {
+                "id": "2",
+                "answer": "Beta cells"
+              },
+              {
+                "id": "3",
+                "answer": "Epsilon cells"
+              },
+              {
+                "id": "4",
+                "answer": "Pancreatic polypeptide cells"
+              }
+            ]
+          },
+          {
+            "id": "psd_tyk_2",
+            "question": "Which of the following is NOT a risk factor for type 2 diabetes?",
+            "correct": "2",
+            "answers": [
+              {
+                "id": "1",
+                "answer": "Low birth weight"
+              },
+              {
+                "id": "2",
+                "answer": "Existing autoimmune conditions"
+              },
+              {
+                "id": "3",
+                "answer": "Smoking"
+              },
+              {
+                "id": "4",
+                "answer": "Abnormally high abdominal body fat"
+              }
+            ]
+          },
+          {
+            "id": "psd_tyk_3",
+            "question": "What is the most important role of insulin in the human body?",
+            "correct": "1",
+            "answers": [
+              {
+                "id": "1",
+                "answer": "Allows cells of the body to use glucose as energy"
+              },
+              {
+                "id": "2",
+                "answer": "Breaks down glucose in the bloodstream"
+              },
+              {
+                "id": "3",
+                "answer": "Promotes glucose excretion"
+              },
+              {
+                "id": "4",
+                "answer": "Stimulates glucose production in the liver"
+              }
+            ]
+          },
+          {
+            "id": "psd_tyk_4",
+            "question": "Which of the following is the correct diagnostic threshold for diabetes using a fasting plasma glucose test?",
+            "correct": "2",
+            "answers": [
+              {
+                "id": "1",
+                "answer": "≥6.5 mmol/l (117 mg/dl)"
+              },
+              {
+                "id": "2",
+                "answer": "≥7.0 mmol/l (126 mg/dl)"
+              },
+              {
+                "id": "3",
+                "answer": "≥11.1 mmol/l (200 mg/dl)"
+              },
+              {
+                "id": "4",
+                "answer": "≥12.2 mmol/l (220 mg/dl)"
+              }
+            ]
+          },
+          {
+            "id": "psd_tyk_5",
+            "question": "Which of the following is NOT an early symptom of type 1 diabetes, which often appears in childhood?",
+            "correct": "4",
+            "answers": [
+              {
+                "id": "1",
+                "answer": "Frequent urination"
+              },
+              {
+                "id": "2",
+                "answer": "Frequent thirst"
+              },
+              {
+                "id": "3",
+                "answer": "Often tired"
+              },
+              {
+                "id": "4",
+                "answer": "Gaining excessive weight"
+              }
+            ]
+          }
+        ],
+        "summary": "<p>In this module, we covered the importance of type 2 diabetes prevention, and best practice for screening and diagnosis.</p><ol><li>Diabetes is associated with the dysfunction or destruction of the pancreatic beta cells.</li><li>Risk factors for type 2 diabetes include overweight or obesity, high abdominal obesity, physical inactivity, older age, diabetes in first degree relatives, history of gestational diabetes, low birth weight, cardiovascular disease, smoking, certain ethnicities and certain medications. Existing autoimmune conditions are not a risk factor for type 2 diabetes.</li><li>Insulin allows cells of the body to use glucose as energy. Under normal physiological conditions, insulin is secreted in response to an increase in blood glucose levels – after eating a meal, for example – and acts as a ‘key’ to open the cells of the body, allowing glucose to enter.</li><li>When using fasting plasma glucose testing for diabetes diagnosis, a result of >7.0 mmol/l (126 mg/dl) is indicative of diabetes.</li><li>Symptoms of type 1 diabetes include frequent urination, frequent thirst, blurred vision, feeling tired, and losing weight unintentionally.</li></ol>"
+      }
+    },
+    {
+      "id": "psd_factsheet",
+      "component": "FactsheetComponent",
+      "content": {
+        "title": "WHO diabetes type 2 fact sheet",
+        "image": "/assets/psd/factsheet.jpg",
+        "url": "/assets/factsheets/diagnostic-tests-for-diabetes-factsheet.pdf"
+      }
+    }
+  ]
+}

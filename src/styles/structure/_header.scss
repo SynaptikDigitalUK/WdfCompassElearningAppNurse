@@ -1,0 +1,76 @@
+
+@use './../helpers/variables' as var;
+@use './../../../node_modules/bootstrap/scss/bootstrap.scss' as bs;
+
+header {
+  // position: sticky;
+  // top: 0;
+
+  // padding-top: 40px;
+  padding: 20px 40px;
+  // margin-bottom: 20px;
+
+  display: flex;
+  align-content: left;
+  
+  @include bs.media-breakpoint-up(xl) { 
+    .container {
+      max-width: 100% !important;
+    }
+   }
+
+  background-color: var.$wdf-light-grey;
+  // background-color: pink;
+
+  @include bs.media-breakpoint-down(xxl) { 
+    // background-color: purple;
+  }
+
+  @include bs.media-breakpoint-down(xl) { 
+    // padding-top: 32px;
+    padding: 20px 32px;
+    // background-color: orange;
+  }
+
+  @include bs.media-breakpoint-down(lg) { 
+    // background-color: lime;
+  }
+  
+  @include bs.media-breakpoint-down(md) { 
+    // background-color: peru;
+  }
+
+  @include bs.media-breakpoint-down(sm) {
+    // padding-top: 20px;
+    padding: 20px;
+    // background-color: red;
+  }
+
+  button.btn {
+    // padding: 0 32px;
+
+    @include bs.media-breakpoint-down(xl) { 
+      // padding: 0 32px;
+    }
+
+    @include bs.media-breakpoint-down(sm) {
+      // padding: 0 20px;
+    }
+  }
+
+  .btn {
+    padding: 0;
+    img {
+      height: 40px;
+      width: 40px;
+      @include bs.media-breakpoint-down(sm) {
+        height: 30px;
+        width: 30px;
+      }
+
+    }
+  }
+  
+
+
+}

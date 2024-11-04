@@ -1,0 +1,57 @@
+@use "./../helpers/variables" as var;
+
+.container-help-content {
+ 
+  i {
+   
+  }
+
+  
+  .cache-list-callout{
+    padding: 16px;
+    border-radius: 4px;
+    margin-top: 15px;
+    margin-bottom: 40px;
+    background-color: var.$wdf-light-grey;
+    // text-align: center;
+    color: var.$wdf-medium-grey;
+    font-family: 'LatoWebBold';
+    p {
+      margin-bottom: 0;
+    }
+    .progress{
+      background-color: #fff;
+    }
+
+    .asset-list{
+      >div{ 
+        font-size: 10px;
+        line-height: 1.5;
+        padding: 5px 0;
+        &:not(:last-child){
+
+          border-bottom: 1px solid #d8d7d4;
+        }
+      }
+    }
+
+    .cache-img-wrapper{
+      width: 50px;
+      height: auto;
+      overflow: hidden;
+      text-align: center;
+      img, video{
+        width: 100%;
+        height: auto;
+      
+      }
+    }
+  }
+.loadingSpinner{
+
+  --bs-spinner-height: 1.5rem;
+  --bs-spinner-width: 1.5rem;
+  --bs-spinner-border-width:0.2em;
+}
+
+}

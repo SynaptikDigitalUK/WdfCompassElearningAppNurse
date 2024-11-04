@@ -1,0 +1,54 @@
+
+@use './../helpers/variables' as var;
+
+.container-case-content {
+    margin-bottom: 3rem;
+    
+   > .card {
+        margin: 0;
+        padding: 0;
+    }
+}
+
+
+.case-intro, .case-summary {
+
+    .case-history {
+
+    }
+
+    .case-subtle, .case-highlight {
+        padding: 16px;
+        border-radius: 4px;
+        margin-bottom: 20px;
+    }
+
+    .case-subtle {
+        background-color: var.$wdf-light-grey;
+
+        h3 {
+            text-align: center;
+            color: var.$wdf-medium-grey;
+        }
+        ul {
+            list-style: none;
+            padding-left: 0;
+        }
+
+    }
+
+
+
+    .case-highlight {
+        margin-top: 20px;
+        margin-bottom: 20px;
+        border: 1px solid var.$wdf-bright-red;
+        background-color: lighten(var.$wdf-bright-red, 37%);
+        h3 {
+            text-align: center;
+            color: var.$wdf-medium-grey;
+        }
+
+    }
+
+}

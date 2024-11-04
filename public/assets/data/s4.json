@@ -1,0 +1,674 @@
+{
+  "menu": {
+    "title": "Preventing and managing complications of diabetes",
+    "sectionId": "pmcd",
+    "chapters": [
+      {
+        "title": "Overview of diabetes complications",
+        "sectionId": "pmcd",
+        "chapterId": "pmcd_c1",
+        "showListing": true,
+        "chapters": [
+          {
+            "chapterId": "pmcd_c1",
+            "contentId": "pmcd_c1p1",
+            "title": "Complications of diabetes are more likely to develop when blood glucose is not controlled"
+          }
+        ]
+      },
+      {
+        "title": "Macrovascular complications",
+        "sectionId": "pmcd",
+        "chapterId": "pmcd_c2",
+        "showListing": true,
+        "chapters": [
+
+          {
+            "chapterId": "pmcd_c2",
+            "contentId": "pmcd_c2p2",
+            "title": "Type 2 diabetes and cardiovascular disease share some common risk factors"
+          },
+          {
+            "chapterId": "pmcd_c2",
+            "contentId": "pmcd_c2p3",
+            "title": "Hypertension is the most common modifiable risk factor for macrovascular disease"
+          },
+          {
+            "chapterId": "pmcd_c2",
+            "contentId": "pmcd_c2p4",
+            "title": "Lipid levels should be assessed regularly and treated where necessary"
+          },
+
+          {
+            "chapterId": "pmcd_c2",
+            "contentId": "pmcd_c2p6",
+            "title": "Meet Tia, a 65-year-old woman with type 2 diabetes"
+          }
+        ]
+      },
+      {
+        "title": "Overview of microvascular complications",
+        "sectionId": "pmcd",
+        "chapterId": "pmcd_c3",
+        "showListing": true,
+        "chapters": [
+          {
+            "chapterId": "pmcd_c3",
+            "contentId": "pmcd_c3p1",
+            "title": "Microvascular complications include nephropathy, neuropathy and retinopathy"
+          }
+        ]
+      },
+      {
+        "title": "Microvascular complications: kidney disease",
+        "sectionId": "pmcd",
+        "chapterId": "pmcd_c4",
+        "showListing": true,
+        "chapters": [
+          {
+            "chapterId": "pmcd_c4",
+            "contentId": "pmcd_c4p1",
+            "title": "Nephropathy is a common complication of diabetes associated with albuminuria"
+          },
+          {
+            "chapterId": "pmcd_c2",
+            "contentId": "pmcd_c4p2",
+            "title": "There are multiple tests for diagnosing diabetic kidney disease"
+          },
+          {
+            "chapterId": "pmcd_c2",
+            "contentId": "pmcd_c4p3",
+            "title": "The onset and progression of diabetic kidney disease can be delayed"
+          },
+          {
+            "chapterId": "pmcd_c2",
+            "contentId": "pmcd_c4p4",
+            "title": "eGFR is a useful clinical tool to monitor kidney function"
+          }
+        ]
+      },
+      {
+        "title": "Microvascular complications: retinopathy",
+        "sectionId": "pmcd",
+        "chapterId": "pmcd_c5",
+        "showListing": true,
+        "chapters": [
+          {
+            "chapterId": "pmcd_c5",
+            "contentId": "pmcd_c5p1",
+            "title": "Retinopathy is very common in people with diabetes and is a leading cause of blindness if left untreated"
+          },
+          {
+            "chapterId": "pmcd_c2",
+            "contentId": "pmcd_c5p2",
+            "title": "Prolonged hyperglycaemia is a risk factor for development of diabetic retinopathy"
+          },
+          {
+            "chapterId": "pmcd_c2",
+            "contentId": "pmcd_c5p3",
+            "title": "Screening is an important tool in the prevention and detection of retinopathy"
+          }
+        ]
+      },
+      {
+        "title": "Microvascular complications: neuropathy",
+        "sectionId": "pmcd",
+        "chapterId": "pmcd_c6",
+        "showListing": true,
+        "chapters": [
+          {
+            "chapterId": "pmcd_c6",
+            "contentId": "pmcd_c6p1",
+            "title": "Diabetic neuropathy is a complication associated with prolonged hyperglycaemia"
+          },
+          {
+            "chapterId": "pmcd_c2",
+            "contentId": "pmcd_c6p2",
+            "title": "Loss of sensation is a known precursor for foot ulcers and amputation"
+          },
+          {
+            "chapterId": "pmcd_c2",
+            "contentId": "pmcd_c6p3",
+            "title": "Foot screening frequency should depend on an individual’s risk"
+          }
+        ]
+      },
+      {
+        "title": "Other health complications of diabetes",
+        "sectionId": "pmcd",
+        "chapterId": "pmcd_c7",
+        "showListing": true,
+        "chapters": [
+          {
+            "chapterId": "pmcd_c7",
+            "contentId": "pmcd_c7p1",
+            "title": "People with diabetes may experience sexual dysfunction"
+          },
+          {
+            "chapterId": "pmcd_c7",
+            "contentId": "pmcd_c7p2",
+            "title": "People with diabetes should be educated about the importance of oral hygiene"
+          }
+        ]
+      },
+      {
+        "title": "Test your knowledge",
+        "showListing": true,
+        "sectionId": "pmcd",
+        "chapterId": "pmcd_tyk",
+        "chapters": [
+          {
+            "chapterId": "pmcd_tyk",
+            "contentId": "pmcd__tyk",
+            "title": "Test your knowledge"
+          }
+        ]
+      }
+    ],
+    "learnMore": {
+      "casestudies": [
+        {
+          "title": "Case Study: Ahmed",
+          "chapterId": "pmcd_tyk",
+          "contentId": "pmcd_casestudy"
+        }
+      ],
+      "factsheets": [
+        {
+          "title": "Screening for kidney disease in people with diabetes",
+          "contentId": "pmcd_factsheet"
+        }
+      ]
+    }
+  },
+  "content": [
+    {
+      "id": "pmcd_c1p1",
+      "component": "HtmlComponent",
+      "content": {
+        "title": "Complications of diabetes are more likely to develop when blood glucose is not controlled",
+        "nextRef": "../pmcd_c2",
+        "body": " <ul> <li> Common complications of diabetes include diseases of the large blood vessels (macrovascular disease) and of the small blood vessels (microvascular disease). </li> <li> Macrovascular disease includes both cardiovascular diseases (such as ischaemic heart disease and peripheral artery disease) and cerebrovascular diseases (such as stroke), and affects more than 10% of people with diabetes. and are sometimes present at diagnosis of type 2 diabetes. </li> <li> Cardiovascular disease is a leading cause of mortality for people with diabetes, with approximately half of diabetes deaths attributable to cardiovascular disease. </li> <li> Microvascular disease includes retinopathy (eye disease), nephropathy (kidney disease) or neuropathy (nerve damage or disease). </li> </ul> <div class=\"image-wrapper\"> <img src=\"assets/pmcd/c1-p1-fig-01.png\" /> </div> <ul> <li>Persistent hyperglycaemia is strongly associated with the development of diabetes-associated complications. Chronic hypoglycaemia may also accelerate the development of cardiovascular disease and atherosclerosis and exacerbate ischaemia in the brain, increasing the risk of stroke.   It is therefore important that individuals with diabetes keep their blood glucose levels close to the normal range. </li> <li>Unfortunately, diabetes complications are typically asymptomatic until they have progressed to an advanced stage. Early detection is critical to allow for early intervention that can help to delay progression of disease and to improve quality of life for people with diabetes. </li> </ul>"
+      }
+    },
+
+
+    {
+      "id": "pmcd_c2p2",
+      "component": "HtmlComponent",
+      "content": {
+        "title": "Type 2 diabetes and cardiovascular disease share some common risk factors",
+        "nextRef": "pmcd_c2p3",
+        "body": "<ul> <li> Diabetes is an independent risk factor for cardiovascular disease. Additionally, many conditions and lifestyle factors that are common in people with type 2 diabetes are risk factors for cardiovascular disease. </li> </ul> <div class=\"image-wrapper\"> <img src=\"assets/pmcd/c2-p2-fig-01.png\" /> </div> <ul> <li> Cardiovascular risk factors should be routinely assessed and modifiable risk factors should be managed where appropriate. For example, all individuals with diabetes should be advised to stop smoking, increase their physical activity, and manage overweight and obesity as detailed in the chapter on “Lifestyle management for people with diabetes”. </li> <li> Blood glucose levels should also be carefully managed to achieve appropriate glycaemic targets. </li> </ul> <div class=\"topic-question-callout\"> <p> Reflection question: Are you aware of all cardiovascular risk factors? Do you discuss these with your patients who have diabetes? </p> </div>"
+      }
+    },
+    {
+      "id": "pmcd_c2p3",
+      "component": "HtmlComponent",
+      "content": {
+        "title": "Hypertension is the most common modifiable risk factor for macrovascular disease",
+        "nextRef": "pmcd_c2p4",
+        "body": " <ul> <li> Hypertension is common in people with diabetes. People with diabetes and unmanaged hypertension are more likely to develop heart disease than people who have neither condition. </li> <li> This means regular screening and treatment, where appropriate, is important. Blood pressure (BP) should be measured using an appropriately sized cuff at every clinic visit. The patient should be in a seated position, having rested for at least 5 minutes. </li> </ul> <div class=\"image-wrapper\"> <img src=\"assets/pmcd/c2-p3-fig-01.png\" /> </div> <ul> <li> Hypertension treatment is indicated in people with diabetes when either systolic blood pressure is ≥130 mmHg or when diastolic blood pressure is ≥80 mmHg, or when both systolic and diastolic blood pressures are above the threshold values. </li> </ul> <div class=\"image-wrapper\"> <img src=\"assets/pmcd/c2-p3-fig-02.png\" /> </div>"
+      }
+    },
+    {
+      "id": "pmcd_c2p4",
+      "component": "HtmlComponent",
+      "content": {
+        "title": "Lipid levels should be assessed regularly and treated where necessary",
+        "nextRef": "pmcd_c2p6",
+        "body": " <ul> <li> Lipid levels in blood give an indication of an individual’s risk of a cardiovascular event. </li> <li> Higher levels of LDL-cholesterol are associated with increasing cardiovascular risk. Low HDL-cholesterol and high triglycerides are also associated with increased cardiovascular risk. </li> <li> Screening for dyslipidaemia should be carried out at diagnosis and every 1–2 years from age 40 onwards. </li> <li> Individuals with elevated LDL-cholesterol levels should be treated with lipid-modifying therapy. </li> </ul> <div class=\"image-wrapper\"> <img src=\"assets/pmcd/c2-p4-fig-01.png\" /> </div> <ul> <li> Lifestyle modifications have some efficacy in improving lipid levels. These include the reduction of saturated fat, trans fat and cholesterol intake, as well as an increased intake of omega-3 fatty acids and viscous fibre, combined with weight loss (if indicated). </li> <li> Statins are recommended by the WHO for all people with type 2 diabetes aged 40 years or older, but only if this does not negatively impact access to glucose-lowering and blood pressure-lowering medication. </li> </ul> <div class=\"topic-question-callout\"> <p> Reflection question: In your experience, do most people with diabetes aged 40 or older take statins as prescribed?</p> </div>"
+      }
+    },
+
+    {
+      "id": "pmcd_c2p6",
+      "component": "DuoImageComponent",
+      "content": {
+        "title": "Meet Tia, a 65-year-old woman with type 2 diabetes",
+        "intro": "<p> Let’s reflect on what we have learnt so far in this chapter and begin to put learnings into practice. </p>",
+        "image": "",
+        "videoUrl": "",
+        "action": "",
+        "nextRef": "../pmcd_c3",
+        "introImage": "assets/pmcd/patient-tia.jpg",
+        "body": "<p> Tia is a 65-year-old woman with type 2 diabetes. She was diagnosed 12 months ago with a fasting plasma glucose of 8.1 mmol/l (146 mg/dl) and obesity, but no other comorbidities. 12 months later, Tia reports for her annual diabetes review. While discussing lifestyle, Tia mentions she struggles to follow a healthy diet and often finds herself snacking on unhealthy foods. She reports not having the time or energy for physical activity, so this is not part of her routine. </p> <div class=\"case-callout\"> <h3>Vital signs </h3> <ul> <li> Weight: 88 kg </li> <li> Height: 157 cm </li> <li> BMI: 35.7 kg/m<sup>2</sup> </li> <li> Fasting plasma glucose: 7.8 mmol/l (141 mg/dl) </li> <li> HbA1c: 7.7% (61 mmol/mol) </li> </ul> </div> <p><b>Family history </b></p> <ul> <li> History of cardiovascular disease on maternal and paternal sides <ul> <li> Mother had history of transient ischaemic attack </li> <li> Father died of myocardial infarction aged 79 years </li> </ul> </li> </ul> <p><b>Reflection questions</b></p> <ul> <li> What risk factors does Tia have for cardiovascular disease? </li> <li> Which of her cardiovascular risk factors are modifiable? How would you address these risk factors? </li> <li> How would you carry out a blood pressure check on Tia?</li></ul> <p><b>Now that you have reflected on these questions, see below for an example of how you could respond.</b></p> <p> Tia has several risk factors for cardiovascular disease, some of which are modifiable and others that are not. Her modifiable risk factors that we are aware of include obesity, hyperglycaemia and lack of physical activity. Other modifiable risk factors could include hypertension and dyslipidaemia. Tia’s non-modifiable risk factors are older age and a family history of cardiovascular disease. </p> <p> To have a comprehensive understanding of Tia’s cardiovascular risk, further tests should be carried out. These include blood pressure check (carried out at every clinic visit) and screening for dyslipidaemia (carried out every 1–2 years). </p>"
+      }
+    },
+    {
+      "id": "pmcd_c3p1",
+      "component": "HtmlComponent",
+      "content": {
+        "title": "Microvascular complications include nephropathy, neuropathy and retinopathy",
+        "nextRef": "../pmcd_c4",
+        "body": " <ul> <li> Other complications of diabetes typically involve the microvascular system via damage to small blood vessels in different organs of the body. This type of complication may arise in the eye (retinopathy), the kidney (nephropathy) or the nerves (neuropathy). </li> <li> Microvascular complications have different levels of severity, from subclinical stages to terminal end stages (blindness, amputation, end-stage renal disease), and each develop with variable rates of progression and symptoms. </li> </ul> <div class=\"image-wrapper\"> <img src=\"assets/pmcd/c3-p1-fig-01.png\" /> </div> <ul> <li> In their late stages, microvascular complications are associated with a significant reduction in quality of life and increase in healthcare costs. </li> <li> For this reason, targeted screening efforts to identify complications at a point when treatment can help to delay progression of disease are of the utmost importance for every person with diabetes. </li> </ul>"
+      }
+    },
+    {
+      "id": "pmcd_c4p1",
+      "component": "HtmlComponent",
+      "content": {
+        "title": "Nephropathy is a common complication of diabetes associated with albuminuria",
+        "nextRef": "pmcd_c4p2",
+        "body": "<ul> <li> Nephropathy describes deterioration of kidney function. It is a common microvascular complication of diabetes, which is often called diabetic kidney disease. </li> <li> Up to 40% of people with diabetes will develop some degree of nephropathy during their lifetime, with rates particularly high in Asian populations. </li> </ul> <div class=\"topic-question-callout\"> <p> Reflection question: What proportion of your patients with diabetes have a diagnosis of nephropathy? </p> </div> <ul> <li> The role of the kidneys is to filter and clean blood to remove waste products. They are also responsible for reabsorption of water, glucose and proteins. Kidneys that are working optimally do not excrete albumin, a protein found in the blood, into urine. </li> <li> Over time, hyperglycaemia causes damage to the kidneys making it possible for larger molecules such as albumin to pass through the capillary walls. </li> </ul> <div class=\"image-wrapper\"> <img src=\"assets/pmcd/c4-p1-fig-01.png\" /> </div> <ul> <li> Nephropathy is characterized as albuminuria, which is the presence of excess albumin in urine, and/or a decreased estimated glomerular filtration rate. Higher albumin concentrations in urine are associated with worsened kidney function. </li> </ul>"
+      }
+    },
+    {
+      "id": "pmcd_c4p2",
+      "component": "HtmlComponent",
+      "content": {
+        "title": "There are multiple tests for diagnosing diabetic kidney disease ",
+        "nextRef": "pmcd_c4p3",
+        "body": "<ul> <li> Early stages are often asymptomatic with the earliest clinical signs being elevated blood pressure and moderately increased urine albumin excretion. </li> <li> Therefore, people with diabetes should be screened once a year with either the albumin/creatinine ratio in a spot urine sample or with estimated glomerular filtration rate (eGFR) using serum creatinine. </li> <li> Watch the video to learn more about diabetic kidney disease and how to screen and diagnose it. </li> <li>Watch Professor Kamlesh Khunti to learn more about diabetic kidney disease and how to screen and diagnose it.</li> </ul> <div class=\"video-wrapper\"> <video src=\"assets/pmcd/K_Khunti_Chapter_04.mp4\" controls poster='/assets/poster-video.png'></video> </div>"
+      }
+    },
+    {
+      "id": "pmcd_c4p3",
+      "component": "HtmlComponent",
+      "content": {
+        "title": "The onset and progression of diabetic kidney disease can be delayed",
+        "nextRef": "pmcd_c4p4",
+        "body": "<div class=\"image-wrapper\"> <img src=\"assets/pmcd/c4-p3-fig-01.png\" /> </div> <ul> <li> If left untreated, diabetic kidney disease is characterized by a continuous decline in eGFR, increased arterial blood pressure, and high risk of cardiovascular disease and mortality. Once the stage of proteinuria is reached, renal failure occurs after approximately 5 to 7 years if left untreated. </li> </ul> <div class=\"image-wrapper\"> <img src=\"assets/pmcd/c4-p3-fig-02.png\" /> </div>"
+      }
+    },
+    {
+      "id": "pmcd_c4p4",
+      "component": "HtmlComponent",
+      "content": {
+        "title": "eGFR is a useful clinical tool to monitor kidney function",
+        "nextRef": "../pmcd_c5",
+        "body": "<ul> <li> As kidney function declines, it is important to regularly monitor kidney function. eGFR is a helpful clinical tool to do this. </li> </ul> </li> </ul> <div class=\"image-wrapper\"> <img src=\"assets/pmcd/c4-p4-fig-01.png\" /> </div>"
+      }
+    },
+    {
+      "id": "pmcd_c5p1",
+      "component": "HtmlComponent",
+      "content": {
+        "title": "Retinopathy is very common in people with diabetes and is a leading cause of blindness if left untreated",
+        "nextRef": "pmcd_c5p2",
+        "body": " <ul> <li> Retinopathy, or diabetic eye disease, is a highly specific microvascular complication of diabetes and is a leading cause of vision loss in both working-age adults and older adults. </li> <li> Compared with other complications, retinopathy can usually be delayed or prevented if identified promptly due to advances in screening and treatment. </li> <li> Despite this, diabetic retinopathy is very common. About 75% of people with type 1 diabetes and 50% of people with type 2 diabetes develop retinopathy in their lifetime. Additionally, 25% of people with type 2 diabetes may develop diabetic macular oedema, which is a leading cause of blindness. </li> </ul> <div class=\"image-wrapper\"> <img src=\"assets/pmcd/c5-p1-fig-01.png\" /> </div>"
+      }
+    },
+    {
+      "id": "pmcd_c5p2",
+      "component": "HtmlComponent",
+      "content": {
+        "title": "Prolonged hyperglycaemia is a risk factor for development of diabetic retinopathy",
+        "nextRef": "pmcd_c5p3",
+        "body": " <ul><li> Risk factors for development of diabetic retinopathy are outlined in the figure below. </li> </ul> <div class=\"image-wrapper\"> <img src=\"assets/pmcd/c5-p2-fig-01.png\" /> </div> <ul> <li> Management of blood glucose levels and blood pressure have been shown to be effective in preventing vision loss due to diabetic retinopathy. </li> <li> Beyond retinopathy, diabetes is also associated with an increased risk of other vision-threatening conditions, including cataracts and glaucoma. </li>\n</ul>"
+      }
+    },
+    {
+      "id": "pmcd_c5p3",
+      "component": "HtmlComponent",
+      "content": {
+        "title": "Screening is an important tool in the prevention and detection of retinopathy",
+        "nextRef": "../pmcd_c6",
+        "body": " <ul> <li> Diabetic retinopathy is often asymptomatic in the early stages. Vision loss only occurs at advanced stages. Consequently, regular screening is critical for early identification and treatment. </li> <li> People with type 2 diabetes should be screened for retinopathy by a trained person upon diagnosis, and every 2 years thereafter, or as recommended by an ophthalmologist. </li> </ul> <div class=\"image-wrapper\"> <img src=\"assets/pmcd/c5-p3-fig-01.png\" /> </div><ul> <li> Diabetic retinopathy should always be treated in specialist care. Always refer people with suspected retinopathy to specialist care. </li> <li> Glycaemic management is important to prevent development and worsening of retinopathy. However, abrupt tightening of blood glucose levels may cause deterioration in vision.  For this reason, it is important to lower blood glucose levels gradually in patients with diabetes and retinal changes. </li></ul"
+      }
+    },
+
+    {
+      "id": "pmcd_c6p1",
+      "component": "HtmlComponent",
+      "content": {
+        "title": "Diabetic neuropathy is a complication associated with prolonged hyperglycaemia",
+        "nextRef": "pmcd_c6p2",
+        "body": " <ul> <li> Diabetic neuropathy, or nerve damage, can present in a variety of ways. The most common include: <ul> <li> autonomic neuropathy (affecting the autonomic and central nervous systems) </li> <li> peripheral neuropathy (predominantly sensory)</li> </ul> </li> <li> As with other microvascular complications of diabetes, diabetic neuropathy is primarily a consequence of prolonged hyperglycaemia. </li> <li> Other risk factors include: <ul> <li> dyslipidaemia </li> <li> smoking </li> <li> older age </li> <li> diabetes duration </li> </ul> </li> <li> Signs and symptoms of diabetic neuropathy are shown below. Patients with suspected autonomic neuropathy should be referred to specialist care. </li> </ul> <div class=\"image-wrapper\"> <img src=\"assets/pmcd/c6-p1-fig-01.png\" /> </div>"
+      }
+    },
+    {
+      "id": "pmcd_c6p2",
+      "component": "HtmlComponent",
+      "content": {
+        "title": "Loss of sensation is a known precursor for foot ulcers and amputation",
+        "nextRef": "pmcd_c6p3",
+        "body": " <ul> <li> Peripheral diabetic neuropathy is common and may be present in as many as 50% of people with diabetes. It affects the feet and legs first, followed by the hands and arms. </li> <li> Peripheral neuropathy is one of the major causes of foot ulcers and amputations in people with diabetes. Other causes include peripheral artery disease and significant trauma. </li> <li> Neuropathy leads to reduced sensation and sometimes foot deformities, causing abnormal loading of the foot. For these individuals, minor trauma (e.g. caused by ill-fitting shoes) can go unnoticed and, without treatment, result in ulceration. </li> <li> A diabetic foot ulcer is a localized injury to the skin and/or underlying tissue below the ankle. Disruption of the skin, such as a cut, makes it possible for microbes to colonize subcutaneous tissues. In many cases the wound becomes infected, requiring antimicrobial treatment and often surgical intervention. </li> <li> Risk factors for diabetic foot ulcers are outlined in the figure below. </li> </ul> <div class=\"image-wrapper\"> <img src=\"assets/pmcd/c6-p2-fig-01.png\" /> </div> <ul> <li> Efforts should be made to prevent diabetic foot ulcers prior to development. There are five key elements that underpin efforts to prevent foot ulcers: <ol> <li>Identifying the at-risk foot</li> <li>Regularly inspecting and examining the at-risk foot</li> <li>Educating the patient, family and healthcare professionals</li> <li>Ensuring routine wearing of appropriate footwear</li> <li>Treating risk factors for ulceration</li> </ol> </li> <li> Screening for peripheral neuropathy and other foot problems should be carried out at least once a year in people with diabetes. Screening involves asking patients about common symptoms and examination of the foot to assess loss of protective sensation. </li> <li>Watch Dr SP Chan explain how to carry out a foot screening for people living with diabetes</li> </ul> <div class=\"video-wrapper\"> <video src=\"assets/pmcd/SP_Chan_Chapter_04.mp4\" controls poster='/assets/poster-video.png'></video> </div> <ul> <li> If individuals have painful peripheral neuropathy they should be referred to specialized care for pharmacological pain management. Remember to remind patients about the importance of glycaemic management. </li> </ul>"
+      }
+    },
+    {
+      "id": "pmcd_c6p3",
+      "component": "HtmlComponent",
+      "content": {
+        "title": "Foot screening frequency should depend on an individual’s risk",
+        "nextRef": "../pmcd_c7",
+        "body": " <ul> <li> In some cases, people with diabetes should be screened for foot disease more than once annually. Individuals at moderate risk should be screened every 3–6 months, and for those at high risk, every 1–3 months. </li> <li> The table below details how to determine an individual’s risk level. </li> </ul> <div class=\"image-wrapper\"> <img src=\"assets/pmcd/c6-p3-fig-01.png\" /> </div> <ul> <li> Non-critical limb ischaemia is a common, usually chronic, condition caused by blockages in the arteries of the lower extremities. Symptoms include calf pain during exercise,  non-healing wounds, pale and cold limbs and weak or absent pulses. Onset is gradual (>2 weeks). </li> <li> Critical limb ischemia is a severe blockage in the arteries of the lower extremities, which resulted in significantly reduced blood-flow. It results in significant pain at rest. Symptoms are similar to non-critical limb ischaemic but onset of symptoms is rapid (within 2 weeks). Urgent referral is necessary. </li>\n <li> People with diabetes should also be reminded of the importance of: <ul> <li> good quality, well-fitting footwear </li> <li> not going barefoot </li> <li> regular foot care including keeping feet clean and doing regular self-inspections for cuts and/or blisters </li> <li> carefully cutting nails straight across and filing the edges to reduce risk of ingrown toenails </li> <li> getting regular treatment by a trained professional (podiatrist) for removal of callus, protection or draining of blisters, treatment of ingrown or thickened nails or fungal infections. </li> </ul> </li> </ul> <div class=\"topic-question-callout\"> <p> Reflection question: How often do you remind people with diabetes about the importance of good foot care? </p> </div>"
+      }
+    },
+    {
+      "id": "pmcd_c7p1",
+      "component": "HtmlComponent",
+      "content": {
+        "title": "People with diabetes may experience sexual dysfunction",
+        "nextRef": "pmcd_c7p2",
+        "body": " <ul> <li> Impaired sexual function is a frequent complication for both men and women with diabetes. Sexual dysfunction is associated with increased incidence of depression and worsened quality of life. </li> <li> Erectile dysfunction is defined as the persistent inability to achieve or maintain an erection sufficient enough to permit satisfactory sexual intercourse. </li> <li> Erectile dysfunction is much more common in men with diabetes compared with men who do not have diabetes. Prevalence increases with age and duration of diabetes. </li> <li> Risk factors for erectile dysfunction are outlined in the figure below. </li> </ul> <div class=\"image-wrapper\"> <img src=\"assets/pmcd/c7-p1-fig-01.png\" /> </div> <ul> <li> Erectile dysfunction is also linked to cardiovascular disease and other complications of diabetes, and is known to be more frequent and severe in individuals with peripheral neuropathy and chronic kidney disease. </li> <li> Understanding of sexual dysfunction in women with diabetes is less conclusive due to a lack of research and social taboos surrounding female sexuality. However, it is understood that women with diabetes report: <ul> <li> loss of libido </li> <li> problems with orgasm </li> <li> reduced lubrication </li> <li>pain during/after intercourse</li> <li> lower sexual satisfaction than women without diabetes. </li> </ul> </li> <li> It is important to speak to people with diabetes about their sexual health when culturally acceptable to do so. The topic should be raised in a sensitive way, including asking permission to discuss sexual health and respecting the wishes of individuals who are not ready to have that conversation. </li> </ul>"
+      }
+    },
+    {
+      "id": "pmcd_c7p2",
+      "component": "HtmlComponent",
+      "content": {
+        "title": "People with diabetes should be educated about the importance of oral hygiene",
+        "nextRef": "../pmcd_tyk",
+        "body": " <ul> <li> Oral health describes the state of the mouth, teeth and orofacial structures (e.g. palate, nasal septum and cavity, tongue). Good oral health is important in maintaining eating habits and contributes to self-confidence, well-being and the ability to socialize and work without pain or embarrassment. </li> <li> Periodontal disease is now recognized as a complication of diabetes. Chronic periodontal disease results in progressive destruction of the supporting tissues of the teeth, which may lead to tooth loss. It is known to be one of the most common reasons for tooth loss in people with diabetes. </li> <li> People with diabetes have a greater risk of developing periodontal disease compared to those without diabetes.</li> <li> Dental caries (tooth decay and cavities) are common causes of pain, infection and tooth loss. They are associated with worsened quality of life, poorer nutrition and potentially worsened glycaemic management. People with diabetes have higher incidence of dental caries than people without diabetes. </li> <li> Increased blood glucose is associated with reduced salivary flow which increases the risk of developing plaque, tooth decay and gum disease. </li> <li> To reduce the risk of oral diseases, everyone, including people with diabetes, should aim to practice good oral hygiene as outlined in the figure below. </li> </ul> <div class=\"image-wrapper\"> <img src=\"assets/pmcd/c7-p2-fig-01.png\" /> </div>\n"
+      }
+    },
+    {
+      "id": "pmcd_casestudy",
+      "component": "CaseComponent",
+      "content": {
+        "title": "Ahmed",
+        "intro": {
+          "history": " <ul> <li> 74-year-old man with type 2 diabetes, diagnosed 10 years prior </li> <li> Retired, lives with his wife with whom he walks approx. 2 miles daily </li> <li> Attends clinic for his annual diabetes review. Ahmed has consistently not achieved his glycaemic target at reviews over the past 2 years, despite increasing doses of NPH insulin </li> <li> Ahmed reports struggling to follow a healthy diet and typically eats a lot of refined carbohydrates </li> <li> Ahmed reports frequently forgetting his medications or taking them late </li> <li> Family history <ul> <li> Father diagnosed with type 2 diabetes aged 61 </li> </ul> </li> </ul>",
+          "medication": "<h3>Current medication and targets</h3> <ul> <li> Metformin 2,000 mg/day </li> <li> Gliclazide 160 mg/day </li> <li> NPH insulin 22 units/day </li> <li> Glycaemic target: FPG <7.0 mmol/l (126 mg/dl) </li> </ul>",
+          "chemistry": "<h3>Clinical chemistry</h3> <ul> <li> FPG: 8.4 mmol/l (151 mg/dl) </li> <li> HbA1c: 8.5% (69 mmol/mol) </li> <li> LDL-cholesterol: 3.0 mmol/l (116 mg/dl) </li> <li> HDL-cholesterol: 1.3 mmol/l (50 mg/dl) </li> <li> Triglycerides: 2.3 mmol/l (204 mg/dl) </li> <li> BP: 136/79 mmHg </li> <li> Waist circumference: 95 cm </li> <li> Height: 172 cm </li> <li> Weight: 86 kg </li> <li> BMI: 29.1 kg/m<sup>2</sup> </li> </ul>"
+        },
+        "nextRef": "../../pmcd_c1",
+        "questions": [
+          {
+            "id": "pmcd_casestudy_1",
+            "question": "<p>You discuss with Ahmed strategies to help him to achieve healthier eating habits. You also discuss the importance of taking his medications as prescribed to keep his blood glucose under control, and to support his overall health.</p><p>Ahmed’s blood pressure is 136/79 mmHg. His cholesterol levels are as follows: LDL-cholesterol: 4.75 mmol/l (184 mg/dl); HDL-cholesterol: 1.65 mmol/l (64 mg/dl); Triglycerides: 2.3 mmol/l (204 mg/dl).</p> <p>Which of Ahmed’s test results are not in the optimal or near normal ranges?</p>",
+            "correct": "3",
+            "answers": [
+              {
+                "id": "1",
+                "answer": "All of Ahmed’s test results are in the optimal/near normal range",
+                "response": "This is incorrect. One of more of Ahmed’s test results are not in the optimal/near normal range. <br/><strong>Go back and try again.</strong>"
+              },
+              {
+                "id": "2",
+                "answer": "None of Ahmed’s test results are in the optimal/near normal range",
+                "response": "This is incorrect. One of more of Ahmed’s test results is in the optimal/near normal range. <br/><strong>Go back and try again.</strong>"
+              },
+              {
+                "id": "3",
+                "answer": "LDL-cholesterol is out of target range",
+                "response": "This is correct. Ahmed’s LDL-cholesterol level is elevated. <br/><strong>Continue to the next question.</strong>"
+              },
+              {
+                "id": "4",
+                "answer": "HDL-cholesterol is out of target range",
+                "response": "This is incorrect. Ahmed’s HDL-cholesterol is in the optimal range.  <br/><strong>Go back and try again.</strong>"
+              }
+            ],
+            "title": "Assessing cardiovascular risk"
+          },
+          {
+            "id": "pmcd_casestudy_2",
+            "question": "<p>You note that Ahmed is not on a statin. What would you do next?</p>",
+            "correct": "2",
+            "answers": [
+              {
+                "id": "1",
+                "answer": "Nothing, Ahmed's cardiovascular risk factors are under control",
+                "response": "This is incorrect. The WHO recommend that all adults with diabetes aged ≥40 are treated with a statin provided that this does not affect their ability to access glycaemic lowering medications. <br/><strong>Go back and try again.</strong>"
+              },
+              {
+                "id": "2",
+                "answer": "Refer Ahmed to a clinician who can prescribe a statin",
+                "response": "This is correct. Even though most of Ahmed’s cardiovascular risk factors are under control, the WHO recommend that all adults with diabetes aged ≥40 are treated with a statin provided that this does not affect their ability to access glycaemic lowering medications. <br/><strong>Continue to the next question.</strong>"
+              }
+            ],
+            "title": "Assessing cardiovascular risk"
+          },
+          {
+            "id": "pmcd_casestudy_3",
+            "question": "<p>After reviewing Ahmed’s screening history, you note that he had a foot screening 6 months ago. There was no loss of protective sensation. He had build-up of callus but no other risk factors. How would you categorize Ahmed’s risk level, and how often should his feet be screened going forward?</p>",
+            "correct": "1",
+            "answers": [
+              {
+                "id": "1",
+                "answer": "Low risk – every 12 months",
+                "response": "This is correct. No risk factors other than callus indicate low risk. People with low risk of developing diabetic foot problems should have their feet screened every 12 months. <br/><strong>Continue to the next question.</strong>"
+              },
+              {
+                "id": "2",
+                "answer": "Moderate risk – every 3–6 months",
+                "response": "This is incorrect. Ahmed’s screening history does not indicate moderate risk of diabetic foot problems. <br/><strong>Go back and try again.</strong>"
+              },
+              {
+                "id": "3",
+                "answer": "High risk – every 1–3 months",
+                "response": "This is incorrect. Ahmed’s screening history does not indicate high risk of diabetic foot problems. <br/><strong>Go back and try again.</strong>"
+              },
+              {
+                "id": "4",
+                "answer": "Active foot problem – urgent referral",
+                "response": "This is incorrect. Ahmed’s screening history does not indicate an active diabetic foot problem. <br/><strong>Go back and try again.</strong>"
+              }
+            ],
+            "title": "Diabetic foot screening"
+          },
+          {
+            "id": "pmcd_casestudy_4",
+            "question": "<p>Ahmed last had a diabetic eye screening 3 years ago. Ahmed reports that he visited his optometrist for an eye and vision check 3 months ago so he doesn’t need to be referred for diabetic eye screening at this time. Is this correct?</p>",
+            "correct": "2",
+            "answers": [
+              {
+                "id": "1",
+                "answer": "Yes, the optometrist would have flagged any diabetic retinopathy if present.",
+                "response": "This is incorrect. Regular eye tests cannot detect diabetic retinopathy. Everyone with diabetes should attend regular eye screening. <br/><strong>Go back and try again.</strong>"
+              },
+              {
+                "id": "2",
+                "answer": "No, regular eye tests cannot detect diabetic retinopathy. Ahmed needs to attend diabetic eye screening at least every 2 years.",
+                "response": "This is correct. Regular eye tests cannot detect diabetic retinopathy. Everyone with diabetes should attend eye screening every 1–2 years. <br/><strong>Continue to the next question.</strong>"
+              },
+              {
+                "id": "3",
+                "answer": "No, regular eye tests cannot detect diabetic retinopathy. Ahmed needs to attend regular diabetic eye screening every 6 months.",
+                "response": "This is incorrect. Unless past screening has revealed diabetic retinopathy, less frequent screening is sufficient. <br/><strong>Go back and try again.</strong>"
+              }
+            ],
+            "title": "Screening for diabetic retinopathy"
+          },
+          {
+            "id": "pmcd_casestudy_5",
+            "question": "<p>Ahmed attends his diabetic eye screening appointment. His results indicate that he does not have any retinopathy at this time. You remind Ahmed of the importance of still attending regular screening in the future to detect any changes early.</p> <p>Ahmed last had a kidney screening 18 months ago. Does he need to have his kidney functioned checked at this time?</p>",
+            "correct": "1",
+            "answers": [
+              {
+                "id": "1",
+                "answer": "Yes",
+                "response": "This is correct. People with diabetes should have their kidney function checked at least once per year, so Ahmed’s screening is overdue. <br/><strong>Continue to the next question.</strong>"
+              },
+              {
+                "id": "2",
+                "answer": "No",
+                "response": "This is incorrect. People with diabetes should have their kidney function checked at least once per year so Ahmed’s screening is overdue. <br/><strong>Go back and try again.</strong>"
+              }
+            ],
+            "title": "Results of eye screen and need for kidney screen"
+          },
+          {
+            "id": "pmcd_casestudy_6",
+            "question": "Ahmed has been diagnosed with diabetic nephropathy. He has been prescribed a statin and ACE inhibitor and referred to specialist care. Can anything else be done to support Ahmed and reduce his risk of kidney disease progression?",
+            "correct": "3",
+            "answers": [
+              {
+                "id": "1",
+                "answer": "No, Ahmed’s care will be handled in specialist care",
+                "response": "This is not correct. Although Ahmed will be treated by a specialist, you can continue to support him to reduce his risk of kidney disease progression. <br/><strong>Go back and try again.</strong>"
+              },
+              {
+                "id": "2",
+                "answer": "No, medications are the most effective way to reduce disease progression",
+                "response": "This is not correct. Appropriate medications are important, but other strategies can be implemented to further reduce risk of kidney disease progression. <br/><strong>Go back and try again.</strong>"
+              },
+              {
+                "id": "3",
+                "answer": "Work with Ahmed to improve his glycaemic management and reduce his risk factors",
+                "response": "This is correct. Good glycaemic management and addressing modifiable risk factors such as dyslipidaemia, smoking, overweight and/or obesity will reduce the risk of disease progression. <br/><strong>Please continue.</strong>"
+              }
+            ],
+            "title": "Managing diabetic nephropathy"
+          }
+        ],
+        "summary": {
+          "intro": " <ul> <li>Ahmed is working with his wife to take his medication on time and as prescribed. His insulin dose has been increased to 25 units/day. As a result, his blood glucose levels have improved. He reports taking his statin and ACE inhibitor as prescribed.</li> <li> Ahmed’s weight has increased slightly with his increased dose of insulin. This will be monitored, and HCPs will work with Ahmed to minimize his weight gain. </li> <li>Ahmed is also seeing a specialist for management of diabetic nephropathy. Hyperglycaemia and overweight are Ahmed’s main modifiable risk factors for diabetic kidney disease, which will be carefully monitored going forward. </li> </li> </ul>",
+          "medication": "<h3>Current medication and targets</h3> <ul> <li> Metformin 2,000 mg/day </li> <li> Gliclazide 160 mg/day </li> <li> NPH insulin 25 units/day </li> <li> Simvastatin 20 mg/day </li> <li> Enalapril 20 mg/day </li> <li> Glycaemic target: FPG <7.0 mmol/l (126 mg/dl) </li> </ul>",
+          "chemistry": "<h3>Clinical chemistry</h3> <ul> <li> FPG: 7.1 mmol/l (128 mg/dl) </li> <li> HbA1c: 7.3% (56 mmol/mol) </li> <li> LDL-cholesterol: 2.9 mmol/l (112 mg/dl) </li> <li> HDL-cholesterol: 1.5 mmol/l (58 mg/dl) </li> <li> Triglycerides: 1.8 mmol/l (159 mg/dl) </li> <li> BP: 131/73 mmHg </li> <li> Waist circumference: 97 cm </li> <li> Height: 172 cm </li> <li> Weight: 88 kg </li> <li> BMI: 29.7 kg/m<sup>2</sup> </li> </ul>"
+        },
+        "cardTitle": "Say hello Tia",
+        "image": "assets/pmcd/maxi-case-ahmed.jpg",
+        "subTitle": "A 74-year-old man"
+      }
+    },
+    {
+      "id": "pmcd__tyk",
+      "component": "MCQComponent",
+      "content": {
+        "title": "Test your knowledge",
+        "intro": "",
+        "nextRef": "",
+        "questions": [
+          {
+            "id": "pmcd_tyk_1",
+            "question": "Which of the following statements about diabetes and cardiovascular risk is correct?",
+            "correct": "3",
+            "answers": [
+              {
+                "id": "1",
+                "answer": "Diabetes is not associated with increased risk for cardiovascular disease."
+              },
+              {
+                "id": "2",
+                "answer": "Hyperglycaemia, but not hypoglycaemia, is associated with increased risk of cardiovascular disease."
+              },
+              {
+                "id": "3",
+                "answer": "Hyperglycaemia and hypoglycaemia are both associated with increased risk of cardiovascular disease."
+              },
+              {
+                "id": "4",
+                "answer": "The most common modifiable risk factor for cardiovascular disease in people with diabetes is dyslipidaemia."
+              },
+              {
+                "id": "5",
+                "answer": "Approximately 25% of deaths of people with diabetes are attributable to cardiovascular disease."
+              }
+            ]
+          },
+          {
+            "id": "pmcd_tyk_2",
+            "question": "Which of the following is considered a macrovascular complication of diabetes?",
+            "correct": "4",
+            "answers": [
+              {
+                "id": "1",
+                "answer": "Retinopathy"
+              },
+              {
+                "id": "2",
+                "answer": "Peripheral neuropathy"
+              },
+              {
+                "id": "3",
+                "answer": "Kidney disease"
+              },
+              {
+                "id": "4",
+                "answer": "Cardiovascular disease"
+              },
+              {
+                "id": "5",
+                "answer": "Foot ulceration"
+              }
+            ]
+          },
+          {
+            "id": "pmcd_tyk_3",
+            "question": "Which of the following blood pressure measurements indicates hypertension if detected on more than two occasions?",
+            "correct": "1",
+            "answers": [
+              {
+                "id": "1",
+                "answer": "125/87 mmHg"
+              },
+              {
+                "id": "2",
+                "answer": "112/65 mmHg"
+              },
+              {
+                "id": "3",
+                "answer": "128/79 mmHg"
+              },
+              {
+                "id": "4",
+                "answer": "105/75 mmHg"
+              },
+              {
+                "id": "5",
+                "answer": "80/60 mmHg"
+              }
+            ]
+          },
+          {
+            "id": "pmcd_tyk_4",
+            "question": "How often should an individual with diabetes and no known eye disease have their eyes screened?",
+            "correct": "3",
+            "answers": [
+              {
+                "id": "1",
+                "answer": "Every 3 months"
+              },
+              {
+                "id": "2",
+                "answer": "Every 6 months"
+              },
+              {
+                "id": "3",
+                "answer": "Every 1–2 years"
+              },
+              {
+                "id": "4",
+                "answer": "Every 5 years"
+              },
+              {
+                "id": "5",
+                "answer": "Only when symptoms arise"
+              }
+            ]
+          },
+          {
+            "id": "pmcd_tyk_5",
+            "question": "How often should an individual with low risk of ulceration have a routine foot screening?",
+            "correct": "3",
+            "answers": [
+              {
+                "id": "1",
+                "answer": "Every 3 months"
+              },
+              {
+                "id": "2",
+                "answer": "Every 6 months"
+              },
+              {
+                "id": "3",
+                "answer": "Every year"
+              },
+              {
+                "id": "4",
+                "answer": "Every 2 years"
+              },
+              {
+                "id": "5",
+                "answer": "Only when symptomatic "
+              }
+            ]
+          }
+        ],
+        "summary": "<p> In this chapter, we discussed the major complications associated with diabetes, how often people with diabetes should be screened for these, and how to manage individuals diagnosed with a complication of diabetes. </p> <ol> <li> Diabetes is associated with a significantly greater risk of cardiovascular disease; both hyper- and hypoglycaemia have been linked to increased risk of cardiovascular disease. Diabetes and cardiovascular disease have many shared risk factors including dyslipidaemia. However, hypertension is the most common modifiable risk factor for cardiovascular disease. Approximately half of deaths of individuals with diabetes are attributable to cardiovascular disease. </li> <li> Cardiovascular disease is considered a macrovascular complication of diabetes. Retinopathy, peripheral neuropathy and nephropathy are microvascular complications, and foot ulcerations are associated with peripheral neuropathy. </li> <li> Hypertension treatment is indicated in people with diabetes when systolic blood pressure ≥130 mmHg or diastolic blood pressure ≥80 mmHg. </li> <li> People with diabetes should be screened regularly to assess kidney function. Individuals with an eGFR of <60 ml/min/1.73 m<sup>2</sup> can be diagnosed with diabetic kidney disease if this is recorded on at least two occasions, 1–3 months apart. </li> <li> People with diabetes should undergo annual foot screening, with more regular screening for people at high risk of ulceration. </li> </ol>"
+      }
+    },
+    {
+      "id": "pmcd_factsheet",
+      "component": "FactsheetComponent",
+      "content": {
+        "title": "Screening for kidney disease in people with diabetes",
+        "image": "/assets/pmcd/factsheet.jpg",
+        "url": "/assets/factsheets/screening-for-kidney-disease-in-people-with-diabetes.pdf"
+      }
+    }
+  ]
+}

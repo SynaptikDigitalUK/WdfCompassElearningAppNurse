@@ -1,0 +1,30 @@
+@use "./../helpers/variables" as var;
+
+.container-references-content {
+ 
+  .reference {
+    // border-bottom: 1px solid var.$wdf-light-grey;
+    padding-bottom: 10px;
+    margin-bottom: 20px;
+
+   a {
+      overflow-wrap: break-word;
+      word-wrap: break-word;
+      // word-break: break-all; 
+    }
+  }
+
+  .mentions {
+    display: inline-block;
+    color: var.$wdf-dark-red;
+    font-size: 14px;
+    .mention {
+      margin-left: 5px;
+      &:not(:last-child) {
+        &:after {
+          content: ",";
+        }
+      }
+    }
+  }
+}

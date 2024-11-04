@@ -1,0 +1,256 @@
+
+@use '../helpers/variables' as var;
+@use 'node_modules/bootstrap/scss/bootstrap' as bs;
+
+
+
+
+/* Webfont: Lato-Bold */
+@font-face {
+  font-family: 'LatoWebBold';
+  src: url('/assets/fonts/lato/Lato-Bold.eot'); /* IE9 Compat Modes */
+  src: url('/assets/fonts/lato/Lato-Bold.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('/assets/fonts/lato/Lato-Bold.woff2') format('woff2'), /* Modern Browsers */
+       url('/assets/fonts/lato/Lato-Bold.woff') format('woff'), /* Modern Browsers */
+       url('/assets/fonts/lato/Lato-Bold.ttf') format('truetype');
+  font-style: normal;
+  font-weight: normal;
+  text-rendering: optimizeLegibility;
+}
+
+/* Webfont: Lato-BoldItalic */
+@font-face {
+  font-family: 'LatoWebBold';
+  src: url('/assets/fonts/lato/Lato-BoldItalic.eot'); /* IE9 Compat Modes */
+  src: url('/assets/fonts/lato/Lato-BoldItalic.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('/assets/fonts/lato/Lato-BoldItalic.woff2') format('woff2'), /* Modern Browsers */
+       url('/assets/fonts/lato/Lato-BoldItalic.woff') format('woff'), /* Modern Browsers */
+       url('/assets/fonts/lato/Lato-BoldItalic.ttf') format('truetype');
+  font-style: italic;
+  font-weight: normal;
+  text-rendering: optimizeLegibility;
+}
+
+/* Webfont: Lato-Medium */
+@font-face {
+  font-family: 'LatoWebMedium';
+  src: url('/assets/fonts/lato/Lato-Medium.eot'); /* IE9 Compat Modes */
+  src: url('/assets/fonts/lato/Lato-Medium.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('/assets/fonts/lato/Lato-Medium.woff2') format('woff2'), /* Modern Browsers */
+       url('/assets/fonts/lato/Lato-Medium.woff') format('woff'), /* Modern Browsers */
+       url('/assets/fonts/lato/Lato-Medium.ttf') format('truetype');
+  font-style: normal;
+  font-weight: normal;
+  text-rendering: optimizeLegibility;
+}
+
+/* Webfont: Lato-MediumItalic */
+@font-face {
+  font-family: 'LatoWebMedium';
+  src: url('/assets/fonts/lato/Lato-MediumItalic.eot'); /* IE9 Compat Modes */
+  src: url('/assets/fonts/lato/Lato-MediumItalic.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('/assets/fonts/lato/Lato-MediumItalic.woff2') format('woff2'), /* Modern Browsers */
+       url('/assets/fonts/lato/Lato-MediumItalic.woff') format('woff'), /* Modern Browsers */
+       url('/assets/fonts/lato/Lato-MediumItalic.ttf') format('truetype');
+  font-style: italic;
+  font-weight: normal;
+  text-rendering: optimizeLegibility;
+}
+
+
+/* Webfont: Lato-Regular */
+@font-face {
+  font-family: 'LatoWeb';
+  src: url('/assets/fonts/lato/Lato-Regular.eot'); /* IE9 Compat Modes */
+  src: url('/assets/fonts/lato/Lato-Regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('/assets/fonts/lato/Lato-Regular.woff2') format('woff2'), /* Modern Browsers */
+       url('/assets/fonts/lato/Lato-Regular.woff') format('woff'), /* Modern Browsers */
+       url('/assets/fonts/lato/Lato-Regular.ttf') format('truetype');
+  font-style: normal;
+  font-weight: normal;
+  text-rendering: optimizeLegibility;
+}
+
+/* Webfont: Lato-Italic */
+@font-face {
+  font-family: 'LatoWeb';
+  src: url('/assets/fonts/lato/Lato-Italic.eot'); /* IE9 Compat Modes */
+  src: url('/assets/fonts/lato/Lato-Italic.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('/assets/fonts/lato/Lato-Italic.woff2') format('woff2'), /* Modern Browsers */
+       url('/assets/fonts/lato/Lato-Italic.woff') format('woff'), /* Modern Browsers */
+       url('/assets/fonts/lato/Lato-Italic.ttf') format('truetype');
+  font-style: italic;
+  font-weight: normal;
+  text-rendering: optimizeLegibility;
+}
+
+
+
+$body-font: 'LatoWeb', sans-serif;
+$headline-font: 'LatoWeb', sans-serif;
+
+
+
+
+
+
+
+
+
+
+
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: $headline-font;
+}
+
+
+
+// DESKTOP
+h1 {
+  font-size: 36px;
+  // line-height: normal;
+  line-height: 46px;
+  font-family: 'LatoWebBold';
+  margin-bottom: 40px;
+
+  @include bs.media-breakpoint-down(xl) {
+    font-size: 36px;
+    // line-height: 52px;
+  }
+
+  @include bs.media-breakpoint-down(sm) { 
+    // font-size: 34px;
+    font-size: 23px;
+    line-height: normal;
+    margin-bottom: 20px;
+   }
+}
+
+h2 {
+  font-size: 24px;
+  line-height: normal;
+  font-family: 'LatoWebBold';
+
+  @include bs.media-breakpoint-down(xl) {
+    font-size: 23px;
+    line-height: normal;
+  }
+}
+
+h3 {
+  // font-size: 23px;
+  font-size: 18px;
+  line-height: 24px;
+  font-family: 'LatoWebBold';
+
+
+  @include bs.media-breakpoint-down(xl) {
+    font-size: 18px;
+    line-height: 24px;
+  }
+  @include bs.media-breakpoint-down(sm) { 
+    // color: red;
+    font-size: 16px;
+    line-height: 22px;
+   }
+}
+
+h4 {
+  font-size: 16px;
+  line-height: normal;
+  margin: 0;
+  font-family: 'LatoWebMedium';
+
+  @include bs.media-breakpoint-down(xl) {
+    font-size: 16px;
+    line-height: 20px;
+  }
+
+  @include bs.media-breakpoint-down(sm) { 
+    font-size: 14px;
+    line-height: 23px;
+   }
+}
+
+h5 {
+  font-size: 14px;
+  line-height: normal;
+  font-family: 'LatoWebMedium';
+
+  @include bs.media-breakpoint-down(sm) { 
+    font-size: 12px;
+    line-height: normal;
+    font-family: 'LatoWeb';
+   }
+}
+
+h6 {
+  font-size: 9px;
+  line-height: normal;
+  font-family: 'LatoWebBold';
+}
+
+p, ul, ol, .quiz h4 {
+  // font-size: 14px;
+  // line-height: 24px;
+  // font-size: 16px;
+  // line-height: 26px;
+  font-size: 18px;
+  line-height: 28px;
+
+  @include bs.media-breakpoint-down(xl) {
+    // font-size: 22px;
+    // line-height: 36px;
+  }
+
+  @include bs.media-breakpoint-down(sm) { 
+    // font-size: 18px;
+    // line-height: 31px;
+    // font-size: 18px;
+    // line-height: 28px;
+   }
+}
+
+.tagline-text {
+  font-size: 16px;
+  line-height: normal;
+  text-transform: uppercase;
+
+  font-family: 'LatoWebBold';
+  &.headline {
+    color: var.$wdf-dark-red;
+    margin-bottom: 20px;
+  }
+
+
+  @include bs.media-breakpoint-down(sm) { 
+    font-size: 10px;
+    line-height: normal;
+   }
+}
+
+.footer-nav-text {
+  font-size: 12px;
+  line-height: 18px;
+  text-transform: uppercase;
+
+  font-family: 'LatoWebBold';
+  margin-bottom: 0;
+
+
+  @include bs.media-breakpoint-down(sm) { 
+    // font-size: 10px;
+    // line-height: normal;
+   }
+}
+
+
+strong, b {
+  font-family: 'LatoWebBold';
+}
+
+a {
+  text-decoration: none;
+  color: var.$wdf-dark-blue;
+}

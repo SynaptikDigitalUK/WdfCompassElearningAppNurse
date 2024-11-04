@@ -1,0 +1,46 @@
+
+@use './../helpers/variables' as var;
+@use './../../../node_modules/bootstrap/scss/bootstrap.scss' as bs;
+
+
+
+
+.image-wrapper {
+    width: 100%;
+    height: auto;
+
+    padding: 20px;
+    border: 1px solid var.$wdf-light-blue;
+    border-radius: 4px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+  
+    
+    //placeholder background image - to emulate the asset loading
+    background: url('/assets/loading-asset.svg') no-repeat center center;
+    background-size:150px 50px;
+    min-height: 10rem;
+
+    img {
+      width: 100%;
+      height: 100%;
+    }
+    @include bs.media-breakpoint-down(sm) { 
+      margin-top: 30px;
+      margin-bottom: 30px;
+    } 
+  }
+  
+  .image-wrapper-case-study {
+    width: 100%;
+    height: auto;
+    margin: 40px auto;
+
+  
+    img {
+      width: 100%;
+      height: 100%;
+      border-radius: 2px;
+      box-shadow: bs.$box-shadow-sm;
+    }
+  }

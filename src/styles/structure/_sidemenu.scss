@@ -1,0 +1,234 @@
+@use './../helpers/variables' as var;
+
+@use './../../../node_modules/bootstrap/scss/bootstrap.scss' as bs;
+
+
+.sidemenu {
+  padding: 20px;
+
+  width: 40% !important;
+
+  @include bs.media-breakpoint-down(xl) { 
+    width: 50% !important;
+   }
+
+   @include bs.media-breakpoint-down(md) { 
+    width: 75% !important;
+   }
+
+  @include bs.media-breakpoint-down(sm) { 
+    width: 100% !important;
+   }
+  
+  .offcanvas-body{
+    padding: 0;
+  }
+
+  .sidemenu-content {
+    position: relative;
+    text-align: left;
+
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    // padding: 20px;
+
+    .btn-close {
+      padding: 0;
+      width: 30px;
+      height: 30px;
+      display: block;
+      margin-bottom: 20px;
+      opacity: 1;
+
+      img {
+        width: 30px;
+        height: 30px;
+        @include bs.media-breakpoint-down(sm) { 
+          // width: 20px;
+          // height: 20px;
+         }
+      }
+    }
+
+    .tagline-text {
+      margin: 0;
+    }
+
+
+    .references a, 
+    .terms a,
+    .help a,
+    .home a {
+      width: 100%;
+      color: var.$body-color;
+      text-decoration: none;
+      text-transform: uppercase;
+      display: flex;
+      padding: 30px 20px 10px 0;
+      border-bottom: 1px solid var.$wdf-light-blue;
+
+      font-size: 16px;
+      line-height: normal;
+      margin: 0;
+      font-family: 'LatoWebMedium';
+    
+      @include bs.media-breakpoint-down(xl) {
+        font-size: 16px;
+        line-height: 20px;
+      }
+    
+      @include bs.media-breakpoint-down(sm) { 
+        font-size: 14px;
+        line-height: 23px;
+       }
+
+       &:before {
+        content: ' ';
+        background: url('/assets/chevron-right.svg') no-repeat;
+        background-size: 8px auto;
+        width: 12px;
+        height: 12px;
+        background-position: center;
+        margin-right: 10px;
+        display: flex;
+        margin-top: 3px;
+        transition: transform .25s ease-in-out;
+        -webkit-transition: transform .25s ease-in-out;
+        -moz-transition: transform .25s ease-in-out;
+      }
+
+
+    }
+
+
+    .nav-wrapper {
+
+      
+      .btn-toggle {
+        width: 100%;
+        border-radius: 0;
+      }
+      > .item-wrapper {
+
+        > .btn {
+          text-transform: uppercase;
+          padding: 30px 20px 10px 0;
+          // padding-top: 30px;
+          // padding-bottom: 10px;
+          border-top: 0;
+          border-left: 0;
+          border-right: 0;
+
+          border-bottom: 1px solid var.$wdf-light-blue;
+
+          h4 {
+            display: flex;
+          }
+
+            h4:before {
+              content: ' ';
+              background: url('/assets/chevron-right.svg') no-repeat;
+              background-size: 8px auto;
+              width: 12px;
+              height: 12px;
+              background-position: center;
+              margin-right: 10px;
+              display: flex;
+              margin-top: 3px;
+              transition: transform .25s ease-in-out;
+              -webkit-transition: transform .25s ease-in-out;
+              -moz-transition: transform .25s ease-in-out;
+            }
+            &[aria-expanded="true"] h4:before {
+              // content: ' ';
+              // background: url('/assets/chevron-right.svg') no-repeat;
+              // background-size: 8px auto;
+              // width: 12px;
+              // height: 12px;
+              // background-position: center;
+              // margin-right: 10px;
+              // display: flex;
+              // margin-top: 3px;
+              transform: rotate(90deg);
+            }
+          
+        }
+      }
+
+    }
+
+    .item-wrapper ul {
+      padding-left: 0;
+    }
+  
+    .item-wrapper
+    .item-wrapper {
+      list-style-type: none;
+        padding: 0;
+        border-radius: 0;
+        > .btn {
+          padding: 10px 32px 10px 20px;
+        }
+        &:first-child > .btn {
+          padding-top: 20px;
+        }
+  
+    }
+
+    .card-course-menu {
+      margin-bottom: 0;
+    }
+    
+    ul ul .item-wrapper .item-wrapper {
+
+
+    .nav-course-page {
+      font-size: 16px;
+      line-height: normal;
+      font-family: 'LatoWebMedium';
+    
+      @include bs.media-breakpoint-down(xl) {
+        font-size: 16px;
+        line-height: 20px;
+      }
+    
+      @include bs.media-breakpoint-down(sm) { 
+        font-size: 14px;
+        line-height: 23px;
+       }
+      padding: 5px 5px 5px 0;
+      text-decoration: none;
+      margin-left: 20px;
+      color: var.$wdf-dark-blue;
+      font-style: italic;
+    }
+
+    &:first-child a {
+      padding-top: 10px;
+    }
+    &:last-child a {
+      padding-bottom: 10px;
+      border-bottom: 1px solid var.$wdf-light-grey;
+    }
+
+ 
+
+    }
+
+  }
+
+  footer{
+    display: flex;
+    color:var.$wdf-light-blue;
+    // position: absolute;
+    // bottom: 0;
+    width: 100%;
+    font-size: 12px;
+    text-align: center;
+    
+    justify-content: center;
+  
+  }
+}
+

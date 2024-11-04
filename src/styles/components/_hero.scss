@@ -1,0 +1,103 @@
+
+@use './../helpers/variables' as var;
+@use './../helpers/mixins' as mix;
+
+@use './../../../node_modules/bootstrap/scss/bootstrap.scss' as bs;
+
+
+
+
+.logo-wrapper{
+  background-color: #eeede9de;
+  padding: 20px 46px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 10%);
+
+
+  @include bs.media-breakpoint-down(sm) {
+    padding: 15px;
+  }
+
+
+    }
+
+.hero-homepage {
+  display: flex;
+  flex-direction: column;
+  background-size: cover;
+  background-position: center top;
+  background-repeat: no-repeat;
+  align-items: flex-start;
+  padding: 32px;
+  height: 767px;
+
+
+  @include bs.media-breakpoint-down(xl) { 
+    height: 587px;
+  }
+
+
+  @include bs.media-breakpoint-down(sm) {
+    padding: 20px;
+    height: 264px;
+  }
+  
+
+ 
+
+
+  .logo img {
+    width: auto;
+    height: 40px;
+    @include bs.media-breakpoint-down(sm) {
+      width: auto;
+      height: 24px;
+    }
+  }
+
+  .title-wrapper {
+    margin-top: 264px;
+    font-family: 'LatoWebBold';
+    color: var.$wdf-white;
+    margin-bottom: 40px;
+
+
+    @include bs.media-breakpoint-down(xl) { 
+      margin-top: 170px;
+    }
+  
+    @include bs.media-breakpoint-down(sm) {
+      margin-bottom: 12px; 
+      margin-top: 84px;
+    }
+
+    .title {
+      font-size: 56px;
+      line-height: 56px;
+      margin-bottom: 24px;
+      @include mix.text-shadow;
+
+      @include bs.media-breakpoint-down(sm) {
+        font-size: 33px;
+        line-height: 33px;
+        margin-bottom: 12px;
+      }
+    }
+    .sub-title {
+      font-size: 24px;
+      line-height: 24px;
+      text-transform: uppercase;
+      margin-bottom: 0;
+      @include mix.text-shadow;
+
+      @include bs.media-breakpoint-down(sm) {
+        font-size: 10px;
+        line-height: 10px;
+        line-height: normal;
+      }
+    }
+  }
+}
