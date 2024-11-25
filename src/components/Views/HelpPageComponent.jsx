@@ -35,14 +35,14 @@ export default function HelpPageComponent() {
             <ol>
               <li>Open the site in Chrome <i><img className='fa-icon' src="/assets/chrome.svg"/></i></li>
               <li>Tap on the menu icon in the browser <i><img className='fa-icon' src="/assets/android-menu-icon.svg"/></i></li>
-              <li>Tap <strong>Install app</strong> or <strong>Add to homescreen</strong></li>
+              <li>Tap <strong>Install app</strong> or <strong>Add to Home Screen</strong></li>
               <li>Follow on-screen instructions<br />
               <strong> Important:</strong> before opening the installed version, please close the browser version</li>
             </ol>
 
             <p><strong>Uninstall</strong></p>
             <ol>
-              <li>Press and hold the app icon on your home home screen</li>
+              <li>Press and hold the app icon on your home screen</li>
               <li>Select <strong>Uninstall</strong> </li>
               <li>Follow on screen instructions</li>
             </ol>
